@@ -1,0 +1,688 @@
+
+===== p.1 =====
+Vote de confiance, perspectives politiques
+et soutien à la mobilisation du 10 septembre
+Sondage réalisé avec
+pour
+LEVÉE D’EMBARGO : JEUDI 4 SEPTEMBRE 2025 A 17H00
+
+===== p.2 =====
+Méthodologie
+Recueil
+Echantillon
+Enquête réalisée auprès d’un échantillon de Français interrogés par internet les 3 et 4 septembre 2025.
+Echantillon de 1 005 Français représentatif de la population française âgée de 18 ans et plus. 
+La représentativité de l’échantillon est assurée par la méthode des quotas appliqués aux variables suivantes :
+sexe, âge et profession de l’interviewé après stratification par région et catégorie d’agglomération.
+
+===== p.3 =====
+Précisions sur les marges d’erreur
+Si le pourcentage observé est de …
+Taille de l’Echantillon
+5% ou 95%
+10% ou 90%
+20% ou 80%
+30% ou 70%
+40% ou 60%
+50%
+100
+4,4
+6,0
+8,0
+9,2
+9,8
+10,0
+200
+3,1
+4,2
+5,7
+6,5
+6,9
+7,1
+300
+2,5
+3,5
+4,6
+5,3
+5,7
+5,8
+400
+2,2
+3,0
+4,0
+4,6
+4,9
+5,0
+500
+1,9
+2,7
+3,6
+4,1
+4,4
+4,5
+600
+1,8
+2,4
+3,3
+3,7
+4,0
+4,1
+800
+1,5
+2,5
+2,8
+3,2
+3,5
+3,5
+900
+1,4
+2,0
+2,6
+3,0
+3,2
+3,3
+1 000
+1,4
+1,8
+2,5
+2,8
+3,0
+3,1
+2 000
+1,0
+1,3
+1,8
+2,1
+2,2
+2,2
+3 000
+0,8
+1,1
+1,4
+1,6
+1,8
+1,8
+Chaque sondage présente une incertitude statistique que l’on appelle marge d’erreur. Cette marge d’erreur signifie que le résultat d’un 
+sondage se situe, avec un niveau de confiance de 95%, de part et d’autre de la valeur observée. La marge d’erreur dépend de la taille de 
+l’échantillon ainsi que du pourcentage observé.
+Lecture du tableau : Dans un échantillon de 1000 personnes, si le pourcentage observé est de 20% la marge d’erreur est égale à 2,5 points : le pourcentage réel est donc 
+compris dans l’intervalle [17,5 ; 22,5]. 
+
+===== p.4 =====
+Principaux enseignements
+Céline Bracq, directrice générale d’Odoxa
+64% des Français sont favorables à la démission d’Emmanuel Macron
+Alors que le pays traverse une crise politique majeure, notre dernier sondage montre une rupture profonde entre les Français et l’exécutif. 
+La défiance atteint un niveau inédit, et les scénarios de sortie de crise plébiscités par l’opinion ne laissent guère de marge de manœuvre au 
+Président. 
+• 76 % des Français refuseraient d’accorder leur confiance à François Bayrou, un chiffre en hausse de 3 points en une semaine. Le rejet est 
+massif et transpartisan, y compris chez les sympathisants LR (66 %, +12 pts). 
+• 56 % des Français souhaitent une dissolution de l’Assemblée et de nouvelles élections, contre 42 % qui préfèrent la nomination d’un 
+nouveau Premier ministre. 
+• Hypothèse jadis impensable, 64 % des Français demandent la démission d’Emmanuel Macron. C’est le plus haut niveau jamais enregistré 
+sur cette question.
+• Aucun des « Premiers-ministrables » testés ne convainc : tous sont rejetés par une majorité, souvent très large. Seul Jordan Bardella tire 
+son épingle du jeu, avec 36 % d’opinions favorables, soit deux fois plus que Lecornu. 
+• 56 % des Français soutiennent le mouvement « Bloquons tout », lancé après le vote de confiance, en réaction aux mesures Bayrou 
+(suppression de jours fériés, coupes dans la fonction publique…). Ce soutien est toutefois inférieur aux niveaux d’adhésion atteints lors 
+des précédents grands mouvements sociaux.
+Dans son analyse des réseaux sociaux, notre partenaire Véronique Reille-Soult de Backbone consulting observe que l’issue du vote du 8 septembre 
+semble inéluctable dans la grande majorité des messages. Les internautes sentent la France s’engager dans une voie sans issue qui suscite de 
+l’inquiétude (« Vers quoi va-t-on ? ») et de la colère et déplacent le débat sur la responsabilité d’Emmanuel Macron dans la crise actuelle : « après 
+Bayrou, c’est Macron qui doit tomber. »
+
+===== p.5 =====
+Synthèse détaillée du sondage
+(1/4)
+Céline Bracq, directrice générale d’Odoxa
+64% des Français sont favorables à la démission d’Emmanuel Macron
+1) La défiance s’amplifie : 76% des Français ne voteraient pas la confiance à François Bayrou (+3 points en une semaine)
+Dans notre dernier sondage, les Français nous disaient déjà, massivement, qu’à la place de leurs députés, ils refuseraient d’accorder leur 
+confiance à François Bayrou et à son gouvernement. Une semaine plus tard, malgré les efforts déployés par le Premier ministre pour 
+convaincre sur les plateaux télé que le destin du pays se jouait avec lui, la défiance s’est accentuée : 76 % voteraient désormais contre la 
+confiance, soit 3 points de plus que la semaine précédente. Seuls 24 % l’accorderaient.
+Et ce rejet est transpartisan. À l’exception des sympathisants Renaissance, dont le soutien progresse à 79 % (+8 points), tous les autres 
+électorats désavouent le Premier ministre. Même au sein de la droite traditionnelle, pourtant membre de la coalition, 66 % des sympathisants 
+LR voteraient non, soit une hausse spectaculaire de 12 points.
+Du côté des oppositions, le rejet est massif : 91 % au Rassemblement national (+3 points), 85 % chez les sympathisants LFI (+9 points), et 82 
+% au PS (+1 point). Le message adressé aux députés est limpide : les Français ne veulent pas de ce gouvernement.
+Jamais un Premier ministre de la Ve République n’avait suscité un tel rejet. Et ce record d’impopularité continue de s’aggraver, dans une 
+atmosphère qui évoque de plus en plus une fin de règne.
+2) Les Français veulent trancher dans les urnes, pas rejouer la même scène. 56% veulent une dissolution et de nouvelles législatives plutôt qu’un 
+nouveau gouvernement (42%)
+Si le gouvernement Bayrou devait tomber, Emmanuel Macron ne pourrait plus compter sur l’effet de surprise. Les Français ne veulent plus 
+d’un énième rebondissement à la manière Barnier ou Bayrou. En cas de rejet de la confiance par l’Assemblée nationale, une nette majorité 
+(56 %, +2 points par rapport à la semaine dernière) souhaite la dissolution de l’Assemblée et l’organisation de nouvelles élections législatives, 
+plutôt que la nomination d’un nouveau Premier ministre (42 %).
+
+===== p.6 =====
+Synthèse détaillée du sondage
+(2/4)
+Céline Bracq, directrice générale d’Odoxa
+La lassitude est palpable, même si une dissolution plongerait le pays dans une phase d’instabilité et d’incertitude. Nos concitoyens ont 
+désormais pleinement conscience du rapport de force politique à l’Assemblée, et du peu de chances qu’un simple remaniement modifie la 
+donne.
+Sans surprise, les sympathisants Renaissance (82 %) et LR (57 %) – les deux piliers de la majorité actuelle – privilégient la nomination d’une 
+nouvelle équipe. Mais ce choix est également partagé, de manière plus inattendue, par 64 % des sympathisants EELV et 52 % des socialistes, 
+pourtant farouchement opposés aux gouvernements successifs. Ils semblent redouter qu’une nouvelle élection n’affaiblisse encore davantage 
+leur camp.
+À l’inverse, les électeurs des partis les plus opposés à la majorité présidentielle veulent en découdre : 63 % des sympathisants LFI et 78 % de 
+ceux du RN réclament des législatives anticipées. Pour eux, l’heure du renversement du rapport de force est peut-être enfin venue.
+3) 64 % des Français souhaitent la démission d’Emmanuel Macron (+3 points, y compris 53 % des sympathisants LR)
+Jamais les Français n’avaient été aussi nombreux à envisager ce qui fut longtemps un tabou de la Ve République : la démission du chef de 
+l’État. Dans un contexte de crise politique majeure, où notre dernier baromètre de l’économie* enregistre un niveau de pessimisme 
+économique record imputé à la crise politique, 64 % des Français (+2 points par rapport à la semaine dernière) souhaitent désormais 
+qu’Emmanuel Macron quitte l’Élysée. Une sortie du Président comme issue à la crise ?
+Cette hypothèse, déjà testée à plusieurs reprises, n’avait jamais recueilli un tel soutien. Le chiffre progresse encore de 3 points depuis le 
+début de l’année, et de 10 points par rapport à la rentrée 2024.
+Le rejet est massif dans toutes les familles politiques à l’exception des fidèles de Renaissance, désormais très marginaux dans l’opinion -seuls 
+6 % des Français se réclament encore de ce courant- 81 % d’entre eux refusant l’idée d’une démission. En dehors de ce mini-noyau dur, le 
+divorce est consommé : 87 % des sympathisants RN, 85 % de LFI et 57 % du PS demandent le départ du président. Plus étonnant encore : 53 
+% des sympathisants LR – pourtant membres de la coalition gouvernementale – valident cette option jusqu’ici considérée comme 
+exceptionnelle dans l’histoire de la Ve République.
+* Baromètre de l’économie Odoxa pour AGIPI, Challenges, et BFM Business, publié le 4 septembre 2025 
+
+===== p.7 =====
+Synthèse détaillée du sondage
+(3/4)
+Céline Bracq, directrice générale d’Odoxa
+4) Tous les Premiers-ministrables possibles sont largement rejetés par les Français. Avec 36 %, c’est finalement Jordan Bardella qui le serait le 
+moins, recueillant deux fois plus de suffrages que le réputé favori du Président, Sébastien Lecornu (18 % bon PM, vs 76 % « mauvais PM »)
+Si les Français préfèrent aujourd’hui une dissolution à un simple changement de Premier ministre, c’est que la situation politique est devenue 
+impossible, quel que soit le Premier ministre qui sera nommé.
+Pour preuve, nous avons testé une douzaine de Premier-ministrables potentiels, de tous bords politiques, et aucun ne recueille plus de 36 % 
+de crédit. Chacun d’entre eux/elles serait perçu comme un « mauvais Premier ministre » par 60 % à 84 % de nos concitoyens.
+Bref, tous sont de mauvais choix.
+Mais certains sont pires que d’autres aux yeux des Français : c’est notamment le cas du favori de cœur du Président, Sébastien Lecornu. Celui 
+qui est pressenti depuis longtemps, et à qui Bayrou a « grillé la politesse » fin 2024, est rejeté par plus des trois quarts des Français (76 %) qui 
+estiment qu’il serait un mauvais Premier ministre.
+D’autres membres du gouvernement font nettement « moins mal » : ses collègues Darmanin (29 % pensent qu’il ferait un bon « PM ») et 
+surtout Retailleau (33 %) se situent tout de même 10 à 15 points au-dessus du niveau du ministre des Armées.
+Si un choix « macroniste » ne passerait pas dans l’opinion, une option de gauche, un temps envisagée, ne passerait pas mieux, en tout cas si 
+ce choix est perçu comme le fait du Prince et pas fondé sur un accord de gouvernement et de coalition : Olivier Faure est perçu comme un 
+mauvais choix pour Matignon par 79 % des Français et l’ex-président François Hollande par 76 % d’entre eux. Cazeneuve ne ferait qu’un peu 
+mieux (24 % « bon PM » vs 70 % « mauvais »). Notons d’ailleurs que ces trois socialistes (ou ex) ne sont pas retenus comme de bons « PM » 
+par une majorité de sympathisants PS (38 % à 47 %) ; preuve que pour ces derniers, sans accord de gouvernement clair sur un programme 
+« de gauche » ces nominations seraient de simples débauchages. 
+L’opinion n’est pas plus enthousiaste avec les options plus « exotiques », consistant par exemple à proposer le poste à Christine Lagarde (27 % 
+vs 68 %), à Xavier Bertrand (22 % vs 73 %) ou à François Baroin (20 % vs 75 %)… Le choix de la « compétence FMI », ou de « la connaissance 
+fine de nos territoires » (nos régions ou nos communes), rien de tout cela ne fonctionnerait dans l’opinion.
+
+===== p.8 =====
+Synthèse détaillée du sondage
+(4/4)
+Céline Bracq, directrice générale d’Odoxa
+Si personne ne parvient à convaincre une majorité de Français, l’un des Premiers-ministrables se détache tout de même nettement pour 
+susciter un moins fort niveau de rejet… et paradoxalement, c’est Jordan Bardella, le leader du parti politique autrefois le plus « diabolisé ».
+36 % des Français estiment ainsi qu’il serait un bon choix pour Matignon contre 60 % qui ne le pensent pas. C’est exactement deux fois plus 
+que Sébastien Lecornu.
+Ce niveau s’explique non seulement par le soutien des sympathisants RN (91 % pensent qu’il ferait un bon PM) et d’une partie de ceux de LR 
+(41 %) qui l’apprécient … mais aussi parce que de nombreux Français, sympathisants d’autres partis politiques peu suspects de sympathie 
+pour le RN, estiment que ce serait la solution la plus légitime et sage (le RN est le premier parti à l’assemblée) pour sortir de la crise politique. 
+Les sympathisants de gauche sont ainsi 14 % (10 % des Insoumis et 17 % des sympathisants PS) à penser que Bardella serait un bon Premier 
+ministre.
+5) Une majorité de 56% de Français soutient « Bloquons tout », mais cette adhésion est inférieure aux précédents grands mouvements sociaux
+Deux jours après le vote de confiance à l’Assemblée nationale, le mouvement « Bloquons tout » appelle les Français à une grève générale, en 
+réaction aux mesures annoncées par François Bayrou : suppression de jours fériés, « année blanche » et coupes dans la fonction publique. Et 
+même si ce mot d’ordre pourrait sembler anachronique si Bayrou n’est plus à Matignon mercredi, 56 % des Français s’y disent favorables.
+Le soutien est particulièrement fort chez les 25-34 ans (68 %), dans les villes hors Paris (autour de 60 %), et dans les catégories populaires (62 
+% des ouvriers contre 46 % des cadres). Politiquement, la mobilisation fait quasiment l’unanimité à LFI (90 %), recueille un fort soutien au RN 
+(71 %) et séduit aussi les sympathisants PS (64 %). Même chez les sympathisants LR, pourtant éloignés de ce type d’action, 44 % valident ce 
+mot d’ordre.
+Mais si cette mobilisation séduit une majorité, elle reste 10 points en dessous du soutien initial au mouvement contre la réforme des 
+retraites** et 15 points sous celui du début des Gilets jaunes***. Rien ne dit cependant qu’elle s’essoufflera rapidement. Tout dépendra 
+désormais des décisions qu’Emmanuel Macron prendra après le vote de confiance de lundi.
+** Sondage Odoxa –Backbone Consulting pour Le Figaro, publié le 20 janvier 2023 
+*** Sondage Ifop pour Cnews et Sud Radio, réalisé les 6 et 7 novembre 2018
+
+===== p.9 =====
+Synthèse de la résonance sur les réseaux sociaux
+Véronique Reille-Soult – Présidente de Backbone Consulting
+Sur les réseaux sociaux, l’issue du vote du 8 septembre semble inéluctable dans la grande majorité des messages. Les internautes 
+sentent la France s’engager dans une voie sans issue qui suscite de l’inquiétude (« Vers quoi va-t-on ? ») et de la colère et déplace le 
+débat sur la responsabilité d’Emmanuel Macron dans la crise actuelle : « après Bayrou, c’est Macron qui doit tomber. »
+« Vers quoi va-t-on ? »
+« L’impression d’une journée d’angoisse sans fin. »
+Dans un grand nombre de messages, les internautes demandent de la visibilité et de la concertation. Après avoir trouvé que la décision de 
+François Bayrou de provoquer un vote de confiance était courageuse, sa démarche n’est plus saluée aujourd’hui.
+« Tu sais que tu vas être censuré donc tu choisis de partir de toi-même en alertant sur la situation. Mais là je comprends plus la logique 
+avec une proposition par jour. C’était quoi l’idée ? »
+« L’impression que tous ces politiques s’occupent de leur carrière et nous laissent aller doucement vers le précipice ». 
+La situation semble surtout sans issue et cela provoque de l’inquiétude et de la colère.
+« Si les chefs de partis ne sont pas foutus de se mettre d’accord sur un diagnostic, je ne vois pas comment on va trouver des solutions. » 
+« Tout va bien madame la marquise, ne changeons rien et allons vers les sanctions que la Grèce a dû adopter. C’était presque rien 
+madame la marquise ! »
+En parallèle, le mouvement « Bloquons tout » du 10 septembre, initialement prévu en réponse au plan budgétaire du Premier ministre, 
+prend une nouvelle tournure. Le sujet n’est plus les « Deux jours fériés ou l’année blanche » mais s’est déporté sur le président de la 
+République et sa responsabilité dans la crise actuelle. 
+« Pourquoi bloquer ? Puisqu’on ne connaît pas le budget ? »
+« Après Bayrou, c’est Macron qui doit tomber. »
+« Je ne sais pas si je descends dans la rue mais je vais trouver une action pour participer au mouvement et dire qu’on n’en peut plus. »
+
+===== p.10 =====
+Résultats du sondage
+
+===== p.11 =====
+Les Français voteraient-ils la confiance à François Bayrou ?
+François Bayrou a annoncé qu’il engagerait la responsabilité de son gouvernement le 8 septembre en sollicitant un vote de confiance sur la 
+question de la dette à l’Assemblée nationale, conformément à l’article 49-1 de la Constitution. Si les voix « contre » l’emportent sur les voix « 
+pour », la Constitution prévoit que le Premier ministre doit présenter la démission du gouvernement au président de la République. 
+Et vous personnellement, si vous étiez député, voteriez-vous la confiance à François Bayrou ?
+Oui
+24%
+Non
+76%
+15%
+18%
+25%
+79%
+34%
+9%
+85%
+82%
+75%
+21%
+66%
+91%
+Symp. LFI
+Symp. PS
+Symp. Les Ecologistes
+Symp. Renaissance
+Symp. LR
+Symp. RN
+Oui
+Non
+(NSP)
+* Sondage Odoxa – Backbone Consulting pour Le Figaro, publié le 28 août 2025
+
+===== p.12 =====
+Préférence entre la nomination d’un nouveau Premier ministre ou la 
+dissolution de l’Assemblée nationale, en cas de démission du gouvernement
+Si François Bayrou n’obtenait pas la confiance de l’Assemblée nationale et était contraint de démissionner, 
+préféreriez-vous… ?
+Qu’Emmanuel Macron 
+nomme un Premier 
+ministre pour composer 
+un nouveau 
+gouvernement
+42%
+Qu’Emmanuel Macron 
+prononce la dissolution de 
+l’Assemblée nationale et que 
+des élections législatives 
+soient organisées
+56%
+(NSP)
+2%
+35%
+52%
+64%
+82%
+57%
+19%
+63%
+47%
+36%
+17%
+39%
+78%
+2%
+1%
+1%
+4%
+3%
+Symp. LFI
+Symp. PS
+Symp. Les Ecologistes
+Symp. Renaissance
+Symp. LR
+Symp. RN
+Qu’Emmanuel Macron nomme un Premier ministre pour composer un nouveau gouvernement
+Qu’Emmanuel Macron prononce la dissolution de l’Assemblée nationale et que des élections législatives soient organisées
+(NSP)
+* Sondage Odoxa – Backbone Consulting pour Le Figaro, publié le 28 août 2025
+
+===== p.13 =====
+Les Français sont-ils favorables ou opposés à la démission
+d’Emmanuel Macron ? 
+Etes-vous favorable ou opposé(e) à la démission d’Emmanuel Macron de ses fonctions de Président de la République ?
+Très favorable
+41%
+Plutôt favorable
+23%
+Plutôt opposé(e)
+22%
+Très opposé(e)
+13%
+(NSP)
+1%
+% Favorable : 64%
+% Opposé(e) : 35%
+54%
+59%
+61%
+64%
+Septembre
+2024*
+Décembre
+2024*
+Janvier
+2025*
+Septembre
+2025
+* Sept. 2024 : Sondage Odoxa-Backbone Consulting pour Le Figaro publié le 05/09/2024
+ Dec. 2024 : Sondage Odoxa-Backbone Consulting pour Le Figaro publié le 05/12/2024
+ Janv. 2025 : Sondage Odoxa-Backbone Consulting pour Le Figaro publié le 03/01/2025
+
+===== p.14 =====
+Les Français sont-ils favorables ou opposés à la démission
+d’Emmanuel Macron ? 
+selon la proximité partisane
+Etes-vous favorable ou opposé(e) à la démission d’Emmanuel Macron de ses fonctions de Président de la République ?
+% Favorable
+% Opposé(e)
+41%
+61%
+31%
+18%
+32%
+69%
+23%
+24%
+26%
+45%
+17%
+21%
+18%
+22%
+14%
+27%
+25%
+27%
+32%
+9%
+13%
+1%
+16%
+12%
+54%
+15%
+4%
+1%
+2%
+Ensemble des Français
+Symp. LFI
+Symp. PS
+Symp. Les Ecologistes
+Symp. Renaissance
+Symp. LR
+Symp. RN
+Très favorable
+Plutôt favorable
+Plutôt opposé(e)
+Très opposé(e)
+(NSP)
+64%
+35%
+85%
+15%
+57%
+43%
+63%
+37%
+17%
+81%
+53%
+47%
+87%
+13%
+
+===== p.15 =====
+Qui ferait un bon premier ministre aux yeux des Français ?
+Pour chacune des personnalités politiques suivantes, dites-nous si elle ferait un bon ou un mauvais Premier ministre.
+36%
+33%
+29%
+27%
+24%
+22%
+20%
+19%
+18%
+16%
+10%
+10%
+60%
+63%
+66%
+68%
+70%
+73%
+75%
+76%
+76%
+79%
+85%
+84%
+4%
+4%
+5%
+5%
+6%
+5%
+5%
+5%
+6%
+5%
+5%
+6%
+Jordan Bardella
+Bruno Retailleau
+Gérald Darmanin
+Christine Lagarde
+Bernard Cazeneuve
+Xavier Bertrand
+François Baroin
+François Hollande
+Sébastien Lecornu
+Olivier Faure
+Catherine Vautrin
+Éric Lombard
+Un bon Premier ministre
+Un mauvais Premier ministre
+(NSP)
+Décembre 2024*
+* Sondage Odoxa – Backbone Consulting pour Le Figaro, publié le 5 décembre 2024
+ réalisé avant la nomination de François Bayrou
+Non testé
+31%
+Non testé
+Non testée
+32%
+28%
+29%
+Non testé
+26%
+19%
+Non testée
+Non testé
+
+===== p.16 =====
+Qui ferait un bon premier ministre aux yeux des Français ?
+selon la proximité partisane
+Pour chacune des personnalités politiques suivantes, dites-nous si elle ferait un bon ou un mauvais Premier ministre.
+37%
+20%
+18%
+François Hollande
+Olivier Faure
+Xavier Bertrand
+47%
+46%
+38%
+François Hollande
+Olivier Faure
+Bernard Cazeneuve
+37%
+37%
+35%
+François Hollande
+Bernard Cazeneuve
+Olivier Faure
+71%
+68%
+64%
+Christine Lagarde
+Gérald Darmanin
+Bernard Cazeneuve
+76%
+66%
+50%
+Bruno Retailleau
+Gérald Darmanin
+Christine Lagarde
+91%
+44%
+26%
+Jordan Bardella
+Bruno Retailleau
+Gérald Darmanin
+*
+* Renaissance
+
+===== p.17 =====
+Soutien à la mobilisation
+Pour protester contre la politique du gouvernement un mouvement baptisé "Bloquons tout" a émergé sur les réseaux sociaux comme les gilets 
+jaunes il y a 7 ans. Ce mouvement appelle à "bloquer la France" à la manière d'une "grève générale" le 10 septembre prochain. Plusieurs partis 
+politiques d’opposition ont déjà affiché leur soutien à ce mouvement. 
+Vous personnellement, quelle est votre attitude à l’égard de cette mobilisation ?
+17%
+39%
+24%
+19%
+1%
+Vous y participerez vous-même
+Vous le soutiendrez mais sans y participer
+Vous y serez opposé(e)
+Vous y serez indifférent(e)
+(NSP)
+56%
+des Français soutiennent cette mobilisation
+A titre de comparaison :
+71% de soutien au début du mouvement des 
+Gilets jaunes en novembre 2018*
+66% de soutien au début de la mobilisation 
+contre la réforme des retraites en janvier 2023**
+* Sondage Ifop pour Cnews et Sud Radio, réalisé les 6 et 7 novembre 2018
+** Sondage Odoxa –Backbone Consulting pour Le Figaro, publié le 20 janvier 2023 
+
+===== p.18 =====
+90% 
+64% 
+53% 
+12% 
+44% 
+71% 
+Soutien à la mobilisation
+selon la proximité partisane
+Pour protester contre la politique du gouvernement un mouvement baptisé "Bloquons tout" a émergé sur les réseaux sociaux comme les gilets 
+jaunes il y a 7 ans. Ce mouvement appelle à "bloquer la France" à la manière d'une "grève générale" le 10 septembre prochain. Plusieurs partis 
+politiques d’opposition ont déjà affiché leur soutien à ce mouvement. 
+Vous personnellement, quelle est votre attitude à l’égard de cette mobilisation ?
+17%
+44%
+16%
+9%
+10%
+21%
+39%
+46%
+48%
+44%
+12%
+34%
+50%
+24%
+3%
+22%
+16%
+71%
+43%
+16%
+19%
+7%
+14%
+28%
+17%
+13%
+13%
+1%
+3%
+Ensemble des Français
+Symp. LFI
+Symp. PS
+Symp. Les Ecologistes
+Symp. Renaissance
+Symp. LR
+Symp. RN
+Vous y participerez vous-même
+Vous le soutiendrez mais sans y participer
+Vous y serez opposé(e)
+Vous y serez indifférent(e)
+(NSP)
+% Soutien
+56%
+
+===== p.19 =====
+Résonance
+sur les réseaux sociaux
+
+===== p.20 =====
+Résonance sur les réseaux sociaux
+Méthodologie
+Les données sont collectées par BACKBONE consulting et son équipe spécialiste de l’écoute et de l’analyse de 
+l’opinion en ligne à l’aide des Social Media et du web. 
+Pour effectuer leur analyse, ils utilisent les outils d’analyse de social media et de veille on line les plus pertinents pour 
+leur requête que ce soit des outils propriétaires ou des outils du marché. Les principaux outils utilisés sont Sybil®, 
+Visibrain, Talkwaker et Sprinklr.
+Sybil® : Interface propriétaire intégrant corpus et segmentation ad’hoc à l’aide d’une IA. Crowling des nouvelles 
+plateformes Bluesky, Mastodon et Threads en plus des plate formes numériques X, Facebook, Instagram, TikTok, 
+Twitch, Snapchat et des messageries.
+Talkwalker : Outil de veille pour suivre les conversations pertinentes des médias en ligne en temps réel à partir d’une 
+seule interface, permet aussi de suivre les mentions sur un homme politique ou un sujet spécifique en effectuant une 
+veille des réseaux sociaux, ainsi que les messageries, les blogs, les forums et les sites d’actualité en ligne. 
+Visibrain : Logiciel de veille des médias en ligne. Outil de veille médiatique à l’ère de l’information massive et 
+instantanée, grâce à une plateforme qui couvre tous les médias en ligne, en temps-réel, sans se laisser noyer par le 
+bruit. 
+Sprinklr : Plateforme qui combine veille et engagement sur les réseaux sociaux. Outil de remontée d’insights. 
+
+===== p.21 =====
+Vote de confiance
+sur les réseaux sociaux en France, entre le 28 aout et le 3 septembre 2025 
+Source : Talkwaker / BACKBONE Consulting
+950 000 mentions
+
+===== p.22 =====
+Vote de confiance
+sur les réseaux sociaux en France, entre le 28 aout et le 3 septembre 2025 
+Source : Talkwaker / BACKBONE Consulting
+
+===== p.23 =====
+Vote de confiance
+sur les réseaux sociaux en France, entre le 28 aout et le 3 septembre 2025 
+Source : Talkwaker / BACKBONE Consulting
+
+===== p.24 =====
+« Bloquons tout le 10 septembre »
+sur les réseaux sociaux en France, entre le 28 aout et le 3 septembre 2025 
+Source : Talkwaker / BACKBONE Consulting
+
+===== p.25 =====
+« Bloquons tout le 10 septembre »
+sur les réseaux sociaux en France, entre le 28 aout et le 3 septembre 2025 
+Source : Talkwaker / BACKBONE Consulting
+
+===== p.26 =====
+« Bloquons tout le 10 septembre »
+sur les réseaux sociaux en France, entre le 28 aout et le 3 septembre 2025 
+Source : Talkwaker / BACKBONE Consulting

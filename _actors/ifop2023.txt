@@ -1,0 +1,1104 @@
+
+===== p.1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le regard des Français sur le mouvement 
+social du 6 juin contre la réforme des 
+retraites 
+Ifop pour le Journal du Dimanche 
+ 
+FD / HL N° 120115 
+Contacts Ifop : 
+Frédéric Dabi / Hugo Lasserre 
+Département Opinion et Stratégies d'Entreprise 
+TEL : 01 45 84 14 44 
+prenom.nom@ifop.com 
+MAI 2023 
+ 
+ 
+
+===== p.2 =====
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+Sommaire 
+ 
+ 
+ 
+ 
+ 
+- 1 - La méthodologie ............................................................................................ 1 
+- 2 - Les résultats de l'étude ................................................................................... 4 
+L'attitude à l'égard de la mobilisation contre la réforme des retraites ................................. 5 
+Comparaison du niveau de soutien et de sympathie à l’égard du mouvement social en 
+1995, 2010, 2019 et 2022/2023 ............................................................................................. 6 
+ 
+
+===== p.3 =====
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+1 
+- 1 - 
+ 
+La méthodologie
+
+===== p.4 =====
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+2
+Méthodologie 
+ 
+ 
+ 
+Ce document présente les résultats d’une étude réalisée par l’Ifop. Elle respecte fidèlement 
+les principes scientifiques et déontologiques de l’enquête par sondage. Les enseignements 
+qu’elle indique reflètent un état de l’opinion à l’instant de sa réalisation et non pas une 
+prédiction. 
+ 
+Aucune publication totale ou partielle ne peut être faite sans l’accord exprès de l’Ifop. 
+ 
+ 
+Etude réalisée par l'Ifop pour le Journal du Dimanche 
+Echantillon 
+ 
+L’enquête a été menée auprès d’un échantillon de 1020 personnes, 
+représentatif de la population française âgée de 18 ans et plus. 
+Méthodologie 
+ 
+La représentativité de l’échantillon a été assurée par la méthode 
+des quotas (sexe, âge, profession de la personne interrogée) après 
+stratification par région et catégorie d'agglomération. 
+Mode de recueil 
+ 
+Les interviews ont été réalisées par questionnaire auto-administré 
+en ligne du 30 au 31 mai 2023. 
+ 
+ 
+Retrouvez tous les 
+sondages et analyses 
+publiés de l’Ifop sur 
+ 
+www.ifop.com 
+ 
+@IfopOpinion 
+ 
+ 
+
+===== p.5 =====
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+3 
+Précision relative aux marges d’erreur 
+ 
+La théorie statistique permet de 
+mesurer l’incertitude à attacher 
+à chaque résultat d’une 
+enquête. Cette incertitude 
+s’exprime par un intervalle de 
+confiance situé de part et 
+d’autre de la valeur observée et 
+dans lequel la vraie valeur a une 
+probabilité déterminée de se 
+trouver. Cette incertitude, 
+communément appelée 
+« marge d’erreur », varie en 
+fonction de la taille de 
+l’échantillon et du pourcentage 
+observé comme le montre le 
+tableau ci-contre. 
+ 
+INTERVALLE DE CONFIANCE A 95% DE CHANCES1 
+Taille 
+d’échan-
+tillon 
+Pourcentage observé 
+5 ou 
+95% 
+10 ou 
+90% 
+20 ou 
+80% 
+30 ou 
+70% 
+40 ou 
+60% 
+50% 
+600 
+1,8 
+2,4 
+3,3 
+3,7 
+4,0 
+4,1 
+800 
+1,5 
+2,1 
+2,8 
+3,2 
+3,5 
+3,5 
+900 
+1,4 
+2,0 
+2,6 
+3,0 
+3,2 
+3,3 
+1 000 
+1,4 
+1,8 
+2,5 
+2,8 
+3,0 
+3,1 
+1 500 
+1,1 
+1,5 
+2,0 
+2,3 
+2,4 
+2,5 
+2 000 
+1,0 
+1,3 
+1,8 
+2,0 
+2,2 
+2,2 
+3 000 
+0,8 
+1,1 
+1,4 
+1,6 
+1,8 
+1,8 
+ 
+ 
+Exemple de lecture du tableau : dans le cas d’un échantillon de 1 000 personnes, si le pourcentage mesuré est de 
+10%, la marge d’erreur est égale à 1,8. Le vrai pourcentage est donc compris entre 8,2% et 11,8%. 
+ 
+Aide à la lecture des tableaux de croisements 
+ 
+Les données du présent document 
+correspondent à des pourcentages de citation 
+de chaque réponse auprès de l’ensemble de 
+l’échantillon (« ENSEMBLE ») et de sous-
+catégories de population. 
+▪ En colonnes : les modalités de réponse. 
+▪ En lignes : la sous-population sur laquelle 
+on « zoome » et ses réponses – pour 
+chaque ligne, la somme des items est 
+égale 100 (hors totaux et sauf plusieurs 
+réponses possibles). 
+Exemple de lecture du tableau : sur 100 
+hommes, 25% ont répondu « A », contre 15% 
+chez les femmes. À l’échelle de l’ensemble 
+des répondants à la même question, 20% ont 
+cité la réponse A. 
+ 
+ 
+Rép. A Rép. B Rép. C Rép. D 
+ENSEMBLE 
+20 
+30 
+40 
+10 
+SEXE 
+ 
+ 
+ 
+ 
+Homme 
+25 
+35 
+35 
+5 
+Femme 
+15 
+25 
+45 
+15 
+AGE 
+ 
+ 
+ 
+ 
+18-24 ans 
+20 
+30 
+40 
+10 
+25-34 ans 
+20 
+30 
+40 
+10 
+35-49 ans 
+25 
+35 
+35 
+5 
+50-64 ans 
+15 
+25 
+45 
+15 
+65 ans et plus 
+20 
+30 
+40 
+10 
+Les éventuels astérisques indiquent les sous-populations présentes en effectif réduit dans l’échantillon 
+et pour lesquelles les résultats sont à interpréter avec prudence. 
+ 
+1 Un tableau précisant les marges d’erreurs pour davantage de tailles d’échantillon est disponible sur le site Ifop. 
+
+===== p.6 =====
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+4 
+- 2 - 
+ 
+Les résultats de l'étude
+
+===== p.7 =====
+ 
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+5 
+L'attitude à l'égard de la mobilisation contre la réforme 
+des retraites 
+ 
+ 
+ 
+ 
+Question : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les principales organisations syndicales françaises appellent à des 
+grèves et à des manifestions le 6 juin prochain contre la réforme des 
+retraites. Vous personnellement, quelle est votre attitude face à ce 
+mouvement ? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ensemble 
+des 
+Français 
+30-31 
+mai 
+2023 
+Réponses en fonction de la proximité politique 
+La France 
+Insoumise 
+Parti 
+Socialiste 
+Europe 
+Écologie Les 
+Verts 
+Renais-
+sance 
+(ex LREM) 
+Les Répu-
+blicains 
+Rassem-
+blement 
+National 
+ 
+(%) 
+(%) 
+(%) 
+(%) 
+(%) 
+(%) 
+(%) 
+TOTAL Soutien/ 
+sympathie....................... 
+57 
+88 
+77 
+73 
+11 
+22 
+74 
+Vous le soutenez ............ 
+38 
+47 
+53 
+50 
+1 
+11 
+60 
+Vous avez de la 
+sympathie pour lui .......... 
+19 
+41 
+24 
+23 
+10 
+11 
+14 
+TOTAL 
+Opposition/hostilité ...... 
+26 
+3 
+17 
+7 
+74 
+49 
+18 
+Vous y êtes opposé ......... 
+12 
+- 
+8 
+5 
+28 
+24 
+11 
+Vous y êtes hostile .......... 
+14 
+3 
+9 
+2 
+46 
+25 
+7 
+Vous y êtes indifférent .. 
+17 
+9 
+6 
+20 
+15 
+29 
+8 
+TOTAL ........................... 
+100 
+100 
+100 
+100 
+100 
+100 
+100 
+ 
+
+===== p.8 =====
+ 
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+6
+Comparaison du niveau de soutien et de sympathie 
+à l’égard du mouvement social en 1995, 2010, 2019 et 
+2022/2023 
+ 
+ 
+ 
+ 
+Question : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les principales organisations syndicales françaises appellent à des 
+grèves et à des manifestions le 6 juin prochain contre la réforme des 
+retraites. Vous personnellement, quelle est votre attitude face à ce 
+mouvement ? 
+ 
+ 
+ 
+ 
+ 
+(*) Sondages CSA / Le Parisien 1995 
+(**) Sondage CSA / Le Parisien 2010 
+(***) Sondages Ifop / JDD 2019-2020 
+(****) Sondages Ifop-Fiducial / CNews-Sud Radio 2020 
+(*****) Sondage Ifop-Fiducial / Sud Radio 2022-2023 
+(******) Sondage Ifop / JDD 2023 
+ 
+32
+39
+52
+27
+36
+33
+34
+33
+31
+25
+28
+30
+31
+29
+32
+35
+48
+38
+22
+23
+19
+19
+20
+20
+20
+21
+20
+19
+19
+19
+19
+22
+24
+16
+14
+19
+54
+62
+71
+46
+56 53 54 54 51
+44 47 49 50 51 56 51
+62 57
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Comparaison du niveau de soutien et de sympathie
+à l’égard du mouvement social en 1995, 2010, 2019 et 2022/2023
+Soutien
+Sympathie
+
+===== p.9 =====
+ 
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+7 
+ 
+L'attitude à l'égard de la mobilisation contre la réforme des retraites 
+ 
+TOTAL Soutien/ 
+sympathie 
+Vous le 
+soutenez 
+Vous avez de la 
+sympathie pour 
+lui 
+TOTAL 
+Opposition/hos
+tilité 
+Vous y êtes 
+opposé 
+Vous y êtes 
+hostile 
+Vous y êtes 
+indifférent 
+ENSEMBLE ..................... 
+57 
+38 
+19 
+26 
+12 
+14 
+17 
+SEXE DE L'INTERVIEWÉ(E) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Homme .............................. 
+60 
+41 
+19 
+28 
+11 
+17 
+12 
+Femme .............................. 
+54 
+34 
+20 
+24 
+13 
+11 
+22 
+ÂGE DE L'INTERVIEWÉ(E) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL Moins de 35 ans ............ 
+59 
+37 
+22 
+20 
+10 
+10 
+21 
+. 18-24 ans ........................... 
+52 
+28 
+24 
+28 
+14 
+14 
+20 
+. 25-34 ans ........................... 
+64 
+44 
+20 
+14 
+7 
+7 
+22 
+TOTAL 35 ans et plus ............... 
+56 
+38 
+18 
+28 
+13 
+15 
+16 
+. 35-49 ans ........................... 
+68 
+44 
+24 
+16 
+8 
+8 
+16 
+. 50-64 ans ........................... 
+60 
+46 
+14 
+23 
+10 
+13 
+17 
+. 65 ans et plus ...................... 
+40 
+23 
+17 
+45 
+21 
+24 
+15 
+PROFESSION DE L’INTERVIEWÉ(E) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Actif.................................. 
+64 
+43 
+21 
+20 
+9 
+11 
+16 
+. Catégorie supérieure .............. 
+52 
+26 
+26 
+32 
+14 
+18 
+16 
+.. Artisan ou commerçant ........... 
+48 
+34 
+14 
+30 
+17 
+13 
+22 
+.. Cadre et prof. int. sup. ............ 
+53 
+22 
+31 
+33 
+13 
+20 
+14 
+. Profession intermédiaire.......... 
+73 
+56 
+17 
+10 
+5 
+5 
+17 
+. Catégorie populaire ............... 
+65 
+45 
+20 
+19 
+9 
+10 
+16 
+.. Employé ........................... 
+67 
+45 
+22 
+18 
+10 
+8 
+15 
+.. Ouvrier ............................ 
+62 
+44 
+18 
+20 
+8 
+12 
+18 
+Inactif ................................ 
+47 
+30 
+17 
+34 
+16 
+18 
+19 
+. Retraité ............................. 
+40 
+25 
+15 
+45 
+21 
+24 
+15 
+. Autre inactif ........................ 
+58 
+38 
+20 
+19 
+10 
+9 
+23 
+STATUT DE L’INTERVIEWÉ(E) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirigeant d’entreprise .............. 
+47 
+26 
+21 
+33 
+14 
+19 
+20 
+Salarié ............................... 
+66 
+45 
+21 
+18 
+9 
+9 
+16 
+. Salarié du secteur privé ............ 
+64 
+45 
+19 
+18 
+8 
+10 
+18 
+. Salarié du secteur public........... 
+70 
+46 
+24 
+19 
+10 
+9 
+11 
+Chômeur ............................ 
+79 
+69 
+10 
+14 
+7 
+7 
+7 
+NIVEAU D’ÉDUCATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diplôme supérieur .................. 
+51 
+25 
+26 
+32 
+15 
+17 
+17 
+1er cycle (DEUG, licence LMD) ...... 
+66 
+43 
+23 
+20 
+9 
+11 
+14 
+Baccalauréat......................... 
+60 
+39 
+21 
+20 
+10 
+10 
+20 
+CAP / BEP ............................ 
+53 
+40 
+13 
+30 
+14 
+16 
+17 
+Pas de diplôme / CEP / BEPC ........ 
+54 
+37 
+17 
+28 
+13 
+15 
+18 
+REVENU MENSUEL (par pers. au 
+foyer) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cat. aisée (plus de 2 500 €) ......... 
+53 
+31 
+22 
+36 
+14 
+22 
+11 
+Classe moyenne sup. (1 900 à 2 500 
+€) ..................................... 
+49 
+33 
+16 
+36 
+13 
+23 
+15 
+Classe moyenne inf. (1 300 à 1 900 
+€) ..................................... 
+59 
+37 
+22 
+24 
+14 
+10 
+17 
+Cat. modeste (900 à 1 300 €) ....... 
+59 
+40 
+19 
+20 
+11 
+9 
+21 
+Cat. pauvre (moins de 900 €) ....... 
+61 
+46 
+15 
+18 
+8 
+10 
+21 
+CATEGORIE D'AGGLOMERATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agglomération parisienne .......... 
+53 
+33 
+20 
+28 
+11 
+17 
+19 
+Com. urbaines de province ......... 
+57 
+39 
+18 
+27 
+13 
+14 
+16 
+Communes rurales .................. 
+56 
+35 
+21 
+25 
+13 
+12 
+19 
+RÉGION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Île-de-France ........................ 
+52 
+32 
+20 
+28 
+11 
+17 
+20 
+Province ............................. 
+58 
+39 
+19 
+26 
+13 
+13 
+16 
+
+===== p.10 =====
+ 
+Ifop pour le Journal du Dimanche 
+Le regard des Français sur le mouvement social du 6 juin contre la réforme des retraites  Mai 2023 
+8
+ 
+TOTAL Soutien/ 
+sympathie 
+Vous le 
+soutenez 
+Vous avez de la 
+sympathie pour 
+lui 
+TOTAL 
+Opposition/hos
+tilité 
+Vous y êtes 
+opposé 
+Vous y êtes 
+hostile 
+Vous y êtes 
+indifférent 
+ENSEMBLE ..................... 
+57 
+38 
+19 
+26 
+12 
+14 
+17 
+PROXIMITÉ POLITIQUE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOTAL Gauche ...................... 
+80 
+51 
+29 
+9 
+4 
+5 
+11 
+. Dont La France insoumise ......... 
+88 
+47 
+41 
+3 
+- 
+3 
+9 
+. Dont Parti communiste * .......... 
+75 
+55 
+20 
+17 
+17 
+- 
+8 
+. Dont Parti socialiste ............... 
+77 
+53 
+24 
+17 
+8 
+9 
+6 
+. Dont Europe Écologie Les Verts ... 
+73 
+50 
+23 
+7 
+5 
+2 
+20 
+TOTAL Majorité présidentielle ..... 
+25 
+6 
+19 
+61 
+25 
+36 
+14 
+. Dont Renaissance (ex-LREM) ...... 
+11 
+1 
+10 
+74 
+28 
+46 
+15 
+TOTAL Droite ........................ 
+27 
+16 
+11 
+47 
+22 
+25 
+26 
+. Dont Les Républicains ............. 
+22 
+11 
+11 
+49 
+24 
+25 
+29 
+TOTAL Reconquête et RN .......... 
+68 
+53 
+15 
+20 
+10 
+10 
+12 
+. Dont Reconquête .................. 
+35 
+11 
+24 
+35 
+5 
+30 
+30 
+. Dont Rassemblement National .... 
+74 
+60 
+14 
+18 
+11 
+7 
+8 
+Sans sympathie partisane .......... 
+49 
+34 
+15 
+25 
+13 
+12 
+26 
+VOTE A LA PRÉSIDENTIELLE 2022 
+(1er tour) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jean-Luc Mélenchon ................ 
+85 
+56 
+29 
+3 
+- 
+3 
+12 
+Emmanuel Macron .................. 
+22 
+6 
+16 
+67 
+32 
+35 
+11 
+Valérie Pécresse ..................... 
+28 
+18 
+10 
+46 
+14 
+32 
+26 
+Marine Le Pen ....................... 
+71 
+56 
+15 
+19 
+11 
+8 
+10 
+Éric Zemmour ....................... 
+44 
+28 
+16 
+25 
+7 
+18 
+31 
+ 
