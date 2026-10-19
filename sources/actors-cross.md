@@ -161,7 +161,7 @@
 
 立法理由书自陈旧机制失败： « Cette action récursoire est limitée à raison d'une difficulté d'identification des mis en cause et des montants modestes récupérés. »
 
-> **⚠ 归属说明**：上述条文结构引自本项目已完成的法案 PDF 逐条提取（`_lead/cache/pjl25-952.txt`，参议院 `senat.fr/leg/pjl25-952.pdf`）。本条目的规范分析见 `docs/france-2026-10-politique.md` §5。**本文未独立复核该 PDF**，故在「未核实项」中列为待复核。
+> **⚠ 归属说明**：上述条文结构引自本项目已完成的法案 PDF 逐条提取（`_lead/cache/pjl25-952.txt`，参议院 `senat.fr/leg/pjl25-952.pdf`）。本条目的规范分析见 `事件材料/france-2026-10-politique.md` §5。**本文未独立复核该 PDF**，故在「未核实项」中列为待复核。
 
 ### 5. 国际法与区域法坐标
 
@@ -221,7 +221,7 @@
 | 2018-11-24 | 谴责暴力、反指政府 | 福尔： « ceux qui cassent sont les complices objectifs du gouvernement »（[franceinfo](https://www.franceinfo.fr/economie/transports/gilets-jaunes/gilets-jaunes-au-fond-ceux-qui-cassent-sont-les-complices-objectifs-du-gouvernement-estime-olivier-faure_3049927.html)） |
 | 2023-06 | 平衡框架 | Kanner： « Il n'est pas possible d'imaginer que ce pacte républicain puisse fonctionner que sur une seule jambe, celui de la sanction »；Vallaud：警民关系「devait pouvoir être discuté」（[Public Sénat](https://www.publicsenat.fr/actualites/politique/emeutes-aujourdhui-la-republique-doit-serrer-les-rangs-et-demain-il-ne-faudra-pas-se-tromper-de-diagnostic-soutient-bruno-retailleau)） |
 | 2025-09 | **切割** | 福尔： « Je ne suis pas pour le chaos »，但党愿「accompagner」运动（[franceinfo](https://www.franceinfo.fr/societe/bloquons-tout-mouvement-du-10-septembre/bloquons-tout-le-10-septembre-je-ne-suis-pas-pour-le-chaos-declare-olivier-faure_7482016.html)） |
-| 2026-10 | 切割＋接受「casseurs」一词 | 2026-10-18 起接受 `casseurs` 与「维持秩序学说」批判并行（见 `docs/france-2026-10-politique.md` §6.1、§7 轴线一） |
+| 2026-10 | 切割＋接受「casseurs」一词 | 2026-10-18 起接受 `casseurs` 与「维持秩序学说」批判并行（见 `事件材料/france-2026-10-politique.md` §6.1、§7 轴线一） |
 
 **判定：一致（切割策略），但在用词上收紧。** PS 的功能位置是「政府存活算术的关键」（距 289 票门槛的差额），因此其话语变化与选举日程同步。**⚠ 「10-18 接受 casseurs」一条转引自本项目内部文件，本文未取得该日 PS 公报原文**，列入未核实项。
 
@@ -233,7 +233,7 @@
 |---|---|---|
 | 2018-11 | **唯一未表态支持的主要政党** | 「Tous, excepté Europe Écologie-Les Verts」（[Le Parisien 2018-11-29](https://www.leparisien.fr/politique/gilets-jaunes-comment-se-positionnent-les-partis-politiques-29-11-2018-7957161.php)）；另见 [altermidi 综述](https://altermidi.org/2018/11/17/la-gauche-face-aux-gilets-jaunes-du-malaise-au-soutien/) |
 | 2023-06 | 要求改革警务、独立监察 | Jadot 要求 IGPN「不再隶属内政部」、改隶 Défenseur des droits；Chatelain 批评「aucune proposition sur la police」（[BFM](https://www.bfmtv.com/politique/front-national/etat-d-urgence-revision-de-la-loi-de-2017-que-proposent-les-politiques-apres-la-mort-de-nahel_AN-202306290686.html)；[Public Sénat](https://www.publicsenat.fr/actualites/politique/emeutes-aujourdhui-la-republique-doit-serrer-les-rangs-et-demain-il-ne-faudra-pas-se-tromper-de-diagnostic-soutient-bruno-retailleau)） |
-| 2026-10 | 同时要求改革高中**与**治安学说 | Tondelier 要求 Nuñez 辞职；Bonnet： « La violence que représentent quelques poubelles brûlées n'égalera jamais celle que vous faites subir aux corps […] de nos enfants »（见 `docs/france-2026-10-politique.md` §6.3） |
+| 2026-10 | 同时要求改革高中**与**治安学说 | Tondelier 要求 Nuñez 辞职；Bonnet： « La violence que représentent quelques poubelles brûlées n'égalera jamais celle que vous faites subir aux corps […] de nos enfants »（见 `事件材料/france-2026-10-politique.md` §6.3） |
 
 **判定：一致。** 2018 年的「唯一例外」与 2026 年的「结构性批判」是同一立场：拒绝把街头当成可无条件认领的资源，同时拒绝把秩序当成唯一答案。
 
@@ -244,7 +244,7 @@
 | 案例 | 立场 | 原文／依据 |
 |---|---|---|
 | 2023-06 | 平衡 | Chassaigne： « La seule solution ne peut être la matraque. Il faut un accompagnement de long terme »；批评「on a déversé des milliards」论（[Public Sénat](https://www.publicsenat.fr/actualites/politique/emeutes-aujourdhui-la-republique-doit-serrer-les-rangs-et-demain-il-ne-faudra-pas-se-tromper-de-diagnostic-soutient-bruno-retailleau)） |
-| 2026-10 | 唯一「绝对化」表述 | 2026-10-06 议会： « Aucune violence n'est justifiable, aucune violence n'est légitime » ＋ « répression aveugle »（见 `docs/france-2026-10-politique.md` §6.1） |
+| 2026-10 | 唯一「绝对化」表述 | 2026-10-06 议会： « Aucune violence n'est justifiable, aucune violence n'est légitime » ＋ « répression aveugle »（见 `事件材料/france-2026-10-politique.md` §6.1） |
 
 **判定：一致。** PCF 是唯一把「任何暴力都不可正当化」说成无条件命题的主要政党，同时把国家一侧的暴力也纳入该命题。
 
@@ -255,7 +255,7 @@
 | 案例 | 立场 | 原文／依据 |
 |---|---|---|
 | 2023-06 | 指 LFI 拒绝呼吁冷静 | Bergé： « cette petite minorité qui a refusé d'appeler au calme »； « Rien ne peut justifier, rien ne peut excuser »（[Public Sénat](https://www.publicsenat.fr/actualites/politique/emeutes-aujourdhui-la-republique-doit-serrer-les-rangs-et-demain-il-ne-faudra-pas-se-tromper-de-diagnostic-soutient-bruno-retailleau)） |
-| 2026-10 | 指 LFI「崇拜无序」、青年成「chair à canon」；支持 casseurs-payeurs | 见 `docs/france-2026-10-politique.md` §6.1 |
+| 2026-10 | 指 LFI「崇拜无序」、青年成「chair à canon」；支持 casseurs-payeurs | 见 `事件材料/france-2026-10-politique.md` §6.1 |
 
 **判定：一致。** EPR 的功能是**把暴力归给对手，同时把「国家一侧可能有问题」交给程序**（Braun-Pivet 的调查委员会提案把「治安学说与情报失灵」写入范围）。
 
@@ -267,7 +267,7 @@
 |---|---|---|---|
 | 2018-11 | **是**（议员到现场） | 是（部分人要求停止） | Wauquiez 到现场支持；Peltier 穿上黄背心；Pointereau： « Je soutiens la démarche des gilets jaunes »；Buffet：暴力「inacceptable」；Reichardt： « Pour moi, c'est stop »（[Public Sénat](https://www.publicsenat.fr/actualites/politique/gilets-jaunes-50-nuances-de-soutiens-chez-les-lr-135664)） |
 | 2023-06 | 部分（承认「diagnostic」须正确） | **是（最强）** | Retailleau： « la République doit serrer les rangs »、 « pas de réponse victimaire »、停家庭补助、 « Mettre fin au chaos migratoire »；Ciotti：8 万监舍、16 岁刑责、父母刑责、双刑（[Public Sénat 1](https://www.publicsenat.fr/actualites/politique/emeutes-aujourdhui-la-republique-doit-serrer-les-rangs-et-demain-il-ne-faudra-pas-se-tromper-de-diagnostic-soutient-bruno-retailleau)；[2](https://www.publicsenat.fr/actualites/politique/emeutes-les-reponses-musclees-des-lr-face-au-delitement-de-lautorite)） |
-| 2026-10 | 弱（Boucard 主张把废除 Parcoursup 纳入考虑；Wauquiez 用大区财政制裁） | **是** | Bellamy 称运动是「纯政客组织」不参加；Wauquiez： « Les lycéens casseurs vont payer »（见 `docs/france-2026-10-politique.md` §6.1、§9） |
+| 2026-10 | 弱（Boucard 主张把废除 Parcoursup 纳入考虑；Wauquiez 用大区财政制裁） | **是** | Bellamy 称运动是「纯政客组织」不参加；Wauquiez： « Les lycéens casseurs vont payer »（见 `事件材料/france-2026-10-politique.md` §6.1、§9） |
 
 **判定：双轨，一致。** 2018→2026 的变化是**配比**：2018 年两轨并重（人到现场＋要求停止封锁）；2026 年只剩强硬一轨对外可见，诉求一轨退到「废除 Parcoursup 可以考虑」这类议会表态。**这是本文件中最容易被误读为「LR 翻转」的地方——它不是翻转，是同一双轨结构在不同选举位置下的不同呈现。**
 
@@ -288,10 +288,10 @@
 
 | 案例 | 立场 | 原文／依据 |
 |---|---|---|
-| 2026-10 | 三分法 | 和平青年／「casseurs, parfois étrangers aux établissements」／「mouvements politiques qui attisent les tensions」（不点名 LFI）；主张每校每班半天辩论（见 `docs/france-2026-10-politique.md` §6.1） |
+| 2026-10 | 三分法 | 和平青年／「casseurs, parfois étrangers aux établissements」／「mouvements politiques qui attisent les tensions」（不点名 LFI）；主张每校每班半天辩论（见 `事件材料/france-2026-10-politique.md` §6.1） |
 | 2023-06 | — | **未取得可核实原文** |
 
-**判定：一致，但证据薄弱。** MoDem 在本议题上的特征是**结构性沉默**：Bayrou 本人立场在本议题上「实际是空的」（见 `docs/france-2026-10-politique.md` §10）。**「沉默」是信息，但不能当作立场使用。**
+**判定：一致，但证据薄弱。** MoDem 在本议题上的特征是**结构性沉默**：Bayrou 本人立场在本议题上「实际是空的」（见 `事件材料/france-2026-10-politique.md` §10）。**「沉默」是信息，但不能当作立场使用。**
 
 ---
 
@@ -350,7 +350,7 @@
 
 2026-10 期间 FIDL 独立于 USL 运作，发布独立号召与声明；10-15 声明要求**立法禁止对未成年人使用致残性武器**、修改维持治安学说、承认「街头民主」，并指名「最严重的暴行似集中在移民出身、居住于平民街区的青年身上」。[FIDL 原文](https://fidl.org/depuis-matignon-sebastien-lecornu-met-une-gifle-au-mouvement-lyceen/)
 
-> **⚠ 未解决矛盾**：2023 年报道称 FIDL 为并入 USL 的八个组织之一，但 FIDL 官网史料完全不提 USL，且 2026 年仍在独立运作。详见 `docs/france-2026-10-timeline.md` 附录 A0。**本文不据此推断立场连续性。**
+> **⚠ 未解决矛盾**：2023 年报道称 FIDL 为并入 USL 的八个组织之一，但 FIDL 官网史料完全不提 USL，且 2026 年仍在独立运作。详见 `事件材料/france-2026-10-timeline.md` 附录 A0。**本文不据此推断立场连续性。**
 
 #### SNES-FSU / FSU — 一致（支持诉求、谴责暴力、谴责镇压）
 
@@ -625,7 +625,7 @@
 **因此**：本文件对**已抓取正文**的来源（Odoxa、Elabe、IFOP、Ipsos、ECHR、CoE、FCPE、SGEN-CFDT、FSU、melenchon.fr、conseil-constitutionnel.fr、elysee.fr 等）可作逐字引用；对上表 6 项只能作**线索级引用**，须回原文核对后方可写入正式稿。
 | # | 事项 | 状态 | 影响 |
 |---|---|---|---|
-| 1 | **PS 2026-10-18「接受 casseurs 一词」** 的原始出处 | 转引自本项目 `docs/france-2026-10-politique.md` §6.1、§7；**未取得该日 PS 公报或本人原话** | 若不能坐实，「PS 收紧」应降级为「据内部文件」 |
+| 1 | **PS 2026-10-18「接受 casseurs 一词」** 的原始出处 | 转引自本项目 `事件材料/france-2026-10-politique.md` §6.1、§7；**未取得该日 PS 公报或本人原话** | 若不能坐实，「PS 收紧」应降级为「据内部文件」 |
 | 2 | **MEDEF 对 2026-10-17 的立场** | 官网公报列表抓取受 403；2026-09/10 条目中未见相关公报；**未取得任何声明** | 只能写「未见表态」，不能写「支持」或「反对」 |
 | 3 | **MoDem / Bayrou 在 2023 Nahel 案的立场** | 未取得任何可核实原文 | MoDem 的「一致」判定仅基于 2026 年单一案例，证据薄弱 |
 | 4 | **Horizons 在 2023 Nahel 案的立场** | 未取得直接原文（仅有 2026 年菲利普表态） | 同上 |
@@ -765,12 +765,12 @@
 
 | 文件 | 用途 | 说明 |
 |---|---|---|
-| `docs/france-2026-10-politique.md` | 2026 年逐党团立场、语义轴线、议会数据 | 已完成，含一手议会速记引用 |
-| `docs/france-2026-10-timeline.md` | 2026 年逐日时间线、口径差异、组织谱系（A0 UNL/USL/FIDL） | 已完成 |
-| `docs/france-2026-10-genealogy.md` | 2018→2026 形式谱系与结构成因 | 已完成 |
+| `事件材料/france-2026-10-politique.md` | 2026 年逐党团立场、语义轴线、议会数据 | 已完成，含一手议会速记引用 |
+| `事件材料/france-2026-10-timeline.md` | 2026 年逐日时间线、口径差异、组织谱系（A0 UNL/USL/FIDL） | 已完成 |
+| `事件材料/france-2026-10-genealogy.md` | 2018→2026 形式谱系与结构成因 | 已完成 |
 | `_lead/cache/pjl25-952.txt` | casseurs-payeurs 法案条文 | **本文未独立复核原始 PDF** |
 
-> **引用规则**：凡本文件标注「见 `docs/…`」处，均为**指向已完成内部文件的二次引用**，不是独立核实。需要一手引用的场合应回该文件所列的议会速记／官报原文。
+> **引用规则**：凡本文件标注「见 `事件材料/…`」处，均为**指向已完成内部文件的二次引用**，不是独立核实。需要一手引用的场合应回该文件所列的议会速记／官报原文。（早期版本写 `docs/…`，仓库分层后该目录已更名为 `事件材料/`。）
 
 ---
 
