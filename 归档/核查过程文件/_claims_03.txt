@@ -1,0 +1,531 @@
+﻿17: | **① 直接组织继承**（同一批人、同一组织接续发动） | **无证据** | 查不到 2025 年「Bloquons tout」的发起网络与 2026 年 10-17 号召之间存在人员或组织接续（详见 §8） |
+18: | **② 形式谱系**（同一套动员技术、符号、日历被反复复用） | **有，且强** | 社交网络自发号召、环岛／加油站封锁、黄背心作为符号资源、预算危机作为触发点（详见 §9） |
+19: | **③ 结构成因**（同一组政治—财政条件反复产出同类事件） | **有，且是根因** | 无绝对多数、预算靠 49.3、紧缩→街头、街头→镇压→更广泛动员（详见 §10） |
+35: | **黄背心** | 2018-11 → 2020 | 燃油税上调 + 购买力 | **无组织、无领袖** | 28.3 万（首日当晚，282,710）／28.8 万（次日汇总，287,710）；12-08 为 13.6 万 | 否 | **政府财政让步** |
+36: | **反退休改革** | 2023-01 → 06 | 退休年龄 62→64 | **八工会联合**（单一战线） | 逾 110 万（1-19，内政部）／逾 200 万（CGT） | 否 | **改革通过**，六组附带条款被否 |
+37: | **Nahel 骚乱** | 2023-06-27 起 | 17 岁少年被警察枪杀 | **无一组织发动** | 45,000 警力；约 3,800 被捕 | **明确拒绝** | 无结构性警察改革 |
+38: | **Bloquons tout** | 2025-09 → 2026-03 | 2026 预算紧缩（438 亿） | **有日期、无组织** | 19.7 万（内政部）／25 万（CGT） | 否 | 无直接让步；预算另经 49.3 通过 |
+39: | **高中师生抗议（本次）** | 2026-09 → 10-19 | 校舍破败、师资短缺、预算 | **两条线**：工会 + 网络自发 | 55 万（内政部）／80 万（组织方） | 否 | **尚未结束** |
+47: | **2018-11-17** | 黄背心（Gilets jaunes）第一日 | 燃油税上调 | 282,710（内政部当晚第四份公报）／287,710（次日汇总）；2,039 个 rassemblements（⚠ 与「封锁点」是否同指一事，官方未定义） | **无组织、无领袖** |
+48: | 2018-12 | 政府让步 | — | 撤销燃油税上调；**SMIC 每月 +100 €（通过 prime d'activité 的 décret 实现，不是提高最低工资标准）**；加班费免税免摊派；月净收入 2,000 € 以下退休者取消 2019 年 CSG 上调；loi 2018-1213 | — |
+49: | 2019 春起 | 黄背心衰退 | — | 累计：11 死、24 人失明、约 2,500 名示威者受伤、1,800 名治安力量受伤 ⚠️（当局口径，未见原始统计表） | — |
+50: | **2023-01-19** | 退休改革运动启动 | 法定退休年龄延至 64 岁 | 逾三个月；1-19 逾 110 万（内政部）／逾 200 万（CGT） | **八工会联合号召** |
+51: | **2023-03-16** | 政府动用 49.3 | — | 两次不信任案被否（LIOT 案 278 票，差 9 票） | — |
+52: | **2023-06-27** | 南泰尔 Nahel 之死 | 路检开枪 | **约九夜**全国性暴力（参议院报告定性为「近乎暴动状态」）；4.5 万警力；**约 3,800 人被捕**；**31% 为未成年**（3,693 次 GAV 中 1,149）；已定罪者中 **71% 法国籍**、平均 **23 岁**、57% 无前科（截至 2023-07-31 生效判决） | **无一组织发动** |
+53: | 2023 秋 → 2024 初 | 农民运动 | GNR 税、欧盟补贴迟付 | 倒转路牌、拖拉机进巴黎、封高速 | 有农业工会 ⚠ **本仓库未收录该案例的专门档案，此行为背景性概括，未逐项取证** |
+54: | **2024-06-09** | 欧洲议会选举 → 马克龙解散国民议会 | — | 执政阵营失去相对多数 | — |
+55: | 2024-12 | Barnier 政府被 censure | 预算 | 第五共和国罕见 | 议会 |
+56: | **2025-09-08** | Bayrou 政府信任投票失败（194/364） | 2026 预算草案 | 一年余内第三位总理下台（Attal → Barnier → Bayrou；据此推算，本仓库未逐条核每位总理的辞职日） | 议会 |
+57: | **2025-09-10** | **「Bloquons tout」全国日** | 上述预算＋Lecornu 当天上任 | **19.7 万**（内政部 23 时）／**25 万**（CGT）；**540→675 人被捕**；**850 场行动**（596 集会 + 253 封锁）；**约 100 所高中受扰、27 所被封锁** | **无工会发起**；单一发起人（见 §8.1） |
+58: | 2025-09-18 | 后续日 | — | 50.6 万（当局）／>100 万（CGT）；309 人被捕 | 同上 |
+59: | 2025-10-02 | 后续日 | — | 19.5 万（内政部）／约 60 万（CGT）；明显回落 | 同上 |
+60: | **2026-09-17** | 克雷泰伊 Lycée Saint-Exupéry 封锁 | 缺编、缺经费 | 线 B 起点 | **USL 等工会** |
+61: | **2026-09-29** | 公务员全国日（八工会联合） | 加薪、指数点、油价 | 在 10-01 预算公布前施压 | **八工会联合** |
+62: | 2026-10-06 | 「acte III」海啸日 | — | 26.6 万（内政部）／45 万（组织方）；488 人被捕 | 工会＋学生 |
+63: | 2026-10-08 | 「acte IV」 | — | 7.15 万／13 万+；504 人被捕 | 同上 |
+64: | 2026-10-13 | 「acte V」 | — | 16.15 万／48 万；六教育工会罢工 | 六教育工会 |
+65: | **2026-10-17** | **「生活成本」全国日** | 油价、购买力、教育、退休金 | 55 万／80 万；**2,397 人被捕、997 名治安力量受伤（7 重伤）**；里摩日市政厅被烧 | **两条线汇流** |
+66: | 2026-11-05（预告） | 六大工会全国跨行业日 | 工资、公共服务、就业、工业 | 未发生 | 六工会联合 |
+102: | 示威人数（当晚第四份公报） | **282,710** | Ouest-France（转述内政部）<https://www.ouest-france.fr/societe/gilets-jaunes/106-blesses-dont-5-graves-le-bilan-de-la-mobilisation-des-gilets-jaunes-revu-la-hausse-6075799> |
+103: | 示威人数（次日汇总） | **287,710** | SudOuest（内政部/AFP）<https://www.sudouest.fr/economie/social/gilets-jaunes-287-000-manifestants-et-plus-de-400-blesses-depuis-samedi-2900810.php> |
+104: | 聚集点 | **2,039** | 同上 Ouest-France |
+105: | 伤者 | 227（7 重伤）→ 次日上修 **409** | 同上两源 |
+116: - **loi n° 2018-1213（2018-12-24）**：紧急经济社会措施
+134: | 武器 | 2018 日历年（IGPN 年报） | 2017 对比 | 增幅 | 运动期间累计（内政部，2018-11-17 → 2019-02-04） |
+136: | **LBD** | **19,071 发** | 6,357 | **+203%** | 12,122 发 |
+137: | **GMD**（含解围手榴弹） | **5,420 发** | 1,357 | **+296%** | 4,942 枚 |
+138: | **GLI-F4** | —（年报未单列） | — | — | **1,428 发** |
+163: | **死亡** | **11** | 总统 2019-01-28 开罗口径，经 Public Sénat <https://www.publicsenat.fr/actualites/politique/gilets-jaunes-macron-deplore-11-morts-aucun-du-fait-des-forces-de-l-ordre-137336> |
+164: | 示威者受伤 | 约 **2,500** | 当局口径（截至 2019-11），见下 ICI |
+165: | 执法人员受伤 | 约 **1,800** | 同上 |
+166: | **失明** | **24** | 独立记者 David Dufresne 逐案统计（参议院辩论记 25） |
+167: | 断手 | **5** | 同上 |
+168: | garde à vue | **10,852** | 司法部／内政部汇总（临时数据） |
+169: | 定罪 | **3,163**（近 2,000 项 comparution immédiate） | 同上 |
+170: | 实刑立即入监 | **400** | 同上 |
+171: | **IGPN 调查** | **313**（约 2/3 移送司法） | 内政部 |
+172: | IGGN 调查 | 23（5 项移送） | 内政部 |
+173: | **至 2019 年底被定罪的警察** | **1**（2019-12-19，2 个月缓刑） | 司法报道 |
+220: | **欧洲委员会人权专员 Mijatović** | 2019-02-26 备忘录：建议**立即暂停** LBD 40，批评「nasses」战术与预防性拘留 | <https://rm.coe.int/memorandum-sur-le-maintien-de-l-ordre-et-la-liberte-de-reunion-dans-le/1680931add> |
+221: | **联合国多名特别报告员** | 2019-02-14 联合声明：指法国「不成比例」限制示威权 | <https://www.ohchr.org/en/press-releases/2019/02/france-un-experts-denounce-severe-rights-restrictions-gilets-jaunes> |
+222: | **Défenseur des droits（Toubon）** | 2020-07-09 决定框架 2020-131：建议禁止 LBD，终止「nasses」与无差别预防性拘留 | <https://juridique.defenseurdesdroits.fr/index.php?id=33202&lvl=notice_display>；全文 <https://reports.obspol.org/FRA/DDD/FRA_2020.07.09_DDD_Decision-Cadres_Maintien.Ordre.pdf> |
+248: | 2023-01-10 | 政府公布方案（62→64），工会宣布 1-19 全国日 | 未逐条核实 |
+249: | **2023-01-19** | 首次全国动员：内政部「逾 110 万」，CGT「逾 200 万」 | <https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-plus-de-1-1-million-de-personnes-ont-manifeste-en-france-selon-le-ministere-de-l-interieur-plus-de-2-millions-selon-la-cgt_5612201.html> |
+250: | 2023-01-23 | 法案（n°760）提交国民议会 | <https://www.senat.fr/dossier-legislatif/pjl22-368.html> |
+251: | **2023-02-17** | 国民议会 20 日期限届满，未表决，文本转参议院（宪法 47-1 II） | 同上 |
+252: | **2023-03-07** | 全国行动日：内政部 128 万，CGT 350 万；警力 10,500 | franceinfo（同 1-19 站）；警力 <https://www.cnews.fr/france/2023-03-07/manifestation-contre-la-reforme-des-retraites-10500-policiers-et-gendarmes> |
+253: | 2023-03-10 | 政府在参议院启用宪法 44-3（vote bloqué） | <https://www.publicsenat.fr/actualites/politique/reforme-des-retraites-le-senat-adopte-le-projet-de-loi-239703> |
+254: | **2023-03-11** | 参议院通过：**195 赞成 / 112 反对 / 37 弃权** | 同上 |
+255: | 2023-03-15 | 两院混合委员会（CMP）达成一致 | <https://lcp.fr/actualites/reforme-des-retraites-elisabeth-borne-annonce-le-recours-au-493-la-responsabilite-du> |
+256: | **2023-03-16** | **Borne 在国民议会援引 49.3** | 同上 |
+257: | 2023-03-17 | 两份 censure 动议提出；当日 310 人被捕 | <https://rmc.bfmtv.com/actualites/police-justice/manifestations-apres-le-49-3-sur-les-retraites-310-interpellations-dans-toute-la-france_AP-202303170158.html> |
+258: | **2023-03-20** | 两次 censure 表决：**LIOT 278**（差 9 票）、**RN 94**，均未通过 | <https://www.assemblee-nationale.fr/dyn/16/scrutins/1240>；<https://www.assemblee-nationale.fr/dyn/16/scrutins/1241> |
+259: | 2023-03-21 | 内政部长称自运动以来「855 次逮捕、843 次 garde à vue」 | <https://www.bfmtv.com/politique/gouvernement/manifestations-contre-la-reforme-des-retraites-il-y-a-eu-exactement-855-interpellations-dans-toute-la-france-pour-843-gardes-a-vue-affirme-gerald-darmanin_VN-202303210652.html> |
+260: | **2023-03-23** | 第九个行动日：内政部「近 110 万」，CGT 350 万；警力 12,000（巴黎 5,000）；**441 名警宪受伤、457 人被捕** | <https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-au-moins-320-policiers-blesses-apres-une-journee-de-mobilisation-emaillee-de-violences_5729507.html>；警力 <https://www.leparisien.fr/economie/retraites/retraites-12-000-policiers-et-gendarmes-mobilises-jeudi-dont-5-000-a-paris-pour-la-9e-journee-intersyndicale-21-03-2023-LUWQHX3PA5ECFBFDSOAFJLCWTM.php> |
+261: | 2023-03-25 | **Sainte-Soline**（反蓄水池动员，**非退休改革**，仅时间重叠） | <https://www.vie-publique.fr/rapport/288944-bilan-de-la-manifestation-interdite-des-24-26-mars-sainte-soline> |
+262: | 2023-03-28 | 第十个行动日：13,000 警宪（巴黎 5,500），Darmanin 称「inédit」 | <https://www.bfmtv.com/politique/retraites-gerald-darmanin-annonce-un-dispositif-de-securite-inedit-compose-de-13-000-policiers-et-gendarmes-dont-5500-a-paris_VN-202303270579.html> |
+263: | **2023-04-13** | 全国行动日：内政部 380,000（巴黎 42,000），工会 150 万 | <https://www.ici.fr/infos/economie-social/retraites-les-syndicats-appellent-a-une-mobilisation-massive-suivez-la-journee-du-1er-mai-7544969> |
+264: | **2023-04-14** | **宪法委员会 2023-849 DC**：六组 cavaliers 被否，核心维持；同日 **2023-4 RIP** 第一份 RIP 不合规 | <https://www.conseil-constitutionnel.fr/decision/2023/2023849DC.htm>；<https://www.conseil-constitutionnel.fr/decision/2023/20235RIP.htm>（注：材料中留存的是 **2023-5 RIP**；**2023-4 RIP** 的官方页面编号应为 `20234RIP.htm`，但未能从抓取记录中确认） |
+265: | 2023-04-15 | 法律公布：**loi n° 2023-270 du 14 avril 2023** | <https://www.senat.fr/dossier-legislatif/pjl22-368.html> |
+266: | 2023-05-01 | 劳动节：内政部 782,000，CGT 230 万；108 名警宪受伤、291 人被捕 | 同 4-13 站 |
+267: | 2023-05-03 | **2023-5 RIP**：第二份 RIP 亦被否 | <https://www.conseil-constitutionnel.fr/decision/2023/20235RIP.htm> |
+268: | 2023-06-03 | 实施法令 **n° 2023-435 / 2023-436** 签署，6 月 4 日公布 | <https://juricaf.org/arret/FRANCE-CONSEILDETAT-20241220-477315> |
+269: | 2023-06-06 | 末次全国行动日：内政部 281,000，CGT 900,000；警力 11,000；巴黎授权无人机 | <https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-900-000-personnes-ont-manifeste-en-france-selon-la-cgt-281-000-selon-le-ministere-de-l-interieur-lors-de-la-14e-journee-de-mobilisation_5872961.html> |
+270: | 2023-06-09/10 | 威尼斯委员会通过关于 49.3 的临时意见（CDL-AD(2023)024） | <https://www.coe.int/fr/web/venice-commission/-/cdl-ad-2023-024-e> |
+271: | **2023-09-01** | 改革生效（64 岁目标为 1968 年出生世代） | 2023-849 DC §89, §97；<https://juricaf.org/arret/FRANCE-CONSEILDETAT-20241220-477315> |
+272: | 2024-09-19 | 最高行政法院（CE）拒绝就第 10、11、17 条向宪法委员会移送 QPC | <https://juricaf.org/arret/FRANCE-CONSEILDETAT-20240919-478247> |
+273: | 2024-12-20 | CE 驳回针对 2023-435/436 号法令的越权之诉 | <https://juricaf.org/arret/FRANCE-CONSEILDETAT-20241220-477315> |
+285: **2023-849 DC（2023-04-14）**：
+303: | 2023-01-19 | 逾 110 万 | 逾 200 万 | ≈1.8× |
+304: | 2023-03-07 | 128 万 | 350 万 | ≈2.7× |
+305: | 2023-03-23 | 近 110 万 | 350 万 | ≈3.2× |
+306: | 2023-04-13 | 380,000 | 150 万 | ≈3.9× |
+307: | 2023-05-01 | 782,000 | 230 万 | ≈2.9× |
+308: | 2023-06-06 | 281,000 | 900,000 | ≈3.2× |
+343: > « Mort de Nahel : ce qu'il faut savoir »
+354: | 1 | **明确拒绝紧急状态**：6-29 Darmanin 驳回，理由是可以「动员大量手段而无需动用宪法的特殊工具」 | <https://www.bfmtv.com/police-justice/mort-de-nahel-emmanuel-macron-annonce-des-moyens-supplementaires-mais-pas-d-etat-d-urgence_AV-202306300557.html> |
+355: | 2 | **警力峰值化**：6-29 晚 40,000 → 6-30 起 45,000 + 宪兵装甲车，维持至 7 月 14 日 | <https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/violences-apres-la-mort-de-nahel-jean-luc-melenchon-appelle-les-jeunes-a-ne-pas-toucher-aux-ecoles_5922839.html> |
+356: | 3 | **无法律依据的行政管制**：6-30 内政部通令各省 21 时起停驶 bus 与 tram | franceinfo 措施综述（同上） |
+357: | 4 | **取消大型活动 + 烟火管制**：7-08 **décret n° 2023-576** 全国禁售禁携烟火制品 | <http://www.affaires-publiques.org/textof/TO/23/24508-0723.htm> |
+358: | 5 | **对平台施压而非制裁**：6-30 约见四家平台；7-04 在参议院核账。**政府同期反对设定 2 小时删除义务的修正案** | <https://www.actu-juridique.fr/breves/ntic-medias-presse/378314/> |
+359: | 6 | **速审机器全开**：6-30 circulaire pénale，强化 comparution immédiate、对未成年人附加夜间外出禁令 | 国民议会书面答复（两份通函日期）<https://questions.assemblee-nationale.fr/q16/16-10404QE.htm> |
+360: | 7 | **拒绝三项结构性改革**：不设独立警察调查机构；不修改 2017-02-28 放宽开枪条件的法律；不追究种族主义问题 | 见 §4.5 |
+366: | 逮捕总数 | 约 **3,800** | 内政部 2023-07-19，经 LCP <https://lcp.fr/actualites/violences-urbaines-3-800-interpellations-au-total-indique-gerald-darmanin-207074> |
+367: | garde à vue | **4,282**（至 07-10） | 参议院报告 n° 521 |
+368: | 车辆被焚 | **12,031** | 参议院 |
+369: | 建筑受损 | **2,508**（含 105 座市政厅、243 所学校、273 治安力量建筑） | 参议院 |
+370: | 波及范围 | **672 个市镇、95 个省** | 参议院 |
+371: | 死亡／受伤 | **2 死 / >1,000 伤**（治安力量 782、消防 3） | 参议院 |
+372: | 侵害民选官员 | **684 起** | 参议院 |
+373: | 保险损失 | **6.5 亿 → 7.3 亿 → 7.93 亿欧元**（对应报案数 11,300 / — / 16,400） | France Assureurs，2023-07-11 / 2023-09 / 2024-03-27 |
+395: | 2023-07-05 晚 | 移送检察院 | **1,122** |
+396: | 2023-07-05 晚 | 经 comparution immédiate | **585**，其中 **448（76%）** 被羁押 |
+397: | 2023-07-18/19 | 判决数 | **1,278**，定罪率 **95%** |
+398: | 2023-07-18/19 | 判监禁刑 | **1,056**（742 人实刑，平均 **8.2 个月**），600 人已入狱 |
+399: | 截至 2023-07-31 | 已生效判决中实刑占比 | **60%**（IGJ，参议院听证） |
+408: | 未成年占比 | **31%**（3,693 次 GAV 中 1,149 人） | 截至 2023-07-05 晚的全部 garde à vue | 司法部通报，经 BFM <https://www.bfmtv.com/police-justice/emeutes-76-des-personnes-passees-en-comparution-immediate-sont-en-detention_AN-202307060429.html> |
+409: | **71% 法国籍**、91% 男性、75% 生于法国、平均 **23 岁**、57% 无前科、10% 法定累犯 | 同上 | **截至 2023-07-31 已生效判决的已定罪者**（不是全部被捕者） | 参议院与 IGA/IGJ 联合分析，听证记录 <https://www.senat.fr/rap/r23-521/r23-5211.html> |
+410: | **90% 法国籍**、98% 男性、平均 **16 岁**、68.2% 首次被追诉、73.2% 在校或在训 | 同上 | **未成年人**（PJJ 基于 513 份社会教育调查报告） | 同上 |
+432: > **Décision n° 2025-886 DC（2025-06-19）**：否决 Attal 法的少年速审核心条款——16 岁以上 comparution immédiate（第 4、5 条）、以累犯为条件排除未成年减刑（第 7 条）、16 岁以下羁押上限提至一年（第 6 条）、对未成年人的留置（第 12 条）。
+490: | **TikTok** | 扩散（2025-07-24「9月10日，法国自我封城」视频：`pas de travail, pas d'école, pas d'achat`） | <https://www.ici.fr/infos/societe/tout-bloquer-le-10-septembre-ce-que-l-on-sait-de-l-appel-a-la-mobilisation-ne-sur-les-reseaux-sociaux-6469267> |
+491: | **X** | 争论与假账号放大 | <https://www.lemonde.fr/politique/article/2025/08/31/bloquons-tout-est-un-mouvement-structure-presque-exclusivement-autour-de-sympathisants-de-la-gauche-radicale_6637915_823448.html> |
+499: | 2025-05（最早） | AFP 称关于「9 月 10 日」的最早网络痕迹「至少可追溯到 5 月」，7 月起获得可见度 | <https://www.ici.fr/infos/societe/tout-bloquer-le-10-septembre-ce-que-l-on-sait-de-l-appel-a-la-mobilisation-ne-sur-les-reseaux-sociaux-6469267> |
+500: | 2025-07-15 | Bayrou 公布 2026 预算方向（438–440 亿节约） | Reuters（同 §5.1） |
+501: | 2025-07-19 | 网站「Mobilisation10septembre.blog」上线 | <https://www.humanite.fr/social-et-economie/budget/un-arret-total-et-illimite-du-pays-cest-quoi-ces-appels-a-bloquer-la-france-le-10-septembre> |
+502: | 2025-07-24 | 「Les Essentiels」在 TikTok 发布「9 月 10 日，法国自我封城」视频 | 同 AFP/ICI |
+503: | 2025-08 | 全国 150 余个 AG 筹备，累计逾 1.5 万人 | Rapports de Force（§5.1） |
+504: | 2025-08-16/17 | Mélenchon 与 LFI 撰文号召「定要推翻政府」；Visibrain 记录日发帖量由约 1.9 万条跃至 7 万条 | Conspiracy Watch（§5.2） |
+505: | 2025-09-01 | 情报部门评估：预计 **10 万人**参与、38 场省级行动 | <https://www.franceinfo.fr/societe/bloquons-tout-mouvement-du-10-septembre/dans-les-rues-les-transports-les-ecoles-a-quoi-s-attendre-lors-du-mouvement-bloquons-tout-le-10-septembre_7480003.html> |
+506: | 2025-09-06 | Ipsos-BVA-CESI：**46% 支持、28% 反对、26% 无所谓** | <https://www.latribune.fr/la-tribune-dimanche/politique/sondage-exclusif-10-septembre-pres-d-un-francais-sur-deux-soutient-le-mouvement-1032015.html>；<https://www.letelegramme.fr/elections/sondages/46-des-francais-soutiennent-le-mouvement-bloquons-tout-6883503.php> |
+507: | **2025-09-08** | 国民议会否决 Bayrou 政府施政宣言：573 人投票、558 有效票、**194 赞成 / 364 反对**、15 弃权 | <https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/vote-de-confiance-l-assemblee-nationale-n-a-pas-adopte-la-declaration-de-politique-generale-du-gouvernement> |
+508: | 2025-09-08 晚 | Retailleau 宣布动员「约 8 万警察与宪兵」，称 LFI 欲制造「climat insurrectionnel」 | <https://www.midilibre.fr/2025/09/08/bloquons-tout-bruno-retailleau-se-mefie-dun-climat-insurrectionnel-ce-10-septembre-et-annonce-un-gros-dispositif-de-securite-12918321.php> |
+509: | 2025-09-09 | Retailleau 召集全体省长会议；宣布 30 余架直升机、无人机、水炮车、Centaure 装甲车 | <https://www.publicsenat.fr/actualites/societe/tolerance-zero-face-a-bloquons-tout-80-000-de-forces-de-securite-deployees-le-10-septembre> |
+510: | 2025-09-09 晚 | Macron 任命 **Sébastien Lecornu** 为总理 | <https://www.info.gouv.fr/actualite/sebastien-lecornu-nomme-premier-ministre> |
+511: | **2025-09-10** | 全国行动日：内政部 23 时口径 **19.7 万**人、**850 场行动**（596 集会 + 253 封锁）、**540 人被捕**、415 人拘留 | <https://www.cnews.fr/france/2025-09-10/bloquons-tout-183-interpellations-en-agglomeration-parisienne-1737338> |
+512: | 2025-09-11 | 内政部终局口径：**675 人被捕、549 人拘留**；宪兵总监称「全面封锁未实现」 | <https://www.bfmtv.com/police-justice/675-interpellations-en-france-apres-le-mouvement-du-10-septembre-selon-un-dernier-bilan_AN-202509110278.html> |
+513: | 2025-09-12 | 巴黎检察官 Beccuau：首都 174 人拘留，167 人移送；9 名被告全部申请延期 | <https://www.bfmtv.com/police-justice/peu-de-mineurs-plus-de-femmes-le-profil-des-personnes-en-garde-a-vue-apres-le-mouvement-du-10-septembre-a-paris_AV-202509120351.html> |
+514: | 2025-09-18 | 跨工会行动日：当局 50.6 万（巴黎 5.5 万），CGT 称逾 100 万；309 人被捕 | <https://www.franceinfo.fr/economie/greve/greve/greve-du-18-septembre-les-autorites-annoncent-plus-de-500-000-manifestants-en-france-la-cgt-en-denombre-plus-d-un-million_7500007.html> |
+515: | 2025-10-02 | 第三个行动日：内政部 19.5 万，CGT 近 60 万，明显回落 | <https://www.franceinfo.fr/economie/greve/direct-greve-nationale-du-2-octobre-jour-j-pour-les-syndicats-qui-appellent-a-de-nouvelles-mobilisations-contre-l-austerite-budgetaire_7527007.html> |
+516: | 2025-10-05/06 | Lecornu 首任政府名单公布次日即辞职（执政不足 24 小时） | <https://www.info.gouv.fr/actualite/demission-de-sebastien-lecornu> |
+517: | 2025-10-10/12 | Lecornu 被重新任命；10-12 组成第二政府，**Nuñez 接任内政部长，Retailleau 出局** | <https://www.rfi.fr/fr/france/20251012-france-laurent-nu%C3%B1ez-nomm%C3%A9-ministre-de-l-int%C3%A9rieur-dans-le-gouvernement-lecornu-ii> |
+518: | 2025-10-14 | Lecornu 施政宣言：**暂停 2023 年退休改革至 2027 年**、承诺不动用 49.3 | <https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/suspension-de-la-reforme-des-retraites-abandon-du-49-3-fiscalite-ce-qu-il-faut-retenir-du-discours-de-politique-generale-de-sebastien-lecornu_7551979.html> |
+519: | 2025-10-16 | 两项不信任案被否：LFI 案 **271 票**，RN 案 135 票 | <https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/rejet-de-la-motion-de-censure-contre-le-gouvernement-lecornu-decouvrez-quels-deputes-ont-vote-le-texte-dans-notre-moteur-de-recherche_7555858.html> |
+520: | 2025-11-15 | 黄背心七周年：35 城以上发起行动；蒙彼利埃仅约 200 人，瑟堡约十人 | <https://lepoing.net/mouvement-bloquons-tout-a-montpellier-la-mobilisation-du-15-novembre-a-fait-flop/>；<https://actu.fr/pays-de-la-loire/nantes_44109/manifestation-a-nantes-le-mouvement-bloquons-tout-est-de-retour-samedi_63437814.html> |
+521: | 2026-01-19/23/30 | Lecornu 政府**三度动用 49.3** 强推 2026 年预算（与其 10 月承诺相反） | <https://www.vie-publique.fr/en-bref/301706-nouveau-recours-au-493-pour-ladoption-du-budget-2026> |
+522: | 2026-02-02 | 2026 年国家预算最终通过：LFI 不信任案 **260 票**被否 | <https://www.franceinfo.fr/economie/budget/le-budget-de-l-etat-pour-2026-definitivement-adopte-par-le-parlement-apres-le-rejet-des-motions-de-censure-d-une-partie-de-la-gauche-et-du-rn_7780325.html> |
+523: | 2026-03-08/14 | 「Semaine noire」（黑色一周）：罢课罢工、占领广场与大学 | <https://mars-infos.org/semaine-noire-du-8-au-14-mars-2026-8455>；<https://emancipation.fr/la-revue/numero-6-fevrier-2026/la-semaine-noire-cest-du-8-au-14-mars/> |
+529: | **80,000** | 9-10 动员的警察与宪兵 | **内政部长宣布值**，非独立核实 |
+530: | 100,000 | 事前预计参与者 | 情报部门 9-01 评估 |
+531: | **197,000** | 参与者 | 内政部，9-10 23 时（17:45 口径 175,000） |
+532: | 250,000 | 参与者 | CGT |
+533: | **850** | 行动总数 | 内政部（596 集会 + 253 封锁） |
+534: | 512 | 公共道路纵火 | 宪兵总局（DGGN） |
+535: | **540 → 675** | 被捕人数 | 内政部（10 日 23 时 → 11 日晨） |
+536: | 415 → 549 | 拘留 | 内政部 |
+537: | 27 / ~100 | 被封锁／受扰学校 | 国民教育部（9-10 中午） |
+538: | 23 / 34 | 受伤执法人员 | **两个数字冲突**：宪兵总局 23 人（轻伤）vs 内政部 34 人（Le Parisien 引述） |
+539: | 59 / 129 | 不当警察暴力情形／事件数（含 61 起严重受伤） | **民间统计**，官方未确认 <https://www.streetpress.com/1758023538-10-septembre-journee-violences-policieres-analyse-mobilisation/> |
+540: | ~300 M€ | 单日经济成本上限 | **事前估算**（RMC），非事后核算 |
+541: | **−0.1 pt** | 社会运动对季度 GDP 的效应 | **法国国库总署事件研究**（2025-09-19），统计上**不显著** |
+542: | 86% | 自认「极左」的参与者比例 | Fondation Jean-Jaurès 在线问卷，n=1089，**自选样本，不可外推** <https://www.jean-jaures.org/publication/bloquons-tout-tentative-de-portrait-robot-dun-mouvement-nebuleux/> |
+610: | 09-30 | — | — | **356 所**受封锁/干扰 | <https://laclepublique.fr/national/articles/2026/2026-09-30-lycees-blocages-violences/> |
+611: | 10-04 | — | — | 400–500 所关闭或部分停课 | <https://lcp.fr/actualites/lycees-bloques-sebastien-lecornu-lance-cinq-chantiers-et-veut-la-reprise-des-cours> |
+612: | 10-05 | — | — | **589 所**受扰 | <https://lcp.fr/actualites/blocage-des-lycees-quelles-sont-les-revendications-des-eleves-442989> |
+613: | **10-06** | **26.6 万 / 45 万** | **488** | 891 所受扰（全停 276 + 部分 183） | <https://www.bfmtv.com/societe/manifestations/direct-colere-lyceenne-des-milliers-de-lyceens-attendus-dans-la-rue-ce-mardi-journee-sous-haute-surveillance-pour-l-acte-iii-de-la-mobilisation_LN-202610060069.html>；<https://laclepublique.fr/national/articles/2026/2026-10-06-lyceens-police-justice/> |
+614: | 10-07 | — | — | 459 所 | <https://www.bfmtv.com/societe/education/la-mobilisation-lyceenne-est-en-net-recul-un-lycee-sur-dix-perturbe-selon-le-ministere-de-l-education-nationale_AD-202610070453.html> |
+615: | **10-08** | **7.15 万（巴黎 2.45 万）/ 13 万+** | **504** | **157 所**（教育部「完全关闭」口径）／2,000 所（USL 含「受扰」） | <https://www.ici.fr/infos/education/colere-des-lyceens-une-nouvelle-journee-d-action-ce-jeudi-les-enseignants-appeles-a-la-greve-et-a-manifester-1518036>；<https://www.cgtetat.fr/societe-959/mobilisations/article/lyceen-nes-etudiant-es-petite-enfance-totalenergies-les-luttes-se-multiplient> |
+616: | 10-09 | — | — | 141 所关闭 | <https://www.publicsenat.fr/actualites/politique/141-lycees-fermes-ce-vendredi-les-lyceens-continuent-de-se-mobiliser-pour-denoncer-leurs-conditions-dapprentissage> |
+617: | **10-13** | **16.15 万 / 48 万** | — | — | <https://www.ici.fr/infos/education/direct-mouvement-des-lyceens-nouvelle-journee-de-mobilisation-ce-mardi-appel-a-la-greve-dans-l-education-nationale-5398890>；<https://www.ouest-france.fr/education/direct-mobilisation-lyceenne-les-corteges-parisiens-se-sont-elances-94-2-des-lycees-sont-ouverts-selon-le-ministere-63becb77-fda5-454d-a0fc-407ba665a014> |
+618: | **10-17** | **55 万（巴黎 11 万）/ 80 万** | **2,397** | — | <https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html>；<https://www.bfmtv.com/police-justice/violences-du-7-octobre-le-ministere-de-l-interieur-recense-2-397-interpellations-997-policiers-et-gendarmes-blesses-dont-7-graves_AD-202610180350.html> |
+626: | 10-05 | **朗斯** 15 岁学生左手被 ASSD 震爆弹炸断，后截肢 | <https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de> |
+627: | 10-17 | **圣艾蒂安** 17 岁示威者右手被手雷炸断 | <https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/main-arrachee-par-une-grenade-a-saint-etienne-l-inspection-generale-de-la-gendarmerie-co-saisie-3435390.html> |
+628: | 10-17 | **米卢斯** 17 岁少女左眼永久失明 | <https://www.bfmtv.com/police-justice/manifestations-du-17-octobre-une-adolescente-de-17-ans-a-perdu-l-usage-d-un-oeil-samedi-a-mulhouse-l-igpn-saisie_AN-202610180306.html> |
+629: | 10 月初 | **图尔** 一名学生失明 | <https://www.7sur7.be/monde/lyceen-eborgne-a-tours-un-policier-mis-en-examen-pour-violences-aggravees~a62d3782/> |
+669: | **单一诉求？** | 是（燃油税） | 是（64 岁） | 是（警察问责） | 否（多项） | 否（四项＋加项） |
+671: | **警方人数** | 89,000（12-08） | 11,000–13,000 | 45,000 | 80,000（宣布值） | 10,000+ → 60,000 |
+672: | **逮捕总数** | 10,852 GAV | 855（至 3-21） | 4,282 GAV | 675 | 2,397（10-17 单日） |
+674: | **是否立法** | 2019-290 | 2023-270 | 2023-656、2024-449、2025-568 | 无专门法 | n° 952（在途） |
+675: | **宪法委员会介入** | 2019-780 DC | 2023-849 DC | — | — | 2025-886 DC（Attal 法） |
+684: | **参数改革** | 反退休改革（62→64） | 远期、精算式的利益调整 |
+696: | **完全无组织** | 黄背心（2018）、Nahel（2023） | 无发起人、无谈判代表、无法收束 |
+697: | **有日期、无组织** | Bloquons tout（2025） | 有一个被广泛接受的日期与平台传播链，但无机构能代表它发言 |
+698: | **单一组织轴心** | 反退休改革（2023） | 八工会统一指挥、可谈判、可预告、可收束 |
+699: | **两条线并行** | 高中抗议（2026） | 线 A 无组织（网络自发）＋线 B 有工会；互不统属，同日叠加 |
+723: > « Qui est Julien Marissiaux, à l'origine du mouvement « Bloquons tout » ? »
+739: > « Mouvement des lycéens, prix du carburant, violences policières : le 17 octobre, explosion de toutes les colères »
+758: | 项 | 2025 Bloquons tout | 2026-10-17 |
+760: | 日期确定时点 | 最早网络痕迹 2025-05，7 月获可见度 | **2026-09-11**（`17octobregiletjaune.net` 上线并定日） |
+777: | 2018 | **change.org 请愿 + Facebook 的地方性怒火**（不是「Facebook 群组与视频」这种笼统说法） | 与 2025 年的对照分析见 <https://www.jean-jaures.org/publication/bloquons-tout-tentative-de-portrait-robot-dun-mouvement-nebuleux/> |
+778: | 2025 | Telegram 组织、TikTok 扩散、X 争论与假账号放大 | <https://www.conspiracywatch.info/bloquons-tout-comment-le-mouvement-est-passe-de-lextreme-droite-a-lextreme-gauche.html> |
+779: | 2026 | TikTok 账号 `@gilet_jaune_2026`、`@17octobre2026` ＋ `17octobregiletjaune.net` | <https://www.ladepeche.fr/2026/09/11/un-retour-des-gilets-jaunes-le-samedi-17-octobre-des-appels-a-manifester-contre-la-flambee-des-prix-des-carburants-reperes-sur-les-reseaux-sociaux-13546042.php> |
+787: | 2026-10-13 | `17octobregiletjaune.net` 标 **384 场**集会；请愿 2 万签名 | [24matins](https://www.24matins.fr/le-17-octobre-cristallise-une-colere-sociale-bien-plus-large-1422299) |
+788: | 2026-10-14 | 同一地图标 **437 场** | [La Dépêche](https://www.ladepeche.fr/2026/10/14/mobilisation-du-17-octobre-gilets-jaunes-lyceens-agriculteurs-syndicats-qui-appellent-a-manifester-et-quels-sont-les-principaux-lieux-de-rendez-vous-13601403.php) |
+789: | 2026-10-16 | NVO 称「**逾一千场**」，其中 **300+ 处加油站封锁**；同文并称内政部事前预估 7–14 万 | [NVO](https://nvo.fr/mouvement-des-lyceens-prix-du-carburant-violences-policieres-le-17-octobre-explosion-de-toutes-les-coleres/) |
+790: | 2026-10-17 | 内政部预期 **7 万–14 万**；实际 **55 万**（内政部）／80 万（组织方）——**低估约 4 倍（对上端）／约 8 倍（对下端）** | [BFM](https://www.bfmtv.com/police-justice/violences-du-7-octobre-le-ministere-de-l-interieur-recense-2-397-interpellations-997-policiers-et-gendarmes-blesses-dont-7-graves_AD-202610180350.html) |
+820: | 2018 | 燃油税 |
+821: | 2023 | 退休年龄（参数改革） |
+822: | 2025 | Bayrou 的 438 亿欧元紧缩（取消两个公共假日、医保增幅减半） |
+823: | 2026 | 2027 预算（540 亿努力，含滚存；教育岗位净减 1,588） |
+838: | 10-05 | 朗斯 15 岁学生手雷炸断手掌 | [LCP](https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de) |
+839: | 10-06 | 「海啸日」（26.6 万–45 万）——断手案的次日 | [BFM 直播](https://www.bfmtv.com/societe/manifestations/direct-colere-lyceenne-des-milliers-de-lyceens-attendus-dans-la-rue-ce-mardi-journee-sous-haute-surveillance-pour-l-acte-iii-de-la-mobilisation_LN-202610060069.html) |
+840: | 10-07 | **暂停**对学生示威使用闪光弹（马克龙直接要求） | [franceinfo](https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html) |
+841: | 10-16 | **恢复**：Nuñez 明言「所有类型的中间武器」在出现暴力时都可使用 | [franceinfo](https://www.franceinfo.fr/faits-divers/police/manifestations-du-17-octobre-tous-les-types-de) |
+856: | 一 · 社交网络自发号召 → 无主体动员 | 2018、2025、2026（3/5） | 强：三次的载体都不同，做法相同 |
+857: | 二 · 环岛／加油站／油库封锁 | 2018、2025、2026（3/5） | 强：2026 年发生「封锁对象转向学校」的结构变化 |
+858: | 三 · 黄背心作为符号资本 | 2025、2026（2/5，2018 为源头） | 中强：符号可继承，动员力不可继承 |
+859: | 四 · 预算危机作为触发 | 2018、2023、2025、2026（4/5） | 强：Nahel 是唯一例外 |
+860: | 五 · 镇压工具的可逆性 | 2018、2026（2/5） | 中：2018 有 LBD 争议，2026 有闪光弹「暂停→恢复」 |
+892: | 指标 | 2022 | 2023 | 2024 | 2025 |
+894: | 财政赤字（% PIB） | 4.7 | 5.4 | 5.8 | **5.1** |
+895: | 公共债务（毛，% PIB） | 111.4 | 109.5 | 112.6 | **115.6** |
+896: | 公共债务（净，% PIB） | 101.1 | 101.4 | 104.5 | **108.4** |
+897: | 公共支出（% PIB） | 58.4 | 56.8 | 57.0 | 57.2 |
+898: | 强制性征收率（% PIB） | 45.0 | 43.2 | 42.8 | **43.6** |
+906: | 2024 | 581 亿€ | +13.9% |
+907: | 2025 | **647 亿€** | **+11.2%（+65 亿）** |
+908: | 2026（预测） | **770 亿€** | 约 +120 亿 |
+920: ### 10.2 审计法院（2026-06-25）的判断
+922: > « La dette consomme toutes nos marges de manœuvre budgétaires »
+939: | 2022-06 | — | 立法选举，执政阵营**失去相对多数** | — |
+940: | 2023-03-16 | Borne | 退休改革动用 **49.3** | [LCP](https://lcp.fr/actualites/reforme-des-retraites-elisabeth-borne-annonce-le-recours-au-493-la-responsabilite-du) |
+941: | 2023-03-20 | Borne | 两次不信任动议被否（LIOT 278 / RN 94） | [scrutin 1240](https://www.assemblee-nationale.fr/dyn/16/scrutins/1240)、[scrutin 1241](https://www.assemblee-nationale.fr/dyn/16/scrutins/1241) |
+942: | 2024-12 | Barnier | 政府被 **censure** | MOC 表决库 §1 |
+943: | 2025-09-08 | Bayrou | 信任投票失败（194/364） | 见 §1.3 |
+944: | 2025-09-09/10 | — | 马克龙任命 **Lecornu**（**据新华社口径为同一总统任内第七位总理**，⚠ 未取得法文一手佐证） | <https://www.info.gouv.fr/actualite/sebastien-lecornu-nomme-premier-ministre>（任命事实）+ 新华社 2025-12-22（第七位口径，C 级） |
+945: | 2025-10-16 | Lecornu | 两项不信任动议**均未通过**（LFI 271 / RN 135）；此前承诺不动用 49.3、并宣布**暂停退休改革** | [franceinfo](https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/rejet-de-la-motion-de-censure-contre-le-gouvernement-lecornu-decouvrez-quels-deputes-ont-vote-le-texte-dans-notre-moteur-de-recherche_7555858.html) |
+946: | 2026-01-19 / 01-23 / 01-30 | Lecornu | **三度**动用 49.3 强推 2026 年预算——**此前在 2025-10-14 施政宣言中承诺不用** | <https://www.vie-publique.fr/en-bref/301706-nouveau-recours-au-493-pour-ladoption-du-budget-2026> |
+947: | 2026-02-02 | Lecornu | 2026 年国家预算最终通过：两项不信任案被否（LFI 案 **260 票**、RN 案 135 票） | <https://www.vie-publique.fr/en-bref/301706-nouveau-recours-au-493-pour-ladoption-du-budget-2026> |
+948: | 2026-10-09 | Lecornu | 2027 预算「收入部分」在财政委员会被否：**31 反对、3 赞成、2 弃权** | [LCP](https://www.lcp.fr./actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de) |
+949: | 2026-10-16 | Lecornu | 2027 社保预算在委员会被否（赤字 218 亿→127 亿） | [Midi Libre / AFP](https://www.midilibre.fr/2026/10/16/vers-un-nouveau-493-apres-le-budget-de-letat-les-deputes-rejettent-celui-de-la-securite-sociale-pour-2027-13605846.php) |
+969: | 总「努力」 | 新增 430 亿；加滚存 **2027 年合计 540 亿** | 540 亿€ |
+970: | 赤字目标 | 2027 年回到 **5% PIB**（2025 年实际已 5.1%，即「目标」是**不恶化**） | — |
+971: | 退休金 | 冻结「机械增长」（实际是对 1,260 € 以上养老金去指数化／半指数化） | 55 亿€ |
+972: | 退休者税收 | 10% 减免上限从 4,439 € 降至 **3,000 €** | — |
+973: | 三孩加成 | 10% 的养老金三孩加成改为**定额补贴**（金额待法令） | 中性 |
+974: | 家庭补助 | **冻结**（原应每年 4 月 1 日按通胀调整） | 5 亿€ |
+975: | 开学补助 | 削减 | 6 亿€ |
+977: | 公务员 | **指数点冻结**；编制净减 **1,076 人** | — |
+978: | **教育** | 净增 **+3,257 ETP**（全部门最多）**但指数点冻结** | — |
+979: | 军费 | +2,090 ETP；到 2030 年增 360 亿 | — |
+980: | 内政 | +1,381 ETP | — |
+981: | 司法 | +1,301 ETP | — |
+982: | 地方 | 转移支付减 20 亿；要求地方再作 **54 亿**努力 | — |
+983: | 企业 | 延续 2026 年的社保减免冻结；扩大缴费基数（含分红、参与、PPV） | 29 亿 + 37 亿€ |
+984: | 大企业特别捐 | 第三年延续，但**削减 30%** | — |
+985: | 高收入 | 延续「差异化贡献」（20% 最低税率，单身 >25 万 €） | 6 亿€ |
+986: | 非奖学金生 | BTS 注册费 **178 €**、预科 **270 €** | — |
+1000: | 国防（+2,090 ETP） | 退休者（养老金去指数化、税优上限下调） |
+1001: | 内政（+1,381 ETP） | 家庭（补助冻结、开学补助削减） |
+1002: | 司法（+1,301 ETP） | 住房（APL 不重估） |
+1003: | 教育（+3,257 ETP，但**指数点冻结**） | 公务员（指数点冻结、编制净减） |
+1004: | | 地方（转移支付 −20 亿） |
+1017: | 10-05 | 朗斯手雷炸断 15 岁学生手掌 | 当日多党反应；10-06 出现「海啸日」（26.6 万–45 万） |
+1018: | 10-07 | **暂停**对学生示威使用闪光弹 | 被认为是对街头压力的让步 |
+1019: | 10-08 | — | 教育部长承认代课「有漏洞」，宣布紧急计划 |
+1020: | 10-16 | **重新授权** 10-17 使用闪光弹 | 这个循环本身成为动员话语 |
+1021: | 10-17 | 2,397 人被捕、997 名治安力量受伤 | 10-18 全法市长协会号召集会；10-19 议长提议设调查委员会 |
+1022: | 10-19 | 内长承认 `manque d'anticipation` | 公信力受损 |
+1028: | 维度 | 2023 退休改革 | 2026-10 |
+1031: | 争议性质 | 参数改革（64 岁） | **「谁承担」的分配问题** |
+1034: | 时间坐标 | 距总统选举 4 年 | **距 2027 年总统选举 6 个月** |
+1040: | 指标 | 2023 Nahel | 2025 Bloquons tout | 2026-10-17 |
+1042: | 逮捕总数 | 约 3,800（GAV 4,282） | 540 → 675 | 2,397 |
+1043: | 未成年占比 | **31%** | 未公布 | 约 30%（全国**周末累计**拘留 2,331 人中 70% 成年） |
+1044: | 平均年龄 | 已定罪者 **23 岁**（未成年人子样本 16 岁） | 未公布 | 未公布 |
+1045: | 前科 | 已定罪者 **57% 无前科** | 未公布 | 未公布 |
+1046: | 国籍 | 已定罪者 **71% 法国籍**（未成年人子样本 90%） | 未公布 | 未公布 |
+1047: | 巴黎被捕者年龄结构 | — | — | 两套已核拆分成年占 **68–73%** |
+1070: | 维度 | 2018 黄背心 | 2026-10-17 |
+1076: | 目标选择 | 象征物 | **市政厅、警察局、连锁便利店、奢侈品店**（选择性掠夺）。Carrefour 便利店为何成为目标，见 <https://www.ladepeche.fr/2026/10/19/manifestations-du-17-octobre-pourquoi-autant-de-magasins-de-proximite-carrefour-ont-ils-ete-pilles-et-saccages-par-les-casseurs-13608600.php> |
+1078: | 与总统选举的距离 | 距 2022 约三年半 | **距 2027 约六个月** |
+1086: | 2023 退休改革 | 只有工会 |
+1087: | 2023 Nahel | 只有郊区城市骚乱 |
+1088: | 2024 农民 | 只有农业 |
+1089: | 2025 Bloquons tout | 只有网络自发＋部分工会支持 |
+1090: | **2026-10-17** | **全部同时出现** |
+1104: > « Bloquons tout : une mobilisation en demi-teinte »
+1148: | 1 · 支持与谴责并存 | 2018 | 1（2018）+ 后续各年旁证 | 只有 2018 有单次调查内的双题同测 |
+1149: | 2 · 85%–93% 窄带 | 2018、2023、2026 | 3 | 2025 年无同题调查 |
+1150: | 3 · 容忍与对象相关 | 2023、2026 | 2 | 2026 的「18–24 岁 1/3／NFP 4/10」是子样本，非全样本 |
+1151: | 4 · 立场翻转与距权力距离 | 2018、2026 | 2 | PS 那条只靠席位位置，不靠表态 |
+1152: | 5 · 国际介入取决于入口 | 2019、2026 | 2 | 2023、2025 均无同级别介入，但「无」不等于「不会」 |
+1153: | 6 · 处置场域迁移 | 2018、2023、2026 | 3 | 2026 的民事责任仍是**在途法案** |
+1167: | 2018-11-27/28 | Odoxa-Dentsu | 运动「justifié」**84%** | <https://www.odoxa.fr/sondage/gilets-jaunes-discours-demmanuel-macron-a-alimente-colere/> |
+1168: | 2018-11-28 | Elabe-BFM | 详细交叉表 | <https://elabe.fr/fichier-pdf/5378-20181128_elabe_bfmtv_les-francais-et-les-gilets-jaunes/> |
+1169: | 2018-12-11 | OpinionWay-LCI | 希望运动停止 **54%** | <https://www.franceinfo.fr/economie/transports/gilets-jaunes/apres-les-annonces-d-emmanuel-macron-54-des-francais-souhaitent-que-le-mouvement-des-gilets-jaunes-s-arrete-selon-un-sondage_3094963.html> |
+1170: | 2023-01 | TF1 Info | 反对改革约 **70%** | <https://www.tf1info.fr/societe/reforme-des-retraites-manifestation-jeudi-19-janvier-pres-de-7-francais-sur-10-opposes-2245030.html> |
+1171: | 2023 春 | IFOP（详细交叉表） | 运动支持率 | <https://www.ifop.com/wp-content/uploads/2023/06/120115-rapport-1-1.pdf> |
+1172: | 2025-09-03/04 | Ipsos-BVA-CESI | 支持 **46%**、反对 28%、无所谓 26% | <https://www.latribune.fr/la-tribune-dimanche/politique/sondage-exclusif-10-septembre-pres-d-un-francais-sur-deux-soutient-le-mouvement-1032015.html> |
+1173: | 2026-10-07 | Elabe-BFM | 高中生愤怒调查 | <https://elabe.fr/fichier-pdf/13313-20261007_elabe_bfmtv_les-francais-et-la-colere-des-lyceens/> |
+1174: | 2026-10 | Ipsos | 54% 赞成高中生运动 | <https://www.ipsos.com/fr-fr/mobilisation-lyceenne-54-des-francais-approuvent-le-mouvement> |
+1175: | 2026-10-16 | BFM 调查 | 近七成赞成 10-17 动员 | <https://www.bfmtv.com/societe/manifestations/sondage-bfmtv-pres-de-sept-francais-sur-dix-approuvent-la-mobilisation-du-17-octobre-contre-la-hausse-du-cout-de-la-vie_AN-202610160598.html> |
+1183: | 2018-12 | 一般暴力 | **85%**（Harris；黄背心支持者内部 81%）<https://www.rtl.fr/actu/debats-societe/gilets-jaunes-pres-de-3-francais-sur-4-soutiennent-le-mouvement-apres-le-1er-decembre-7795787626> |
+1184: | 2023-07 | 对公共建筑的暴力 | **93%** <https://elabe.fr/police-emeutes-urbaines/> |
+1185: | 2023-07 | 对警察的暴力 | **89%** 同上 |
+1186: | 2026-10 | 对教育人员的暴力 | **89%** 出处同 §13.1 的 Elabe／Ipsos |
+1187: | 2026-10 | 对警察的暴力 | **85%** 同上 |
+1193: | 2023-07 | 理解率 |
+1195: | 对警察的暴力 | **20%** |
+1196: | 对公共建筑的暴力 | **7%** |
+1208: | **高位—快速回落** | 黄背心 | `justifié` 84%（11-27/28）→ 希望停止 54%（12-11），两周内翻转 |
+1209: | **持续高位—结构稳定** | 反退休改革 | 1 月约七成反对；4 月底仍约 65% 支持 5-01 动员；**反对改革的比例长期高于反对运动的比例** |
+1210: | **低起点—逐步上升** | Bloquons tout → 高中抗议 | 2025-09 支持 46% → 2026-10 赞成高中生运动 54%／赞成 10-17 近七成 |
+1222: | 1 | `17octobregiletjaune.net` 的实际运营者 | **未知**。Della Sudda 明确说她识别不出 |
+1223: | 2 | `Les Essentiels` 频道在 2026 年 9–10 月是否转发 10-17 号召 | **未查**。这是判定「直接继承」的关键一步 |
+1224: | 3 | 2018 黄背心伤亡数据（11 死／24 失明／2,500 伤） | **当局口径为主**，需回查官方或 LDH／学界统计 |
+1225: | 4 | 2025-09-10 的「19.7 万」与「25 万」 | 内政部与 CGT 各自口径，**未核法文一手** |
+1226: | 5 | 生成式 AI 在 2025 年动员中的作用 | **单一中文来源**转述《世界报》，未核原文 |
+1227: | 6 | 2026 年利息支出 770 亿 | 来自 Public Sénat 转引，**非 Insee 原始** |
+1228: | 7 | Lecornu 三次 49.3 的确切日期与文本编号 | **部分仅标题级证据** |
+1229: | 8 | 2023 年 Borne 政府 49.3 次数（通说 11 次） | **未核实** |
+1230: | 9 | **「马克龙任内第七位总理」** | 仅新华社（中文，C 级）口径，**未取得法文一手** |
+1231: | 10 | **2024-06-09 欧洲议会选举的具体得票率** | 本仓库**未收录**该次官方结果，故正文不写百分比 |
+1232: | 11 | **NVO 专题自述的「四位学者」中的第四位** | 抓取记录里只有 Sirot／Tartakowsky／Ferron 三人具名 |
+1233: | 12 | **2026-10-17 农民的参与规模** | 只有 Confédération paysanne 的**号召**，无参与数据 |
+1234: | 13 | **2026-10-17 消防员的参与** | **无任何参与证据**；材料中「消防员」只出现在学者列举与受伤统计里 |
+1235: | 14 | **censure 门槛到底 287 还是 289** | 两数在材料中并存，属**届别／时点不同**（在任议席数浮动），引用须注明投票日 |
+1236: | 15 | **马克龙 10-18 讲话稿的 La Dépêche 原文** | URL 未能确认，正文给检索关键词 |
+1252: | 黄背心 | GLI-F4 的年报口径；「2,000 个封锁点」的官方定义；Amnesty「25 人失明」的归属；「2,500 伤 / 1,800 伤」的原始统计表；400 人实刑入监的最终数；Rodrigues 案庭期的官方确认 |
+1253: | 反退休改革 | 1-19 的精确内政部数（「逾 110 万」vs「112 万」）；两次 censure 的完整分组票数；CEDS 2023 年就退休改革的国别结论；CPME 2023 年表态；LBD／手榴弹／水炮的逐项使用量 |
+1254: | Nahel | 2023 基线国籍的内部矛盾（71% vs 90% 法国籍）；6-30 与 7-5 通函内各项措施的逐条归属；参议院「2 人死亡」中第二人的身份与情形 |
+1255: | Bloquons tout | 各省禁令总数；受伤执法人数的口径（23 vs 34）；10-10 后的封锁点总数；经济损失的事后核算；549 人拘留中的起诉/定罪数；「9 月 10 日」这一日期的原始提出者；Marissiaux 身份的司法认定；外国干预的规模 |
+1256: | 高中抗议 | 「883 亿」的出处（已确认为误译）；圣艾蒂安断手日期（是 10-17，不是 10-07）；暂停与禁止的区别（是**暂停**，且 10-16 已恢复）；10-05「政府修正案被否」（未找到记录）；「天花板坍塌引爆运动」（不成立）；联合国 10-19 表态（实为 10-09）；被捕总数「2,600」（无源）；部署数 10,000 与 60,000 的矛盾 |
+1297: | §0 | 04 §0 全部 + 05 §0 的「反直觉事实」 | 03 的三级关联框架原样保留，未压缩 |
+1298: | §1 | 05 §0 主表 + 04 §1 时间骨架 + 04 §1 的原始出处清单 + 05 §9 收束 | 两份的骨架表合并为一主表 + 一时间轴 |
+1299: | §2 | 05 §1（细节主体）+ 04 §1（时间轴行）+ 04 §4.1 的两处更正 | 04 独有的「让步口径更正」并入 §2.3 |
+1300: | §3 | 05 §2（细节主体）+ 04 §1（时间轴行）+ 04 §4.6 的反例逻辑 | 04 的「为什么 2023 没变成 2026」判断放在 §3.7，正文展开在 §10.6 |
+1301: | §4 | 05 §3（细节主体）+ 04 §1（时间轴行） | — |
+1302: | §5 | 05 §4（细节主体）+ 04 §1（时间轴行） | — |
+1303: | §6 | 05 §5（细节主体）+ 04 §1 的 2026 各行 | — |
+1304: | §7 | 05 §6 全部 + 04 §4.7 的画像对照 + 04 §4.6 的对照表 | 05 的「三条代价结构」保留，另加第四条（经济代价计量） |
+1305: | §8 | **04 §2 全部** | 04 独有分析，未压缩；另加 §8.4（由 05 §5.6 的日期证据推出） |
+1306: | §9 | **04 §3 全部** + 05 §4.2（平台分工表） | 04 独有分析，未压缩；另加 §9.6 复用强度表 |
+1307: | §10 | **04 §4 全部**（4.0–4.8） | 04 独有分析，四段闭环完整保留 |
+1308: | §11 | **04 §5 + §6 全部** | 未压缩 |
+1309: | §12 | **04 §7 全部**（六条） | 未压缩；另加 §12.7 覆盖矩阵 |
+1310: | §13 | 05 §7 全部 + 04 §7 第 1–3 条的民意数据 | 两处民意数据合并去重 |
+1311: | §14 | 04 §8 + 05 §8 + 04 §9 | 三块合并为一节 |
+1312: | §15 | 新写（依据 §8／§10.4／§5.4 的口径规则归纳） | 规范要求的固定节 |
+1313: | §16 | 本文件 | — |
+1314: | 附录 A | 04 附录 + 05 附录 + 两文正文全部 URL | 按来源分组全列 |
+1315: | 附录 B | 04 §10 + 05 §10 | 两套分级标准并列保留 |
+1323: | 1 | 2018-11-17 的 282,710／287,710 与 2,039 处聚集 | §1.2 时间轴 + §2.2 表 | 04 §1 与 05 §1.1 逐字重复同一组数字与同一批 URL；保留 05 的表格形态（口径更完整），04 的时间轴行保留以便纵向阅读 |
+1324: | 2 | Nahel「约 3,800 人被捕」 | §1.1／§1.2 + §4.3 | 04 §1 与 05 §3.3 同源（Darmanin／LCP），05 有完整口径标注 |
+1325: | 3 | 2025-09-08 信任投票 194/364 | §1.3 + §5.3 | 两文各自列了同一 URL，合并为一处完整引用，另一处改为节内互指 |
+1326: | 4 | 2025-09-10 的「19.7 万／25 万」「540→675」「850 场行动」 | §1.2 时间轴 + §5.4 | 04 §1 与 05 §4.3／§4.4 两处出现；保留 05 的完整数字表，04 的时间轴行保留 |
+1327: | 5 | 2023-04-14 宪法委员会 2023-849 DC 与六组 cavaliers | §3.4 | 04 §7 第 6 条与 05 §2.4 均提及；05 有完整的六项清单 |
+1328: | 6 | 49.3 的时间线（2023-03-16 → 2026-02-02） | §10.3 | 04 §4.3 完整表；05 §2.2 与 §4.3 有分散的同名节点。合并到 §10.3 一处，案例节内只保留与本案例直接相关的行 |
+1329: | 7 | Lecornu 三度 49.3（2026-01-19/23/30） | §10.3 | 05 §4.3 与 04 §4.3 逐条重复，URL 相同；保留 04 的完整表，05 的案例节改为指向 §10.3 |
+1330: | 8 | 2027 预算「净削 1,588 个教师岗位」与 65.53 Md€ | §10.4 + §6.5 | 04 §4.4 与 05 §5.5 重复；§10.4 放完整预算语境，§6.5 放本次事件结果 |
+1331: | 9 | 「85%–93% 谴责率窄带」 | §12 第 2 条 + §13.2 | 04 §7 第 2 条与 05 §7.2 是同一发现的两种写法；§12 给可证伪形式，§13.2 给数据表 |
+1332: | 10 | 「理解对警察 20%／对公共建筑 7%」 | §12 第 3 条 + §13.3 | 同上，04 §7 第 3 条与 05 §7.3 重复 |
+1333: | 11 | Harris 2018-12 的 72%／85%／81% | §12 第 1 条 + §13.2 | 04 §7 第 1 条与 05 §7.2 重复 |
+1334: | 12 | 黄背心 11 死／24 失明／2,500 伤／1,800 伤 | §2.4 | 04 §1 时间轴行与 05 §1.3 重复；05 有逐项出处 |
+1335: | 13 | 「2,039 个 rassemblements」的口径未定说明 | §2.2 | 04 §1 与 05 §1.1 均标 ⚠️，合并为一处并补口径解释 |
+1336: | 14 | NVO 2026-10-16 专题（同一 URL）在 04 中被引用三次 | §8.2（出处集中）+ §9／§10.8 标「同 §8.2」 | 同一 URL 不必三次内联，按规范 §3「第二次起写（同上）」 |
+1368: | 1 | Ouest-France（转述内政部，2018-11-17 首日） | <https://www.ouest-france.fr/societe/gilets-jaunes/106-blesses-dont-5-graves-le-bilan-de-la-mobilisation-des-gilets-jaunes-revu-la-hausse-6075799> |
+1369: | 2 | SudOuest（内政部/AFP，2018-11-18 汇总） | <https://www.sudouest.fr/economie/social/gilets-jaunes-287-000-manifestants-et-plus-de-400-blesses-depuis-samedi-2900810.php> |
+1370: | 3 | vie-publique（loi 2018-1213） | <https://www.vie-publique.fr/loi/20812-loi-24-decembre-2018-gilets-jaunes-mesures-economiques-et-sociales> |
+1371: | 4 | franceinfo（2019-05-26 欧洲选举内政部最终结果） | <https://www.franceinfo.fr/elections/elections-europeennes-le-rn-obtient-23-31-des-voix-et-lrem-22-41-selon-les-resultats-complets-du-ministere-de-l-interieur_3462365.html> |
+1372: | 5 | OHCHR（2019-02-14 联合国特别报告员联合声明） | <https://www.ohchr.org/en/press-releases/2019/02/france-un-experts-denounce-severe-rights-restrictions-gilets-jaunes> |
+1373: | 6 | LCP（Borne 宣布 49.3，2023-03-16） | <https://lcp.fr/actualites/reforme-des-retraites-elisabeth-borne-annonce-le-recours-au-493-la-responsabilite-du> |
+1374: | 7 | Assemblée nationale（scrutin 1240） | <https://www.assemblee-nationale.fr/dyn/16/scrutins/1240> |
+1375: | 8 | Assemblée nationale（scrutin 1241） | <https://www.assemblee-nationale.fr/dyn/16/scrutins/1241> |
+1376: | 9 | Assemblée nationale（2025-09-08 信任投票 194/364） | <https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/vote-de-confiance-l-assemblee-nationale-n-a-pas-adopte-la-declaration-de-politique-generale-du-gouvernement> |
+1377: | 10 | LCP（Darmanin：约 3,800 人被捕） | <https://lcp.fr/actualites/violences-urbaines-3-800-interpellations-au-total-indique-gerald-darmanin-207074> |
+1378: | 11 | BFM（2025-09-11 终局：675 人被捕） | <https://www.bfmtv.com/police-justice/675-interpellations-en-france-apres-le-mouvement-du-10-septembre-selon-un-dernier-bilan_AN-202509110278.html> |
+1379: | 12 | CNews（2025-09-10 23 时口径） | <https://www.cnews.fr/france/2025-09-10/bloquons-tout-183-interpellations-en-agglomeration-parisienne-1737338> |
+1380: | 13 | Conspiracy Watch（Bloquons tout 谱系） | <https://www.conspiracywatch.info/bloquons-tout-comment-le-mouvement-est-passe-de-lextreme-droite-a-lextreme-gauche.html> |
+1381: | 14 | Fondation Jean-Jaurès（Bloquons tout 画像） | <https://www.jean-jaures.org/publication/bloquons-tout-tentative-de-portrait-robot-dun-mouvement-nebuleux/> |
+1382: | 15 | Reuters（2025-07-15 Bayrou 预算方向） | <https://www.reuters.com/world/europe/french-pm-stakes-political-survival-budget-squeeze-2025-07-15/> |
+1383: | 16 | vie-publique（Lecornu 三度 49.3，2026 预算） | <https://www.vie-publique.fr/en-bref/301706-nouveau-recours-au-493-pour-ladoption-du-budget-2026> |
+1384: | 17 | info.gouv.fr（Lecornu 任命总理） | <https://www.info.gouv.fr/actualite/sebastien-lecornu-nomme-premier-ministre> |
+1385: | 18 | franceinfo（2025-10-16 不信任案被否，LFI 271） | <https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/rejet-de-la-motion-de-censure-contre-le-gouvernement-lecornu-decouvrez-quels-deputes-ont-vote-le-texte-dans-notre-moteur-de-recherche_7555858.html> |
+1386: | 19 | La Dépêche（2026-10-14 10-17 号召与集合点） | <https://www.ladepeche.fr/2026/10/14/mobilisation-du-17-octobre-gilets-jaunes-lyceens-agriculteurs-syndicats-qui-appellent-a-manifester-et-quels-sont-les-principaux-lieux-de-rendez-vous-13601403.php> |
+1387: | 20 | BFM（2026-10-18 2,397 人被捕、997 人受伤） | <https://www.bfmtv.com/police-justice/violences-du-7-octobre-le-ministere-de-l-interieur-recense-2-397-interpellations-997-policiers-et-gendarmes-blesses-dont-7-graves_AD-202610180350.html> |
+1388: | 21 | BFM 直播（10-06「海啸日」） | <https://www.bfmtv.com/societe/manifestations/direct-colere-lyceenne-des-milliers-de-lyceens-attendus-dans-la-rue-ce-mardi-journee-sous-haute-surveillance-pour-l-acte-iii-de-la-mobilisation_LN-202610060069.html> |
+1389: | 22 | LCP（朗斯 15 岁学生断手，10-05） | <https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de> |
+1390: | 23 | Public Sénat（教育预算 65.53 Md€、净削 1,588 岗） | <https://www.publicsenat.fr/actualites/economie/mobilisation-des-lyceens-et-des-etudiants-ce-que-prevoit-le-budget-2027-sur-leducation> |
+1391: | 24 | education.gouv.fr（2027 预算教育卷宗 PDF） | <https://www.education.gouv.fr/sites/default/files/document/budget-2027-pour-l-cole-le-dossier-de-presse-521314.pdf> |
+1392: | 25 | Elabe（2023-07 城市骚乱调查） | <https://elabe.fr/police-emeutes-urbaines/> |
+1393: | 26 | RTL（Harris 2018-12-02：72% 支持、85% 谴责） | <https://www.rtl.fr/actu/debats-societe/gilets-jaunes-pres-de-3-francais-sur-4-soutiennent-le-mouvement-apres-le-1er-decembre-7795787626> |
+1401: | 1 | affaires-publiques（12-10 讲话四项 + loi 2018-1213 三项） | <http://www.affaires-publiques.org/textof/TO/18/15648-1218.htm> |
+1402: | 2 | 新华社 2025-09-11（C 级中文线索） | <http://www.news.cn/world/20250911/530ced08bc034a4a89d35ad3bb47f00c/c.html> |
+1403: | 3 | FIDL 2026-10-15 声明（要求立法禁止对未成年人使用致残性武器） | <https://fidl.org/depuis-matignon-sebastien-lecornu-met-une-gifle-au-mouvement-lyceen/> |
+1404: | 4 | NVO 2026-10-16 专题（四位学者评述） | <https://nvo.fr/mouvement-des-lyceens-prix-du-carburant-violences-policieres-le-17-octobre-explosion-de-toutes-les-coleres/> |
+1405: | 5 | RMC 2025-09-09（Julien Marissiaux 身份） | <https://rmc.bfmtv.com/actualites/societe/qui-est-julien-marissiaux-a-l-origine-du-mouvement-bloquons-tout_AV-202509090746.html> |
+1406: | 6 | 24matins（10-13：384 场集会、2 万签名） | <https://www.24matins.fr/le-17-octobre-cristallise-une-colere-sociale-bien-plus-large-1422299> |
+1407: | 7 | BFM 直播（2026-10-19 巴黎 117 人被捕，Beccuau 口径佐证） | <https://www.bfmtv.com/societe/manifestations/direct-violences-du-17-octobre-au-moins-117-interpellations-a-paris-ce-dimanche-apres-de-nouveaux-incidents-laurent-nunez-attendu-a-marseille-au-lendemain-de-l-allocution-d-emmanuel-macron_LN-202610190067.html> |
+1408: | 8 | BFM（OHCHR 10-09 就高中生动员表态） | <https://www.bfmtv.com/societe/manifestations/le-droit-de-reunion-pacifique-doit-etre-respecte-l-onu-inquiete-face-aux-violences-lors-des-mobilisations-lyceennes-en-france_AD-202610090506.html> |
+1409: | 9 | 审计法院官网（机构入口） | <https://www.ccomptes.fr/> |
+1410: | 10 | franceinfo（10-16 恢复使用中间武器，残缺失落） | <https://www.franceinfo.fr/faits-divers/police/manifestations-du-17-octobre-tous-les-types-de> |
+1411: | 11 | franceinfo（2025-09「半途而废」评价） | <https://www.franceinfo.fr/societe/bloquons-tout-mouvement-du-10-septembre/bloquons-tout-une-mobilisation-en-demi-teinte_7485736.html> |
+1412: | 12 | franceinfo（10-07 马克龙要求暂停闪光弹） | <https://www.franceinfo.fr/societe/education/blocage-des-lycees/emmanuel-macron-a-demande-a-laurent-nunez-la-suspension-des-grenades-assourdissantes_8227060.html> |
+1413: | 13 | Gazzetta di Modena 2026-10-17（Della Sudda 访谈，意大利语） | <https://www.gazzettadimodena.it/speciale/2026/10/17/news/francia-l-esperta-repressione-alimenta-convergenza-tra-lotte-degli-studenti-e-gilet-gialli-1.100931062> |
+1414: | 14 | ICI／Radio France（2026-10-01 2027 预算逐条） | <https://www.ici.fr/infos/economie-social/budget-2027-gel-des-depenses-retraites-mis-a-contribution-ce-que-l-on-sait-du-projet-du-gouvernement-9678990> |
+1415: | 15 | Insee Informations Rapides n°78（2026-03-27） | <https://www.insee.fr/fr/statistiques/8956575> |
+1416: | 16 | Insee Première n°2106（2026-05，2025 年公共行政账户） | <https://www.insee.fr/fr/statistiques/8997691> |
+1417: | 17 | La Dépêche（2026-09-11 社交网络号召首次被报道） | <https://www.ladepeche.fr/2026/09/11/un-retour-des-gilets-jaunes-le-samedi-17-octobre-des-appels-a-manifester-contre-la-flambee-des-prix-des-carburants-reperes-sur-les-reseaux-sociaux-13546042.php> |
+1418: | 18 | La Dépêche（2026-10-19 Carrefour 便利店为何成为目标） | <https://www.ladepeche.fr/2026/10/19/manifestations-du-17-octobre-pourquoi-autant-de-magasins-de-proximite-carrefour-ont-ils-ete-pilles-et-saccages-par-les-casseurs-13608600.php> |
+1419: | 19 | LCP（2026-10-09 2027 预算收入部分被否 31-3-2，残缺） | <https://www.lcp.fr./actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de> |
+1420: | 20 | Le Point（2018-11-14 各党对黄背心的立场） | <https://www.lepoint.fr/politique/les-gilets-jaunes-divisent-les-partis-politiques-14-11-2018-2271513_20.php> |
+1421: | 21 | Midi Libre / AFP（2026-10-16 2027 社保预算在委员会被否） | <https://www.midilibre.fr/2026/10/16/vers-un-nouveau-493-apres-le-budget-de-letat-les-deputes-rejettent-celui-de-la-securite-sociale-pour-2027-13605846.php> |
+1422: | 22 | 新华社《环球》2025-12-24（C 级中文线索） | <https://www.news.cn/globe/20251224/9ce04032d0a04a2db163b1b05880031c/c.html> |
+1423: | 23 | Public Sénat（审计法院 2026-06-25 判断） | <https://www.publicsenat.fr/actualites/economie/la-dette-consomme-toutes-nos-marges-de-manoeuvre-budgetaires-salarme-la-cour-des-comptes-avant-les-arbitrages-du-prochain-budget> |
+1424: | 24 | Public Sénat（2018-12-10 讲话四项） | <https://www.publicsenat.fr/actualites/politique/macron-annonce-une-volee-de-mesures-pour-apaiser-les-gilets-jaunes-136241> |
+1425: | 25 | Toute l'Europe（2026-10-02 2027 预算措施整理） | <https://www.touteleurope.eu/economie-et-social/budget-2027-ce-qu-il-faut-retenir-des-mesures-annoncees-par-le-gouvernement-lecornu/> |
+1426: | 26 | vie-publique（审计法院报告 PDF 转载版） | <https://www.vie-publique.fr/files/rapport/pdf/303867.pdf> |
+1434: | 1 | vie-publique（2018-12-04 moratoire，12-05 改彻底取消） | <https://www.vie-publique.fr/discours/207450-edouard-philippe-04122018-moratoire-six-mois-hausse-taxes-carburants> |
+1435: | 2 | Élysée（2019-01-13 致法国人公开信） | <https://www.elysee.fr/en/emmanuel-macron/2019/01/13/letter-to-the-french-people-from-emmanuel-macron> |
+1436: | 3 | Les Échos（2019-04-25 宣布 50 亿€ 减税） | <https://www.lesechos.fr/politique-societe/emmanuel-macron-president/grand-debat-les-7-propositions-de-macron-a-retenir-1014119> |
+1437: | 4 | Le Parisien（2018-12-08 acte 4：1,723 逮捕／1,220 GAV） | <https://www.leparisien.fr/faits-divers/bilan-de-l-acte-4-des-gilets-jaunes-1-723-interpellations-1-220-gardes-a-vue-09-12-2018-7963890.php> |
+1438: | 5 | Ouest-France（2018-12-08 警力部署） | <https://www.ouest-france.fr/societe/gilets-jaunes/gilets-jaunes-des-moyens-exceptionnels-mobilises-ce-samedi-en-plus-de-65-000-forces-de-l-ordre-6113608> |
+1439: | 6 | ICI（IGPN 年报：LBD +203%、GMD +296%） | <https://www.ici.fr/infos/faits-divers-justice/une-hausse-de-200-de-l-utilisation-des-lbd-et-des-grenades-de-desencerclement-en-2018-selon-igpn-1560440788> |
+1440: | 7 | Amnesty France（GLI-F4：运动期间 1,428 发） | <https://www.amnesty.fr/communiques/amnesty-international-appelle-durgence-les-autorites/> |
+1441: | 8 | Sénat（loi 2019-290 卷宗 ppl17-575） | <https://www.senat.fr/dossier-legislatif/ppl17-575.html> |
+1442: | 9 | Public Sénat（2019-01-28 总统口径：11 死） | <https://www.publicsenat.fr/actualites/politique/gilets-jaunes-macron-deplore-11-morts-aucun-du-fait-des-forces-de-l-ordre-137336> |
+1443: | 10 | ICI（司法部／内政部一年盘点：10,852 GAV／3,163 定罪） | <https://www.ici.fr/infos/societe/un-de-gilets-jaunes-la-reponse-de-la-justice-face-a-un-mouvement-social-inedit-1573731130> |
+1444: | 11 | franceinfo（2019-12-19 唯一被定罪的警察） | <https://www.franceinfo.fr/economie/transports/gilets-jaunes/gilets-jaunes-le-policier-qui-avait-jete-un-pave-sur-des-manifestants-le-1er-mai-a-paris-condamne-a-deux-mois-de-prison-avec-sursis-pour-violences-volontaires_3751349.html> |
+1445: | 12 | Assemblée nationale（n° 2167：GDP −0.1 pt、保险 2.17 亿€） | <https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L15B2167.html> |
+1446: | 13 | Odoxa-Dentsu（2018-11-27/28：justifié 84%） | <https://www.odoxa.fr/sondage/gilets-jaunes-discours-demmanuel-macron-a-alimente-colere/> |
+1447: | 14 | franceinfo（OpinionWay-LCI：54% 希望停止） | <https://www.franceinfo.fr/economie/transports/gilets-jaunes/apres-les-annonces-d-emmanuel-macron-54-des-francais-souhaitent-que-le-mouvement-des-gilets-jaunes-s-arrete-selon-un-sondage_3094963.html> |
+1448: | 15 | Conseil constitutionnel（2019-780 DC） | <https://www.conseil-constitutionnel.fr/decision/2019/2019780DC.htm> |
+1449: | 16 | Public Sénat（2019-02-05 国民议会 387-92-74） | <https://www.publicsenat.fr/actualites/politique/large-vote-de-l-assemblee-sur-le-texte-anticasseurs-mais-50-dissidents-lrem-137644> |
+1450: | 17 | Public Sénat（2019-03-12 参议院 210-115） | <https://www.publicsenat.fr/actualites/politique/loi-anticasseurs-le-senat-vote-le-texte-conforme-139025> |
+1451: | 18 | france3-régions（Rodrigues 案移送刑事法庭） | <https://france3-regions.franceinfo.fr/paris-ile-de-france/paris/soupconne-d-avoir-eborgne-le-gilet-jaune-jerome-rodrigues-un-policier-juge-devant-une-cour-criminelle-3292773.html> |
+1452: | 19 | Secours Rouge（庭期汇总，**D 级**） | <https://secoursrouge.org/france-proces-pour-leborgnement-de-jerome-rodrigues-et-indemnisation-dun-gilet-jaune-blesse/> |
+1453: | 20 | Conseil de l'Europe（Mijatović 2019-02-26 备忘录） | <https://rm.coe.int/memorandum-sur-le-maintien-de-l-ordre-et-la-liberte-de-reunion-dans-le/1680931add> |
+1454: | 21 | Défenseur des droits（2020-07-09 决定框架 2020-131） | <https://juridique.defenseurdesdroits.fr/index.php?id=33202&lvl=notice_display> |
+1455: | 22 | Obscoservatoire／obsPol（决定框架全文 PDF） | <https://reports.obspol.org/FRA/DDD/FRA_2020.07.09_DDD_Decision-Cadres_Maintien.Ordre.pdf> |
+1461: | 1 | franceinfo（2023-01-19：逾 110 万／逾 200 万） | <https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-plus-de-1-1-million-de-personnes-ont-manifeste-en-france-selon-le-ministere-de-l-interieur-plus-de-2-millions-selon-la-cgt_5612201.html> |
+1462: | 2 | Sénat（PLFRSS 卷宗 pjl22-368） | <https://www.senat.fr/dossier-legislatif/pjl22-368.html> |
+1463: | 3 | CNews（2023-03-07 警力 10,500） | <https://www.cnews.fr/france/2023-03-07/manifestation-contre-la-reforme-des-retraites-10500-policiers-et-gendarmes> |
+1464: | 4 | Public Sénat（2023-03-11 参议院 195-112-37，44-3） | <https://www.publicsenat.fr/actualites/politique/reforme-des-retraites-le-senat-adopte-le-projet-de-loi-239703> |
+1465: | 5 | RMC（2023-03-17：310 人被捕） | <https://rmc.bfmtv.com/actualites/police-justice/manifestations-apres-le-49-3-sur-les-retraites-310-interpellations-dans-toute-la-france_AP-202303170158.html> |
+1466: | 6 | BFM（2023-03-21 Darmanin：855 逮捕／843 GAV） | <https://www.bfmtv.com/politique/gouvernement/manifestations-contre-la-reforme-des-retraites-il-y-a-eu-exactement-855-interpellations-dans-toute-la-france-pour-843-gardes-a-vue-affirme-gerald-darmanin_VN-202303210652.html> |
+1467: | 7 | franceinfo（2023-03-23：320 名警宪受伤） | <https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-au-moins-320-policiers-blesses-apres-une-journee-de-mobilisation-emaillee-de-violences_5729507.html> |
+1468: | 8 | Le Parisien（2023-03-23 警力 12,000／巴黎 5,000） | <https://www.leparisien.fr/economie/retraites/retraites-12-000-policiers-et-gendarmes-mobilises-jeudi-dont-5-000-a-paris-pour-la-9e-journee-intersyndicale-21-03-2023-LUWQHX3PA5ECFBFDSOAFJLCWTM.php> |
+1469: | 9 | vie-publique（Sainte-Soline 2023-03-25 报告） | <https://www.vie-publique.fr/rapport/288944-bilan-de-la-manifestation-interdite-des-24-26-mars-sainte-soline> |
+1470: | 10 | BFM（2023-03-28 警力 13,000／巴黎 5,500） | <https://www.bfmtv.com/politique/retraites-gerald-darmanin-annonce-un-dispositif-de-securite-inedit-compose-de-13-000-policiers-et-gendarmes-dont-5500-a-paris_VN-202303270579.html> |
+1471: | 21 | ICI（2023-04-13／05-01 行动日） | <https://www.ici.fr/infos/economie-social/retraites-les-syndicats-appellent-a-une-mobilisation-massive-suivez-la-journee-du-1er-mai-7544969> |
+1472: | 12 | Conseil constitutionnel（2023-849 DC） | <https://www.conseil-constitutionnel.fr/decision/2023/2023849DC.htm> |
+1473: | 13 | Conseil constitutionnel（2023-5 RIP） | <https://www.conseil-constitutionnel.fr/decision/2023/20235RIP.htm> |
+1474: | 14 | Juricaf（CE 2024-12-20 n° 477315） | <https://juricaf.org/arret/FRANCE-CONSEILDETAT-20241220-477315> |
+1475: | 15 | franceinfo（2023-06-06 第 14 个行动日：900,000／281,000） | <https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-900-000-personnes-ont-manifeste-en-france-selon-la-cgt-281-000-selon-le-ministere-de-l-interieur-lors-de-la-14e-journee-de-mobilisation_5872961.html> |
+1476: | 16 | Conseil de l'Europe（威尼斯委员会 CDL-AD(2023)024） | <https://www.coe.int/fr/web/venice-commission/-/cdl-ad-2023-024-e> |
+1477: | 17 | Juricaf（CE 2024-09-19 n° 478247，拒绝 QPC 移送） | <https://juricaf.org/arret/FRANCE-CONSEILDETAT-20240919-478247> |
+1478: | 18 | Conseil constitutionnel（2023-849 DC 通讯稿） | <https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2023-849-dc-du-14-avril-2023-communique-de-presse> |
+1479: | 19 | LCP（媒体解读：核心维持） | <https://lcp.fr/actualites/retraites-le-conseil-constitutionnel-valide-l-essentiel-de-la-reforme-dont-les-64-ans> |
+1480: | 20 | service-public（2026 LFSS：暂停至 2028） | <https://www.service-public.gouv.fr/particuliers/actualites/A18825> |
+1481: | 11 | TF1 Info（2023-01：近七成反对） | <https://www.tf1info.fr/societe/reforme-des-retraites-manifestation-jeudi-19-janvier-pres-de-7-francais-sur-10-opposes-2245030.html> |
+1482: | 22 | vie-publique（2024-06-09 解散国民议会） | <https://www.vie-publique.fr/en-bref/294546-dissolution-de-lassemblee-nationale-elections-legislatives-le-30-juin> |
+1483: | 23 | franceinfo（权利捍卫者收到 90 件申诉） | <https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/info-franceinfo-maintien-de-l-ordre-la-defenseure-des-droits-a-recu-90-saisines-depuis-le-debut-de-la-mobilisation-contre-la-reforme-des-retraites_5750069.html> |
+1491: | 1 | franceinfo（2023-06-29 Nanterre 检察院记者会） | <https://www.franceinfo.fr/faits-divers/police/mort-de-nahel-ce-qu-il-faut-retenir-de-la-conference-de-presse-du-procureur-de-la-republique-de-nanterre_5919584.html> |
+1492: | 2 | BFM（2023-06-29 拒绝紧急状态） | <https://www.bfmtv.com/police-justice/mort-de-nahel-emmanuel-macron-annonce-des-moyens-supplementaires-mais-pas-d-etat-d-urgence_AV-202306300557.html> |
+1493: | 3 | franceinfo（警力 45,000、21 时 bus／tram 停驶） | <https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/violences-apres-la-mort-de-nahel-jean-luc-melenchon-appelle-les-jeunes-a-ne-pas-toucher-aux-ecoles_5922839.html> |
+1494: | 4 | affaires-publiques（décret n° 2023-576 烟火管制） | <http://www.affaires-publiques.org/textof/TO/23/24508-0723.htm> |
+1495: | 5 | Actu-Juridique（政府反对 2 小时删除义务修正案） | <https://www.actu-juridique.fr/breves/ntic-medias-presse/378314/> |
+1496: | 6 | Assemblée nationale（书面答复：两份通函日期、4,481 GAV） | <https://questions.assemblee-nationale.fr/q16/16-10404QE.htm> |
+1497: | 7 | Sénat（n° 521 第 8 章「关键数字」） | <https://www.senat.fr/rap/r23-521/r23-5218.html> |
+1498: | 8 | France Assureurs（7.3 亿€ 重估） | <https://www.franceassureurs.fr/espace-presse/les-communiques-de-presse/cout-sinistres-declares-violences-urbains-fin-juin-reevalue-730millions-euros/> |
+1499: | 9 | BFM（2023-07-06：3,693 GAV 中 1,149 未成年，31%） | <https://www.bfmtv.com/police-justice/emeutes-76-des-personnes-passees-en-comparution-immediate-sont-en-detention_AN-202307060429.html> |
+1500: | 10 | RTL（Duond-Moretti：742 人实刑） | <https://www.rtl.fr/actu/justice-faits-divers/invite-rtl-emeutes-742-personnes-condamnees-a-de-la-prison-ferme-annonce-eric-dupond-moretti-7900283554> |
+1501: | 11 | Sénat（n° 521 第 1 章：IGJ 口径、71%/90% 画像） | <https://www.senat.fr/rap/r23-521/r23-5211.html> |
+1502: | 12 | Sénat（n° 521 报告入口） | <https://www.senat.fr/rap/r23-521/r23-521.html> |
+1503: | 13 | Conseil constitutionnel（2025-886 DC，Attal 法） | <https://www.conseil-constitutionnel.fr/decision/2025/2025886DC.htm> |
+1504: | 14 | UNRIC（OHCHR 对种族主义与歧视的关切） | <https://unric.org/fr/mort-de-nahel-lonu-inquiete-du-racisme-et-de-la-discrimination/> |
+1505: | 15 | 20 Minutes（Amnesty 呼吁改革警用武器规则） | <https://www.20minutes.fr/societe/4045474-20230713-mort-nahel-amnesty-appelle-reformer-utilisation-armes-feu-police> |
+1506: | 16 | AMF 49（7-03 全国「公民动员」） | <https://www.amf49.fr/mobilisation-civique-contre-les-violences-lundi-3-juillet-a-midi/> |
+1507: | 17 | CGT État（CGT + 约 90 组织 7-05 联署） | <https://www.cgtetat.fr/societe-959/autres/article/appel-notre-pays-est-en-deuil-et-en-colere> |
+1508: | 18 | CFDT（拒绝加入废除 IGPN 联署） | <https://monsyndicatcfdt.fr/le-syndicat/communique-de-presse-mort-de-nahel-la-cfdt-ile-de-france-appelle-lapaisement-et-demande> |
+1509: | 19 | franceinfo（2023-07 城市骚乱后续：Mélenchon 呼吁） | <https://www.franceinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/violences-apres-la-mort-de-nahel-jean-luc-melenchon-appelle-les-jeunes-a-ne-pas-toucher-aux-ecoles_5922839.html> |
+1510: | 20 | Sénat（n° 521 建议清单，与第 11 条同页） | <https://www.senat.fr/rap/r23-521/r23-5211.html> |
+1511: | 21 | Sénat（n° 521 报告入口，与第 12 条同页） | <https://www.senat.fr/rap/r23-521/r23-521.html> |
+1519: | 1 | Rapports de Force（「que devient Bloquons tout」） | <https://rapportsdeforce.fr/classes-en-lutte/que-devient-bloquons-tout-100325611> |
+1520: | 2 | ICI（AFP：9-10 号召的传播链与 5 月最早痕迹） | <https://www.ici.fr/infos/societe/tout-bloquer-le-10-septembre-ce-que-l-on-sait-de-l-appel-a-la-mobilisation-ne-sur-les-reseaux-sociaux-6469267> |
+1521: | 3 | Le Monde（2025-08-31：结构以极左同情者为主） | <https://www.lemonde.fr/politique/article/2025/08/31/bloquons-tout-est-un-mouvement-structure-presque-exclusivement-autour-de-sympathisants-de-la-gauche-radicale_6637915_823448.html> |
+1522: | 4 | L'Humanité（Mobilisation10septembre.blog 上线） | <https://www.humanite.fr/social-et-economie/budget/un-arret-total-et-illimite-du-pays-cest-quoi-ces-appels-a-bloquer-la-france-le-10-septembre> |
+1523: | 5 | franceinfo（2025-09-01 情报部门评估：10 万人、38 场省级行动） | <https://www.franceinfo.fr/societe/bloquons-tout-mouvement-du-10-septembre/dans-les-rues-les-transports-les-ecoles-a-quoi-s-attendre-lors-du-mouvement-bloquons-tout-le-10-septembre_7480003.html> |
+1524: | 6 | La Tribune（Ipsos-BVA-CESI：46/28/26） | <https://www.latribune.fr/la-tribune-dimanche/politique/sondage-exclusif-10-septembre-pres-d-un-francais-sur-deux-soutient-le-mouvement-1032015.html> |
+1525: | 7 | Le Télégramme（同一调查的第二次报道） | <https://www.letelegramme.fr/elections/sondages/46-des-francais-soutiennent-le-mouvement-bloquons-tout-6883503.php> |
+1526: | 8 | Midi Libre（2025-09-08 Retailleau：约 8 万警宪、「climat insurrectionnel」） | <https://www.midilibre.fr/2025/09/08/bloquons-tout-bruno-retailleau-se-mefie-dun-climat-insurrectionnel-ce-10-septembre-et-annonce-un-gros-dispositif-de-securite-12918321.php> |
+1527: | 9 | Public Sénat（2025-09-09「tolérance zéro」、8 万警力） | <https://www.publicsenat.fr/actualites/societe/tolerance-zero-face-a-bloquons-tout-80-000-de-forces-de-securite-deployees-le-10-septembre> |
+1528: | 10 | BFM（2025-09-12 Beccuau：首都 174 人拘留、167 移送） | <https://www.bfmtv.com/police-justice/peu-de-mineurs-plus-de-femmes-le-profil-des-personnes-en-garde-a-vue-apres-le-mouvement-du-10-septembre-a-paris_AV-202509120351.html> |
+1529: | 11 | franceinfo（2025-09-18：50.6 万／逾 100 万，309 人被捕） | <https://www.franceinfo.fr/economie/greve/greve/greve-du-18-septembre-les-autorites-annoncent-plus-de-500-000-manifestants-en-france-la-cgt-en-denombre-plus-d-un-million_7500007.html> |
+1530: | 12 | franceinfo（2025-10-02 第三个行动日：19.5 万／近 60 万） | <https://www.franceinfo.fr/economie/greve/direct-greve-nationale-du-2-octobre-jour-j-pour-les-syndicats-qui-appellent-a-de-nouvelles-mobilisations-contre-l-austerite-budgetaire_7527007.html> |
+1531: | 13 | info.gouv.fr（2025-10-05/06 Lecornu 首任政府辞职） | <https://www.info.gouv.fr/actualite/demission-de-sebastien-lecornu> |
+1532: | 14 | RFI（2025-10-12 Nuñez 接任内政部长） | <https://www.rfi.fr/fr/france/20251012-france-laurent-nu%C3%B1ez-nomm%C3%A9-ministre-de-l-int%C3%A9rieur-dans-le-gouvernement-lecornu-ii> |
+1533: | 15 | franceinfo（2025-10-14 施政宣言：暂停退休改革、承诺不用 49.3） | <https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/suspension-de-la-reforme-des-retraites-abandon-du-49-3-fiscalite-ce-qu-il-faut-retenir-du-discours-de-politique-generale-de-sebastien-lecornu_7551979.html> |
+1534: | 16 | Le Poing（蒙彼利埃 2025-11-15 仅约 200 人） | <https://lepoing.net/mouvement-bloquons-tout-a-montpellier-la-mobilisation-du-15-novembre-a-fait-flop/> |
+1535: | 17 | actu.fr（南特 2025-11-15 行动） | <https://actu.fr/pays-de-la-loire/nantes_44109/manifestation-a-nantes-le-mouvement-bloquons-tout-est-de-retour-samedi_63437814.html> |
+1536: | 18 | franceinfo（2026-02-02 2026 年国家预算最终通过，260 票） | <https://www.franceinfo.fr/economie/budget/le-budget-de-l-etat-pour-2026-definitivement-adopte-par-le-parlement-apres-le-rejet-des-motions-de-censure-d-une-partie-de-la-gauche-et-du-rn_7780325.html> |
+1537: | 19 | Mars Infos（2026-03-08/14 Semaine noire） | <https://mars-infos.org/semaine-noire-du-8-au-14-mars-2026-8455> |
+1538: | 20 | Emancipation（Semaine noire 评论） | <https://emancipation.fr/la-revue/numero-6-fevrier-2026/la-semaine-noire-cest-du-8-au-14-mars/> |
+1539: | 21 | StreetPress（民间统计：59 情形／129 事件／61 起严重受伤） | <https://www.streetpress.com/1758023538-10-septembre-journee-violences-policieres-analyse-mobilisation/> |
+1540: | 22 | CNews（2025-09-11 Nuñez：「Bloquons tout 是一次失败」） | <https://www.cnews.fr/france/2025-09-11/mouvement-du-10-septembre-laction-bloquons-tout-est-un-echec-il-ny-eu-aucun> |
+1541: | 23 | ICI（2025-09-10 前 AFP/ICI 报道，与第 2 条同页） | <https://www.ici.fr/infos/societe/tout-bloquer-le-10-septembre-ce-que-l-on-sait-de-l-appel-a-la-mobilisation-ne-sur-les-reseaux-sociaux-6469267> |
+1542: | 24 | Public Sénat（与第 9 条同页，「tolérance zéro」） | <https://www.publicsenat.fr/actualites/societe/tolerance-zero-face-a-bloquons-tout-80-000-de-forces-de-securite-deployees-le-10-septembre> |
+1550: | 1 | RMC（2026-10-02 克雷泰伊学生呼吁冷静） | <https://rmc.bfmtv.com/actualites/societe/education/tout-etait-peut-etre-de-ma-faute-a-creteil-les-lyceens-a-l-origine-de-la-mobilisation-appellent-au-calme_AV-202610020143.html> |
+1551: | 2 | actu.fr（2026-09-24 至少三所 Île-de-France 高中被封锁） | <https://actu.fr/ile-de-france/creteil_94028/on-demande-juste-un-lycee-qui-fonctionne-plusieurs-lycees-d-ile-de-france-bloque-par-les-eleves_64817015.html> |
+1552: | 3 | BFM（USL 要求 100 亿€） | <https://www.bfmtv.com/politique/video-l-union-syndicale-lyceenne-demande-10-milliards-d-euros-au-gouvernement_VN-202610080733.html> |
+1553: | 4 | La Clé Publique（2026-09-30：356 所受封锁/干扰） | <https://laclepublique.fr/national/articles/2026/2026-09-30-lycees-blocages-violences/> |
+1554: | 5 | LCP（10-04：400–500 所关闭或部分停课；Lecornu 五条工作线） | <https://lcp.fr/actualites/lycees-bloques-sebastien-lecornu-lance-cinq-chantiers-et-veut-la-reprise-des-cours> |
+1555: | 6 | LCP（10-05：589 所受扰；学生诉求清单） | <https://lcp.fr/actualites/blocage-des-lycees-quelles-sont-les-revendications-des-eleves-442989> |
+1556: | 7 | La Clé Publique（2026-10-06：警察与司法口径） | <https://laclepublique.fr/national/articles/2026/2026-10-06-lyceens-police-justice/> |
+1557: | 8 | BFM（10-07：459 所，十分之一高中受扰） | <https://www.bfmtv.com/societe/education/la-mobilisation-lyceenne-est-en-net-recul-un-lycee-sur-dix-perturbe-selon-le-ministere-de-l-education-nationale_AD-202610070453.html> |
+1558: | 9 | ICI（10-08：7.15 万／13 万+；教师罢工号召） | <https://www.ici.fr/infos/education/colere-des-lyceens-une-nouvelle-journee-d-action-ce-jeudi-les-enseignants-appeles-a-la-greve-et-a-manifester-1518036> |
+1559: | 10 | CGT État（10-08：lycéen·nes 与 étudiant·es 动员综述） | <https://www.cgtetat.fr/societe-959/mobilisations/article/lyceen-nes-etudiant-es-petite-enfance-totalenergies-les-luttes-se-multiplient> |
+1560: | 11 | Public Sénat（10-09：141 所关闭） | <https://www.publicsenat.fr/actualites/politique/141-lycees-fermes-ce-vendredi-les-lyceens-continuent-de-se-mobiliser-pour-denoncer-leurs-conditions-dapprentissage> |
+1561: | 12 | ICI（10-13：16.15 万／48 万） | <https://www.ici.fr/infos/education/direct-mouvement-des-lyceens-nouvelle-journee-de-mobilisation-ce-mardi-appel-a-la-greve-dans-l-education-nationale-5398890> |
+1562: | 13 | Ouest-France（10-13：94.2% 高中开放） | <https://www.ouest-france.fr/education/direct-mobilisation-lyceenne-les-corteges-parisiens-se-sont-elances-94-2-des-lycees-sont-ouverts-selon-le-ministere-63becb77-fda5-454d-a0fc-407ba665a014> |
+1563: | 14 | franceinfo（10-17：55 万／巴黎 11 万） | <https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html> |
+1564: | 15 | france3-régions（圣艾蒂安 10-17 断手，IGGN 介入） | <https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/loire/saint-etienne/main-arrachee-par-une-grenade-a-saint-etienne-l-inspection-generale-de-la-gendarmerie-co-saisie-3435390.html> |
+1565: | 16 | BFM（米卢斯 10-17 17 岁少女失明，IGPN 介入） | <https://www.bfmtv.com/police-justice/manifestations-du-17-octobre-une-adolescente-de-17-ans-a-perdu-l-usage-d-un-oeil-samedi-a-mulhouse-l-igpn-saisie_AN-202610180306.html> |
+1566: | 17 | 7sur7（图尔学生失明，警察被起诉） | <https://www.7sur7.be/monde/lyceen-eborgne-a-tours-un-policier-mis-en-examen-pour-violences-aggravees~a62d3782/> |
+1567: | 18 | UNSA（11-05 跨行业号召，五工会联合） | <https://www.se-unsa.org/2026/10/appel-a-la-mobilisation-pour-les-salaires-les-services-publics-lemploi-et-lindustrie/> |
+1568: | 19 | Elabe-BFM（2026-10-07 高中生愤怒调查） | <https://elabe.fr/fichier-pdf/13313-20261007_elabe_bfmtv_les-francais-et-la-colere-des-lyceens/> |
+1569: | 20 | Ipsos（54% 赞成高中生运动） | <https://www.ipsos.com/fr-fr/mobilisation-lyceenne-54-des-francais-approuvent-le-mouvement> |
+1577: | 1 | Elabe-BFM（2018-11-28 详细交叉表） | <https://elabe.fr/fichier-pdf/5378-20181128_elabe_bfmtv_les-francais-et-les-gilets-jaunes/> |
+1578: | 2 | IFOP（2023 春详细交叉表 PDF） | <https://www.ifop.com/wp-content/uploads/2023/06/120115-rapport-1-1.pdf> |
+1579: | 3 | BFM（2026-10-16：近七成赞成 10-17 动员） | <https://www.bfmtv.com/societe/manifestations/sondage-bfmtv-pres-de-sept-francais-sur-dix-approuvent-la-mobilisation-du-17-octobre-contre-la-hausse-du-cout-de-la-vie_AN-202610160598.html> |
+1580: | 4 | Juricaf（判例库入口，机构入口） | <https://juricaf.org/> |
+1588: | 1 | Défenseur des droits（机构入口） | <https://www.defenseurdesdroits.fr/> |
+1589: | 2 | Juricaf（判例库入口，与 A.3.6 第 4 条同） | <https://juricaf.org/> |
+1595: | 唯一 URL 总数 | **162** | 04 与 05 的并集 |
+1596: | 原 04 记载数 | 57 | 含重复引用，去重后 52 |
+1597: | 原 05 记载数 | 153 | 含重复引用，去重后 136 |
+1598: | 两文交集 | 26 | — |
+1599: | 仅 04 | 26 | 见 A.2 |
+1600: | 仅 05 | 110 | 见 A.3.1–A.3.7 |
+1601: | 本附录 A 列出条目（含重复引用） | 168 | 去重后 162 |
+1602: | 本文件正文（§0–§16）内联 URL | 160 | 未在正文内联的 2 条为机构入口（审计法院、Défenseur des droits），仅在附录出现 |
+1603: | **本文件全文唯一 URL** | **162** | 与源并集完全一致，**零丢失、零新增** |
+1617: | **A** | 统计机关与官方一手 | Insee Informations Rapides n°78、Assemblée nationale scrutins |
+1618: | **B** | 法文专业媒体 | franceinfo、BFM／RMC、LCP、Public Sénat、NVO、La Dépêche、24matins、ICI |
+1632: | **D** | 单一来源或非官方汇总 | Secours Rouge（庭期）、StreetPress／公民观察组织（警暴计数）、马赛「3 万抢劫者」 |
+1643: | 1 | 原 04（§9 模板五） | <https://www.franceinfo.fr/faits-divers/police/manifestations-du-17-octobre-tous-les-types-de> | 止于 `tous-les-types-de`，缺后续 slug |
+1644: | 2 | 原 04（§10.3） | <https://www.lcp.fr./actualites/budget-2027-les-deputes-rejettent-en-commission-la-partie-recettes-du-projet-de-loi-de> | 域名写作 `www.lcp.fr.`（多一个点），且 slug 止于 `projet-de-loi-de` |
+1645: | 3 | 原 05（§1.2） | <https://lcp.fr/actualites/violence-policiere-drame-faute-politique-la-grave-blessure-d-un-lyceen-a-lens-suscite-de> | 止于 `suscite-de` |
+1653: | 1 | 04 正文称「1 条残缺链接」，其附录统计表又称「残缺 slug：0」 | 两说并存，见 §B.3 的实际清点（3 条截断型） |
+1654: | 2 | 05 正文称「8 条残缺链接」，其附录统计表又称「残缺 slug：0」 | 同上 |
+1655: | 3 | 04 与 05 均称「仅给检索关键词、未给链接：2 条」，但两处的「2 条」所指不同（04 指 La Dépêche 10-18 讲话与 2023-4 RIP；05 指 loi 2019-290 的 vie-publique 页面与 2023-4 RIP） | 合并后共 **3 个不同条目**：① 04 的 La Dépêche 对马克龙 10-18 讲话的报道（URL 未能确认，正文给检索关键词）；② **2023-4 RIP** 的宪法委员会页面（材料中留存的是 2023-5 RIP，2023-4 的编号未确认）；③ **loi 2019-290 的 vie-publique 页面**（slug 未确认，正文给检索方式） |
