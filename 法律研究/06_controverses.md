@@ -7,23 +7,23 @@
 
 ---
 
-## 争议 1 · CSI L211-1 至 L211-4（申报义务与禁令）**从未经宪法实质审查**
+## 争议 1 · CSI（CSI：Code de la sécurité intérieure，国内安全法典）L211-1 至 L211-4（申报义务与禁令）**从未经宪法实质审查**
 
 - **争点**：申报制 + 行政禁令这套核心机制，是否合宪？特别是：事前申报是否已构成对集会自由的**事前限制**（censorship 式）？
 - **立场 A（认为存在宪法缺口）**：
-  - CE 在 444849 pt 24-26 中曾就 L211-1 à L211-4、L211-9 à L211-10 受理 QPC，但**拒绝移送** CC，理由是「不适用于该案」（涉及的是 SNMO 的 encerclement 条款，而非这些条文本身）。
+  - CE（CE：Conseil d'État，最高行政法院，行政审判终审级）在 444849 pt 24-26 中曾就 L211-1 à L211-4、L211-9 à L211-10 受理 QPC（QPC：question prioritaire de constitutionnalité，合宪性优先问题，诉讼中由当事人提出、经最高行政法院或最高法院移送宪法委员会），但**拒绝移送** CC，理由是「不适用于该案」（涉及的是 SNMO 的 encerclement 条款，而非这些条文本身）。
   - 结果是：这套 1935 年以来的核心机制，**七十余年未经 CC 实体审查**。
 - **立场 B（认为无须审查／已获间接认可）**：
-  - CC 在 2019-780 DC pt 8-9 中以 DDHC art. 11 为基准，反复承认立法者须「调和」示威自由与公共秩序——**默认了这套机制的存在**。
+  - CC 在 2019-780 DC（DC：décision conforme，宪法委员会对法律的事前合宪性裁决）pt 8-9 中以 DDHC art. 11 为基准，反复承认立法者须「调和」示威自由与公共秩序——**默认了这套机制的存在**。
   - CE 在 441257 pt 14、440846 pt 16、474297 pt 3-4 中**反复适用**该机制而未质疑其合宪性。
 - **当前法律状态**：**缺口仍在**。截至 2026-10-19，**未找到** CC 就 L211-1/L211-2/L211-4 本身作出实体审查的判决。
 - **本底稿判断**：这不是「法院认可」，而是「**未被触发**」。QPC 的「适用于诉讼」要件（ord. 1958 art. 23-5）在结构上使这类**框架性条文难以被单独挑战**——因为它们总是被具体禁令「遮蔽」。**这是一条程序性障碍，不是实体性认可。**
 
 ---
 
-## 争议 2 · `nasse` 的规范位阶：行政规章能否创设剥夺自由的措施？
+## 争议 2 · `nasse`（围控战术：用警力人墙把一群人圈进封闭区域、只留受控出口）的规范位阶：行政规章能否创设剥夺自由的措施？
 
-- **争点**：围控（encerclement）在效果上接近**剥夺自由**（CEDH art. 5 意义上的），却由**部长通函的附件**（SNMO）规制。是否违反**法律保留**（DDHC art. 4「Ces bornes ne peuvent être déterminées que par la loi」）？
+- **争点**：围控（encerclement）在效果上接近**剥夺自由**（CEDH（CEDH：Cour européenne des droits de l'homme，欧洲人权法院，斯特拉斯堡）art. 5 意义上的），却由**部长通函的附件**（SNMO）规制。是否违反**法律保留**（DDHC art. 4「Ces bornes ne peuvent être déterminées que par la loi」）？
 - **立场 A（认为违反法律保留）**：
   - CE 444849 pt 23-26 中，LDH 与 SNJ 曾主张 encerclement 涉及**人身自由**，应由法律定之；CE 以「条文不适用于本案」**回避**。
   - CC 2020-889 QPC 中，申请人主张立法者 incompétence négative；CC 以「该条只确认一般使命」**回避**（pt 6）。
@@ -38,7 +38,7 @@
 
 ## 争议 3 · `attroupement` 的「susceptible de troubler」门槛
 
-- **争点**：CP 431-3 的定义只要求「**足以**扰乱公共秩序」——即**风险**，不要求实际扰乱。这个门槛是否过宽，从而使任何聚集都可被解散？
+- **争点**：CP（CP：Code pénal，刑法典）431-3 的定义只要求「**足以**扰乱公共秩序」——即**风险**，不要求实际扰乱。这个门槛是否过宽，从而使任何聚集都可被解散？
 - **立场 A（门槛过宽）**：
   - 该定义使**已申报、未被禁止**的示威，在事中仍可被重新定性。
   - CE 441257 pt 14 的表述强化了这一点：「tout rassemblement ... **susceptible** de troubler l'ordre public constitue un attroupement」——法院是在**陈述**而非**限制**该门槛。
@@ -70,7 +70,7 @@
 - **争点**：CE 的审查是否已从「实质比例」退化为「**有无 perimeter / 有无时限 / 有无程序**」的形式检验？
 - **立场 A（形式化）**：
   - 戛纳案（474297）：perimeter「très restreint」→ 合宪（pt 12）。
-  - Sainte-Soline 案（TA Poitiers）：地域「très large」但**因组织者言论**而获维持。
+  - Sainte-Soline 案（TA（TA：tribunal administratif，行政法院，一审级）Poitiers）：地域「très large」但**因组织者言论**而获维持。
   - 两案的差别不在**侵害程度**，而在**行政机关是否给出了可被形式检验的理由**。
 - **立场 B（仍实质）**：
   - 440846 与 441257 两案中，CE **否定**了行政机关的措施，理由恰恰是**实质性的**（克减权从未启用、无期限导致救济不可能）。
@@ -93,7 +93,7 @@
 
 ---
 
-## 争议 7 · `état d'urgence` 下集会限制的法源层次（**已部分定论，须更新**）
+## 争议 7 · `état d'urgence`（紧急状态：1955 年法确立的非常法制，由部长会议法令宣告，可指定居所、关闭集会场所）下集会限制的法源层次（**已部分定论，须更新**）
 
 - **争点**：1955 年法是否有专门禁止集会的条文？街头示威禁令的法源是什么？
 - **已核实（修正我此前的否定性推论）**：
@@ -115,7 +115,7 @@
 - **已核实的事实**：
   - IGPN 年报**确实**统计「blessures graves ou décès」申报，**并按情境分类**：2024 年总 **115** 件，其中 **maintien de l'ordre / 城市暴力 10 件**（2023 年为 **43 件**）。
   - 但**不作身份三分**（示威者 / 警员 / 第三方）。
-  - 另：2019 年有 **1 330 saisines / 1 460 procédures** 两个口径并列于年报，**媒体普遍只报后者**。
+  - 另：2019 年有 **1 330 saisines（saisine：向独立机关或司法机关提出的申诉／受理请求，此处指 IGPN 受理的申诉数）/ 1 460 procédures** 两个口径并列于年报，**媒体普遍只报后者**。
 - **争点（已改写）**：为什么**情境**可以分类，**身份**不能？
 - **立场 A（技术选择）**：一次事件中三方都可能受伤，身份归因需逐案认定，且**同一人可能兼具身份**（如记者既是示威参与者又是观察者）。技术上困难。
 - **立场 B（政治选择）**：**「示威者受伤」是一个有政治后果的范畴**。一旦按身份统计，比例审查就有了可引用的分母；不统计则「警暴」在官方话语中**不可计量**。
@@ -159,10 +159,10 @@
 - **争点**：CEDH 在 **Fraisse et autres c. France**（22525/21 + 47626/21，**2025-02-27**，5e Section）中，判定法国**违反 art. 2（实体）**，理由不是「某警员违法开枪」，而是：
   > « **lacunes du cadre juridique et administratif** applicable à cette époque, la réglementation étant **ni complète ni suffisamment précise** pour permettre un usage réellement gradué de la force » + « **absence d'un cadre d'emploi précis et protecteur** pour l'usage des grenades OF-F1 d'une **dangerosité exceptionnelle** » + « **défaillances de l'encadrement** dans la préparation et la conduite des opérations »
 
-- **因此产生的问题**：**2014 年的「框架」被判不足。那么 2019 年之后的框架（SNMO v.2、CSI L211-9、décret 火器使用条件、LBD 的 instruction 2015-04-22）是否足够？**
+- **因此产生的问题**：**2014 年的「框架」被判不足。那么 2019 年之后的框架（SNMO v.2、CSI L211-9、décret（政府法令：总理或部长会议作出的行政规范，位阶低于法律、高于 arrêté）火器使用条件、LBD 的 instruction 2015-04-22）是否足够？**
 - **立场 A（仍不足）**：
   - SNMO 是**部长通函的附件**，位阶低于法律；其 encerclement 条款的合法性靠 CE 逐条审查维持（461513），而非立法授权。
-  - **LBD 无专属的 arrêté/décret**，只有 **décret 2011-795（武器清单）+ règlement général d'emploi + SNMO** 三层。DDD 自 2021 年起**两次建议在示威情境中禁用 LBD**（2021-265 等）。
+  - **LBD**（LBD：lanceur de balles de défense，40 毫米防暴弹发射器）**无专属的 arrêté（行政长官决定，省长、市长、部长均可作出）/décret**，只有 **décret 2011-795（武器清单）+ règlement général d'emploi + SNMO** 三层。DDD（DDD：Défenseur des droits，权利捍卫者，宪法第 71-1 条设立的独立机关）自 2021 年起**两次建议在示威情境中禁用 LBD**（2021-265 等）。
   - DDD 2025 年报记载 **CPT 也建议「重新审视是否应允许使用中间武力武器」**——**两个独立机构同向**。
 - **立场 B（已足够）**：
   - 2019 年后确有改进：CSI L211-9 明定了 sommation 的**授权主体清单**与**标识要求**；SNMO v.2 对 encerclement 加了五重限制；CE 461513 pt 12 确立了「**侵入性最小的手段**」标准。

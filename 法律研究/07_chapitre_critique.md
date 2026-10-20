@@ -13,7 +13,7 @@
 
 三个可核查的例子：
 
-1. **nasse**：在法语中不是法典术语。它在 2020 年之前**没有任何规范性载体**；2020 年首次出现在 SNMO（circulaire 附件）；2021 年被撤销；2021-12-16 以**改写后的形式**重新出现并被 CE 维持（461513）。
+1. **nasse**（围控战术：用警力人墙把一群人圈进封闭区域、只留受控出口）：在法语中不是法典术语。它在 2020 年之前**没有任何规范性载体**；2020 年首次出现在 SNMO（circulaire（通函：部长发出的内部指示；原则上不可诉，但具强制性者可受越权之诉审查）附件）；2021 年被撤销；2021-12-16 以**改写后的形式**重新出现并被 CE（CE：Conseil d'État，最高行政法院，行政审判终审级）维持（461513）。
    → 一个**先存在、后被规范化**的实践。教义学只能描述「规范化之后」的状态。
 
 2. **示威者受伤人数**：**不存在官方统计**（见 `05` 的 B 节）。
@@ -35,7 +35,7 @@
 **表述**：法国 maintien de l'ordre 的规范演进，主要不是「先立法、后执行」，而是「**先有实践、后有 SNMO/条文**」。规范化的效果不是限制实践，而是使实践**获得可被比例审查的形式**（perimeter、时限、出口点、程序），从而**通过审查**。
 
 **支持证据（现已有一手证据链）**：
-- **2017-12**：DDD 在专题报告中明确写 **nasse/encagement/kettling「ne fait pas partie des enseignements officiels et n'a pas de base légale」**，并把它定性为「priver plusieurs personnes de leur **liberté de se mouvoir**」。
+- **2017-12**：DDD（DDD：Défenseur des droits，权利捍卫者，宪法第 71-1 条设立的独立机关）在专题报告中明确写 **nasse/encagement/kettling「ne fait pas partie des enseignements officiels et n'a pas de base légale」**，并把它定性为「priver plusieurs personnes de leur **liberté de se mouvoir**」。
 - **同报告记载巴黎警察局的回应**：「les nasses, en tant que technique d'**interpellation indiscriminée**, ne seraient aujourd'hui plus pratiquées et auraient été remplacées par des techniques d'**encerclement aux fins d'immobilisation ou pour isoler temporairement une « nébuleuse » et la neutraliser**」。
   → **这是「改名」的一手证据**：承认 nasse 有问题，但主张现在做的叫 encerclement，且有其目的。
 - **2020-09**：SNMO v.1 首次把 encerclement 写入规范（point 3.1.4）。
@@ -49,8 +49,8 @@
 **反证（必须列出）**：
 - CE 476384（2023-11-09，**Section**）**撤销**了「Les Soulèvements de la Terre」的解散令，尽管认定存在对物暴力的挑衅。这说明**规范化并未使所有实践都能通过审查**——比例审查仍有**实质**牙齿。
 - CE 506860（2026-04-30）则**维持**了「Jeune Garde」的解散，理由是对**人**暴力的挑衅。**两案并列表明：审查的变量是「挑衅的对象」，不是「形式的完备程度」。**
-- CE 461513 pt 14 明确禁止把出口点用于 CPP 78-2 之外的身份证检查。这是一条**实质性限制**，不是形式装饰。
-- **CEDH Fraisse（2025-02-27）**判法国违反 art. 2，理由恰恰是「框架**既不完备也不足够精确**」。这说明**「形式」不是可以被随便填满的容器**——国际法院对「精确性」有独立标准。
+- CE 461513 pt 14 明确禁止把出口点用于 CPP（CPP：Code de procédure pénale，刑事诉讼法典）78-2 之外的身份证检查。这是一条**实质性限制**，不是形式装饰。
+- **CEDH（CEDH：Cour européenne des droits de l'homme，欧洲人权法院，斯特拉斯堡）Fraisse（2025-02-27）**判法国违反 art. 2，理由恰恰是「框架**既不完备也不足够精确**」。这说明**「形式」不是可以被随便填满的容器**——国际法院对「精确性」有独立标准。
 
 **本底稿的判读**：命题 1 在 **nasse** 这一条线上**成立**（有清晰的「无基础→改名→规范化→撤销→改写→维持」链条，且现在有 2017 年 DDD 报告作为起点的一手证据）；在**解散**这条线上**不成立**（476384 撤销、506860 维持，分界线是挑衅对象而非形式）。**因此它是一个局部命题，不是全局命题。**
 
@@ -63,7 +63,7 @@
 **支持证据**：
 - `05` B 节的完整口径表：IGPN 的 1 460（2019）、1 065（2022）、272（2022 武力使用）——全部是**受理/调查**口径，且**主体是警方的行为**（被调查），但**统计的对象是「事件」而非「伤者」**。
 - **示威者受伤无官方统计**——这是一个**否定性发现**，且经多路检索确认（见 `08`）。
-- **判决中的体现**：TA Poitiers 2023-03-24 的裁定中，**唯一的具体数字是「61 名 gendarmes」**；示威者为「约 30 名」——**约数，且来自法院对当事人陈述的转述，非统计**。
+- **判决中的体现**：TA（TA：tribunal administratif，行政法院，一审级）Poitiers 2023-03-24 的裁定中，**唯一的具体数字是「61 名 gendarmes」**；示威者为「约 30 名」——**约数，且来自法院对当事人陈述的转述，非统计**。
 - **CE 474297 pt 12**：法院列举的是「l'État mobilise chaque jour ... une centaine de policiers, 4 CRS, ... une quinzaine de motards ...」——**警力与风险的量化完全以国家资源为轴**。
 
 **反证（必须列出）**：
@@ -77,7 +77,7 @@
 
 ### 命题 3 · 「转换的可法性」：attroupement 作为把「权利行使」转为「秩序问题」的语法装置
 
-**表述**：CP 431-3 的定义只需「**susceptible** de troubler l'ordre public」——一个**风险要件**，不要求已发生扰乱。其功能不是「定义一种犯罪」，而是提供一套**把任何聚集重新描述为可解散对象的语法**。
+**表述**：CP（CP：Code pénal，刑法典）431-3 的定义只需「**susceptible** de troubler l'ordre public」——一个**风险要件**，不要求已发生扰乱。其功能不是「定义一种犯罪」，而是提供一套**把任何聚集重新描述为可解散对象的语法**。
 
 **支持证据**：
 - 定义本身（CP 431-3 al. 1）：`tout rassemblement ... susceptible de troubler l'ordre public`。

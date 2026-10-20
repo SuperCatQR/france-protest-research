@@ -15,13 +15,13 @@
 | **hudoc.echr.coe.int** | **403** | ✅ **非官方镜像**：lagen.se / lagen.nu、BAILII、juricaf（标注来源 HUDOC） | 段号需逐条复核 |
 | **PDF 解析** | `web_fetch` 报 `unsupported content type` | ✅ **本地下载 + Python 提取**（`igpn2024.pdf`、`an3786.pdf` 及提取文本；原始 PDF 已移出仓库，可由文中给出的官方 URL 重新下载） | 部分 PDF 出现**编码 mojibake**（见 §5） |
 | **defenseurdesdroits.fr** | `TypeError: fetch failed` | ⚠ 仅搜索快照 | 决定原文 |
-| **conseil-etat.fr** | ✅ **通畅** | ArianeWeb 直链：`https://www.conseil-etat.fr/fr/arianeweb/CE/decision/YYYY-MM-DD/NUMERO` | — |
-| **conseil-constitutionnel.fr** | ✅ **通畅** | `/decision/YYYY/NNNNNNDC.htm` 与 `…QPC.htm` | — |
+| **conseil-etat.fr** | ✅ **通畅** | ArianeWeb 直链（CE：Conseil d'État，最高行政法院，行政审判终审级）：`https://www.conseil-etat.fr/fr/arianeweb/CE/decision/YYYY-MM-DD/NUMERO` | — |
+| **conseil-constitutionnel.fr** | ✅ **通畅** | `/decision/YYYY/NNNNNNDC.htm`（DC：décision conforme，宪法委员会对法律的事前合宪性裁决）与 `…QPC.htm`（QPC：question prioritaire de constitutionnalité，合宪性优先问题，诉讼中由当事人提出、经最高行政法院或最高法院移送宪法委员会） | — |
 | **prefectures-regions.gouv.fr（RAA）** | PDF 形式 | ⚠ 未取正文 | 见 §4 |
 
 ---
 
-## 1. L2 条约层：CEDH —— **已填补，但段号待核**
+## 1. L2 条约层：CEDH（CEDH：Cour européenne des droits de l'homme，欧洲人权法院，斯特拉斯堡）—— **已填补，但段号待核**
 
 | 对象 | 状态 |
 |---|---|

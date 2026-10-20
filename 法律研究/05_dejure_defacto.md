@@ -4,7 +4,7 @@
 
 > **方法学警告（写在最前）**：本栏的「de facto」部分**证据等级普遍低于**「de jure」部分。
 > - de jure：几乎全部来自判决原文或判决逐字引述的条文 → **高**。
-> - de facto：大部分依赖**机构自述报告**（IGPN、DDD）与**媒体转述**，且本次 **IGPN/DDD 的 PDF 未取得原文**（`web_fetch` 报 `unsupported content type "application/pdf"`）→ **中至低**。
+> - de facto：大部分依赖**机构自述报告**（IGPN、DDD（DDD：Défenseur des droits，权利捍卫者，宪法第 71-1 条设立的独立机关））与**媒体转述**，且本次 **IGPN/DDD 的 PDF 未取得原文**（`web_fetch` 报 `unsupported content type "application/pdf"`）→ **中至低**。
 > - 因此本栏中凡标 `⚠ 待核` 者，**只可作为线索，不可作为结论**。
 
 ---
@@ -15,10 +15,10 @@
 
 | 维度 | de jure（规范怎么规定） | de facto（实际怎么执行） | 证据等级 |
 |---|---|---|---|
-| 事前 | 须**申报**：至少 3 个完整日、至多 15 个完整日之前（CSI L211-2）；受理机关**立即交付 récépissé** | 巴黎每周「gilets jaunes」周期中，préfecture de police 持续以 arrêté 划定禁示区（如 arrêté n° 2019-00809、2021-00358、2021-00403、2021-00320）——**即申报之后仍有系统性禁令** | 规范：高（CE 474297 pt 3）／实务：中（RAA 目录可见，条文未逐份核）⚠ |
+| 事前 | 须**申报**：至少 3 个完整日、至多 15 个完整日之前（CSI（CSI：Code de la sécurité intérieure，国内安全法典）L211-2）；受理机关**立即交付 récépissé** | 巴黎每周「gilets jaunes」周期中，préfecture de police 持续以 arrêté（行政长官决定，省长、市长、部长均可作出）划定禁示区（如 arrêté n° 2019-00809、2021-00358、2021-00403、2021-00320）——**即申报之后仍有系统性禁令** | 规范：高（CE（CE：Conseil d'État，最高行政法院，行政审判终审级）474297 pt 3）／实务：中（RAA 目录可见，条文未逐份核）⚠ |
 | 事前 | 禁令须为 **arrêté motivé**，并「**立即通知**申报签署人于选定住所」（CSI L211-4 al.1） | 戛纳案中，省长在**无人申报**的情况下依 L211-4 作**全面禁令**，CE 认为可以（474297 pt 8-9, 12）——说明 L211-4 不限于「已申报」情形 | 高（判决原文） |
-| 事中 | 参加**被禁**示威 → CP **R644-4**，4 级违禁罪，**135 €** | 该数额来自 CE 441257 pt 14 的**法院认定**，非行政通函 | 高 |
-| 事中 | 现场行李检查、车辆查验须有 **procureur 书面 réquisition**（CPP 78-2-5） | CC 认为合宪（2019-780 DC pt 17） | 高 |
+| 事中 | 参加**被禁**示威 → CP（CP：Code pénal，刑法典）**R644-4**，4 级违禁罪，**135 €** | 该数额来自 CE 441257 pt 14 的**法院认定**，非行政通函 | 高 |
+| 事中 | 现场行李检查、车辆查验须有 **procureur 书面 réquisition**（CPP（CPP：Code de procédure pénale，刑事诉讼法典）78-2-5） | CC 认为合宪（2019-780 DC（DC：décision conforme，宪法委员会对法律的事前合宪性裁决）pt 17） | 高 |
 | 事中 | 蒙面（无正当理由）→ CP **431-9-1**，1 年 + 15 000 € | CC 认为合宪（2019-780 DC pt 33） | 高 |
 | 事后 | 可被**重新定性为 attroupement** → CP 431-3 两次 sommation → 强制解散 | CE 441257 pt 14 明示：「tout rassemblement ... susceptible de troubler l'ordre public constitue un attroupement au sens de l'article 431-3」 | 高 |
 
@@ -42,7 +42,7 @@
 | 定义 | 「**tout rassemblement** de personnes sur la voie publique ou dans un lieu public **susceptible de troubler l'ordre public**」（CP 431-3 al.1）——**风险要件，不要求已发生扰乱** | 该定义的**门槛极低**，理论上使任何聚集都可被定性 | 高（但来源为镜像站，⚠ 镜像） |
 | 程序 | **两次 sommation**，须由 préfet / sous-préfet / maire / OPJ 作出，且**佩带职务标识**（al.2）；方式须「能使人知悉须立即解散」（al.3） | — | 高（镜像）⚠ |
 | 例外 | 若有**对人暴力或抗拒**，或「不能以其他方式保卫其占据的场地」，可**直接使用武力**（al.3 末句） | 这是**跳过两次 sommation 的法定出口**，其解释范围是争议核心 | 高（镜像）⚠ |
-| 授权 | 程序细则、标识、**火器使用条件**由 **Conseil d'État 的 décret** 定（al.4） | — | 高（镜像）⚠ |
+| 授权 | 程序细则、标识、**火器使用条件**由 **Conseil d'État 的 décret**（政府法令：总理或部长会议作出的行政规范，位阶低于法律、高于 arrêté） 定（al.4） | — | 高（镜像）⚠ |
 
 ---
 
@@ -56,7 +56,7 @@
 | **IGPN 受理的司法调查数** | IGPN | 由司法机关（parquet）**委托**的 enquêtes judiciaires，**全部类型** | **2016** | **1 090**（另口径 1 121 procédures） | **IGPN 2024 年报（一手）** | **不能**指「示威中的警暴数量」。这是**全部委托调查**，且只反映**被追诉的部分**。 |
 | 同上 | 同上 | 同上 | 2017 | 1 051（1 015 procédures） | 同上 | 同上 |
 | 同上 | 同上 | 同上 | 2018 | 1 139（1 085 procédures） | 同上 | 同上 |
-| 同上 | 同上 | 同上 | **2019** | **1 330 saisines / 1 460 procédures** | **同上（一手）**：「L'année 2019 avait fait figure d'exception avec **1330 saisines (1460 procédures)**, en raison du contexte particulier du mouvement dit des *gilets jaunes*」 | **关键**：**1 330 与 1 460 是两个不同口径**（saisines vs procédures）。媒体普遍只报 1 460。**引用时必须说明是哪一个。** |
+| 同上 | 同上 | 同上 | **2019** | **1 330 saisines（saisine：向独立机关或司法机关提出的申诉／受理请求，此处指 IGPN 受理的申诉数）/ 1 460 procédures** | **同上（一手）**：「L'année 2019 avait fait figure d'exception avec **1330 saisines (1460 procédures)**, en raison du contexte particulier du mouvement dit des *gilets jaunes*」 | **关键**：**1 330 与 1 460 是两个不同口径**（saisines vs procédures）。媒体普遍只报 1 460。**引用时必须说明是哪一个。** |
 | 同上 | 同上 | 同上 | 2020 | 934（959 procédures） | 同上 | 同上 |
 | 同上 | 同上 | 同上 | 2021 | 927（1 093 procédures） | 同上 | 同上 |
 | 同上 | 同上 | 同上 | 2022 | 900（1 065 procédures） | 同上 | 同上 |
@@ -124,7 +124,7 @@ IGPN 2024 年报原文：
 
 > **`ddd_mo2017b.pdf`（116 页；原始 PDF 已移出仓库，可由文中给出的官方 URL 重新下载）已下载并提取**。正式标题：**《Le maintien de l'ordre au regard des règles de déontologie — Rapport Décembre 2017 du Défenseur des droits》**。这是本课题**最直接的官方报告**，此前仅有标题，现为**一手全文**。
 
-### C-0.1 关于 nasse 的原始表述（逐字，最关键）
+### C-0.1 关于 nasse（围控战术：用警力人墙把一群人圈进封闭区域、只留受控出口）的原始表述（逐字，最关键）
 
 > « … consiste à priver plusieurs personnes de leur liberté de se mouvoir au sein d'une manifestation ou à proximité immédiate de celle-ci, au moyen d'un **encerclement** par les forces de l'ordre qui vise à les empêcher de se rendre ou de sortir du périmètre ainsi défini. Cette technique appelée **encagement, nasse, ou kettling**, **ne fait pas partie des enseignements officiels et n'a pas de base légale**. Elle a néanmoins été utilisée lors de la manifestation « La Manif pour tous » et, par la suite, à de nombreuses reprises et sous des formats divers… »
 
@@ -145,8 +145,8 @@ IGPN 2024 年报原文：
 
 - **结构**（三部分）：
   - I. maintien de l'ordre「à la française」的演变与实践不统一（含**地域差异**）
-  - II. **中间武力武器**：LBD（「vives controverses」）、**爆炸/爆轰型手榴弹**、**désencerclement 手榴弹**、催泪瓦斯
-  - III. 应「recentrer sur sa mission de **police administrative de prévention**」，并限制强制性干预技术：**contrôles d'identité délocalisés**、**manifestation 周边的身份检查**、**fouilles et filtrages**、**état d'urgence 下的做法**、**encerclement / encagement**
+  - II. **中间武力武器**：LBD（LBD：lanceur de balles de défense，40 毫米防暴弹发射器）（「vives controverses」）、**爆炸/爆轰型手榴弹**、**désencerclement 手榴弹**、催泪瓦斯
+  - III. 应「recentrer sur sa mission de **police administrative de prévention**」，并限制强制性干预技术：**contrôles d'identité délocalisés**、**manifestation 周边的身份检查**、**fouilles et filtrages**、**état d'urgence（紧急状态：1955 年法确立的非常法制，由部长会议法令宣告，可指定居所、关闭集会场所）下的做法**、**encerclement / encagement**
 - **关键词频**（本报告全文）：`encerclement` 25 次、`LBD` 28 次、`lanceur de balles` 10 次、`sommation` 24 次、`RIO` 23 次、`recommandation` 34 次、`nasse` 3 次。
 - **关于「法国特殊性」的引述**（报告转引）：
   > « l'étude d'exemples pris dans les pays voisins a permis de confirmer la **spécificité française, seule nation d'Europe à utiliser des munitions explosives en opération de maintien de l'ordre** avec l'objectif de maintenir à distance les manifestants les plus violents »
@@ -162,7 +162,7 @@ IGPN 2024 年报原文：
 | 编号 | 年份 | 要旨 | 核实 |
 |---|---|---|---|
 | **2025-129** | 2025 | 关于**进入并占据一所高中的全体示威者被一并逮捕**：DDD 认定**未考虑以「身份登记 + 日后传唤」替代**，属 **« manque de discernement »**，并**侵害了他们的表达自由与集会自由** | ✅ 一手 |
-| **MDS-2016-109** 与 **2022-031** | 2016 / 2022 | 关于 **Rémi Fraisse / Sivens** 案；被 CEDH 在 Fraisse 判决中**明确援引为工作基础** | ✅ 一手（经 DDD 转述） |
+| **MDS-2016-109** 与 **2022-031** | 2016 / 2022 | 关于 **Rémi Fraisse / Sivens** 案；被 CEDH（CEDH：Cour européenne des droits de l'homme，欧洲人权法院，斯特拉斯堡）在 Fraisse 判决中**明确援引为工作基础** | ✅ 一手（经 DDD 转述） |
 | **MDS-2015-126** 与 **MDS-2015-298** | 2015 | 关于 **encagement 的使用条件与方式**（据 2017 报告脚注 86） | ✅ 一手（编号） |
 | **Avis 17-05 与 17-07** | 2017 | 关于同样问题（据 2017 报告脚注 85） | ✅ 一手（编号） |
 
