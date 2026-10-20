@@ -12,10 +12,10 @@
 
 | 条号 | **真正的内容** | 常见的错误 |
 |---|---|---|
-| **CSI L211-3** | **禁止携带/运输可能构成武器的物品**（在示威前 24 小时至解散期间），地理范围限于示威地点、邻近地点及通道 | ❌ 常被误认为「禁令条款」 |
-| **CSI L211-4** | **禁止示威本身**（警察权机关认为「足以扰乱公共秩序」时，以 arrêté 作出并立即通知） | ❌ 常被误认为「携带武器」 |
+| **CSI L211-3**（CSI：Code de la sécurité intérieure，国内安全法典） | **禁止携带/运输可能构成武器的物品**（在示威前 24 小时至解散期间），地理范围限于示威地点、邻近地点及通道 | ❌ 常被误认为「禁令条款」 |
+| **CSI L211-4** | **禁止示威本身**（警察权机关认为「足以扰乱公共秩序」时，以 arrêté（行政长官决定，省长、市长、部长均可作出）作出并立即通知） | ❌ 常被误认为「携带武器」 |
 
-> 二者**完全对调**是最高频错误。L211-3 源自 1935 décret-loi **art. 2 bis**（1995 年增设），L211-4 源自 1935 **art. 3**。
+> 二者**完全对调**是最高频错误。L211-3 源自 1935 décret-loi（议会授权政府以法令形式立法的产物；décret 即政府法令，位阶低于法律、高于 arrêté） **art. 2 bis**（1995 年增设），L211-4 源自 1935 **art. 3**。
 
 ---
 
@@ -27,9 +27,9 @@
 | 事前 | CSI | **L211-2** | 受理机关：**mairie**（一般市镇）/ **préfecture de police**（巴黎）/ **préfet**（police d'État 市镇）。期限：**[J-15, J-3]** 封闭区间，两端均为 **jours francs**。须载明目的、地点、日期、时间、路线。**立即交付 récépissé** | ✅ `LEGIARTI000038382528`（v.2 = 2019-04-12） |
 | 事前 | CSI | **L211-3** | **携带武器禁令**：示威前 24 小时至解散；限于示威地点、邻近地点及通道；须**比例** | ✅ `LEGIARTI000025505137` |
 | 事前 | CSI | **L211-4** | **禁令**：arrêté，须**立即通知**申报签署人于选定住所；市长 24 小时内转交省长 | ✅ `LEGIARTI000025505140` |
-| 事前 | — | ~~L211-4-1~~ | **从未生效**（2019-780 DC 在公布前宣告违宪） | ✅ 反证确认 |
-| **事中** | CPP | **78-2-5** | 现场及「abords immédiats」的**目视检查、行李搜查、车辆查验**；须 **procureur 书面 réquisition** | ✅ CC 2019-780 DC pt 11-16 |
-| 事中 | CP | **431-9-1** | **蒙面**（无正当理由）→ 1 年 + 15 000 € | ✅ CC 2019-780 DC pt 27 |
+| 事前 | — | ~~L211-4-1~~ | **从未生效**（2019-780 DC（DC：décision conforme，宪法委员会对法律的事前合宪性裁决）在公布前宣告违宪） | ✅ 反证确认 |
+| **事中** | CPP（CPP：Code de procédure pénale，刑事诉讼法典） | **78-2-5** | 现场及「abords immédiats」的**目视检查、行李搜查、车辆查验**；须 **procureur 书面 réquisition** | ✅ CC 2019-780 DC pt 11-16 |
+| 事中 | CP（CP：Code pénal，刑法典） | **431-9-1** | **蒙面**（无正当理由）→ 1 年 + 15 000 € | ✅ CC 2019-780 DC pt 27 |
 | 事中 | CP | **431-10** | 携带武器/危险物品、投掷投射物 → 3 年 + 45 000 € | ✅ Sénat 法案文本 |
 | 事中 | CP | **431-3** | **可被重新定性为 attroupement** → 触发两次 sommation | ✅ 逐字 |
 | **事后** | CP | **R644-4** | 参加**依 L211-4 被禁**的示威 → 4 级违禁罪，**135 €** | ✅ CE 441257 pt 14；487984 pt 6-8 |
@@ -91,17 +91,17 @@
 
 ---
 
-## F. nasse / encerclement（**不在任何法典中**）
+## F. nasse（围控战术：用警力人墙把一群人圈进封闭区域、只留受控出口） / encerclement（**不在任何法典中**）
 
 | 载体 | 位阶 | 内容 | 状态 |
 |---|---|---|---|
-| **（无载体）** | — | **DDD 2017-12 专题报告**：该技术（「encagement, nasse, ou kettling」）**「ne fait pas partie des enseignements officiels et n'a pas de base légale」**，效果是「priver plusieurs personnes de leur **liberté de se mouvoir**」 | ❌ **DDD 认定无法源基础**（2017） |
+| **（无载体）** | — | **DDD（DDD：Défenseur des droits，权利捍卫者，宪法第 71-1 条设立的独立机关）2017-12 专题报告**：该技术（「encagement, nasse, ou kettling」）**「ne fait pas partie des enseignements officiels et n'a pas de base légale」**，效果是「priver plusieurs personnes de leur **liberté de se mouvoir**」 | ❌ **DDD 认定无法源基础**（2017） |
 | 巴黎警察局的立场 | — | 「les nasses, en tant que technique d'**interpellation indiscriminée**, ne seraient aujourd'hui plus pratiquées」→ 已改为「**encerclement** aux fins d'immobilisation ou pour isoler une « nébuleuse »」 | ⚠ **话语层面的改名**（同报告记载） |
-| ~~SNMO v.1 point 3.1.4~~（2020-09-16） | circulaire 附件 | 只说「il peut être utile d'encercler」 | ❌ **2021-06-10 被 CE 444849 撤销** |
+| ~~SNMO v.1 point 3.1.4~~（2020-09-16） | circulaire（通函：部长发出的内部指示；原则上不可诉，但具强制性者可受越权之诉审查）附件 | 只说「il peut être utile d'encercler」 | ❌ **2021-06-10 被 CE（CE：Conseil d'État，最高行政法院，行政审判终审级）444849 撤销** |
 | **SNMO v.2 point 3.1.4**（2021-12-15，NOR INTK2137104J） | circulaire 附件 | 限「**violences graves et imminentes**」；**必经出口点**；限时；须沟通；须不断重估 | ✅ **2023-12-29 经 CE 461513 维持合法** |
 | 附随限制（CE 461513） | — | ① 须为「**侵入性最小的手段**」（pt 12）；② **出口点不得用于 CPP 78-2 之外的身份证检查**（pt 14） | ✅ 判决原文 |
-| 宪法层 | — | CC 2020-889 QPC 以「该条只确认一般使命」**回避实体审查** | ⚠ 未表态 |
-| **CEDH 层** | — | **尚无**就 encerclement 本身的判决。**Auray 案（2024-02-08）**针对的是 2010 年 Lyon 的围控，判**违反 art. 11 + art. 2 P4** | ⚠ |
+| 宪法层 | — | CC 2020-889 QPC（QPC：question prioritaire de constitutionnalité，合宪性优先问题，诉讼中由当事人提出、经最高行政法院或最高法院移送宪法委员会）以「该条只确认一般使命」**回避实体审查** | ⚠ 未表态 |
+| **CEDH 层**（CEDH：Cour européenne des droits de l'homme，欧洲人权法院，斯特拉斯堡） | — | **尚无**就 encerclement 本身的判决。**Auray 案（2024-02-08）**针对的是 2010 年 Lyon 的围控，判**违反 art. 11 + art. 2 P4** | ⚠ |
 
 > **关键**：encerclement 的**唯一**规范载体是**部长通函的附件**，**不在任何法典中**，**未经 CC 实质审查**。它的合法性完全依赖 CE 对 SNMO 的逐条审查。
 > **而 2017 年 DDD 报告的存在，使「无法律基础」这一判断有了官方文书作为锚点**——这不再是学理批评，而是**独立机关的书面结论**。
@@ -111,7 +111,7 @@
 
 ## G. 紧急状态下的集会限制（两个体系对照）
 
-| 维度 | **état d'urgence**（1955 法） | **état d'urgence sanitaire**（2020） |
+| 维度 | **état d'urgence**（紧急状态：1955 年法确立的非常法制，由部长会议法令宣告，可指定居所、关闭集会场所） | **état d'urgence sanitaire**（2020） |
 |---|---|---|
 | 宣告 | décret en Conseil des ministres；>12 日须法律（art. 2） | 法律直接宣告（loi 2020-290） |
 | **场所内 réunion** | **art. 8**：关闭集会场所 + 禁止「足以引发或维持骚乱」的 réunion。⚠ **第 3 段是 2016-07-22 新增** | — |
