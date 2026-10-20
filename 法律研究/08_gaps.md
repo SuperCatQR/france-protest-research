@@ -13,7 +13,7 @@
 |---|---|---|---|
 | **legifrance.gouv.fr** | **全程 403 Cloudflare** | ✅ **juriblio.fr**（附 LEGITEXT/LEGIARTI/LEGISCTA + 版本历史 + 废止法源，**最适合判现行性**）；✅ **justiweb.fr**（`/articles/<code>/<条号>`）；⚠ **lawplayer.com/fr/act/**（`/article/…` 形式 403） | — |
 | **hudoc.echr.coe.int** | **403** | ✅ **非官方镜像**：lagen.se / lagen.nu、BAILII、juricaf（标注来源 HUDOC） | 段号需逐条复核 |
-| **PDF 解析** | `web_fetch` 报 `unsupported content type` | ✅ **本地下载 + Python 提取**（`pdf/` 目录已有 `igpn2024.pdf`、`an3786.pdf` 及提取文本） | 部分 PDF 出现**编码 mojibake**（见 §5） |
+| **PDF 解析** | `web_fetch` 报 `unsupported content type` | ✅ **本地下载 + Python 提取**（`igpn2024.pdf`、`an3786.pdf` 及提取文本；原始 PDF 已移出仓库，可由文中给出的官方 URL 重新下载） | 部分 PDF 出现**编码 mojibake**（见 §5） |
 | **defenseurdesdroits.fr** | `TypeError: fetch failed` | ⚠ 仅搜索快照 | 决定原文 |
 | **conseil-etat.fr** | ✅ **通畅** | ArianeWeb 直链：`https://www.conseil-etat.fr/fr/arianeweb/CE/decision/YYYY-MM-DD/NUMERO` | — |
 | **conseil-constitutionnel.fr** | ✅ **通畅** | `/decision/YYYY/NNNNNNDC.htm` 与 `…QPC.htm` | — |
@@ -85,15 +85,15 @@
 
 | 对象 | 状态 |
 |---|---|
-| **IGPN 2024 年度报告** | ✅ **一手核实**（`pdf/igpn2024.pdf` 已下载并提取）。取得：saisines 2016-2024 全序列、usage de la force 2014-2024 全序列、blessures graves/décès 的情境分类 |
+| **IGPN 2024 年度报告** | ✅ **一手核实**（`igpn2024.pdf` 已下载并提取）。取得：saisines 2016-2024 全序列、usage de la force 2014-2024 全序列、blessures graves/décès 的情境分类 |
 | **IGPN 2019 / 2022 / 2023 报告** | ⚠ **未取**（数字来自 2024 年报的回顾 + 媒体） |
 | **IGPN 2024 报告的「garde à vue 受伤」段** | ⚠ **PDF 编码 mojibake**，总数未能完整取得 |
-| **Défenseur des droits 2025 年度报告** | ✅ **一手核实**（`pdf/ddd2025.pdf`，15 MB，已提取）。取得：**2025-129**（高中占领案全体员工被逮捕 → 「manque de discernement」+ 侵害表达与集会自由）；对 **Fraisse/CEDH** 判决的记载；**RIO 出现 53 次**；**CPT** 关于 RIO 可见性与「重新审视中间武力武器」的建议 |
+| **Défenseur des droits 2025 年度报告** | ✅ **一手核实**（`ddd2025.pdf`，15 MB，已提取）。取得：**2025-129**（高中占领案全体员工被逮捕 → 「manque de discernement」+ 侵害表达与集会自由）；对 **Fraisse/CEDH** 判决的记载；**RIO 出现 53 次**；**CPT** 关于 RIO 可见性与「重新审视中间武力武器」的建议 |
 | **DDD 2020-131（框架决定）** | ⚠ **仍为摘要**。关键句已得（「enquêtes ne peuvent aboutir faute de pouvoir identifier les agents … porteurs de casque」），但**全文未取** |
 | **DDD 2019-246 / 2021-183 / 2021-265 / 2021-288** | ⚠ **仍为摘要** |
 | **DDD Avis 20-08（2020-11-30）对 SNMO 的意见** | ⚠ **仍为摘要** |
 | **DDD 2017-12 报告** | ⚠ **仍仅标题** |
-| **AN 调查委员会报告 n° 3786** | ✅ **PDF 已下载并提取**（`pdf/an3786.pdf`）。正式名称：**«Rapport fait au nom de la commission d'enquête relative à l'état des lieux, la déontologie, les pratiques et les doctrines de maintien de l'ordre»**，président **Jean-Michel Fauvergue**，rapporteur **Jérôme Lambert**，2021-01-20 登记。⚠ **要点未逐条提取** |
+| **AN 调查委员会报告 n° 3786** | ✅ **PDF 已下载并提取**（`an3786.pdf`）。正式名称：**«Rapport fait au nom de la commission d'enquête relative à l'état des lieux, la déontologie, les pratiques et les doctrines de maintien de l'ordre»**，président **Jean-Michel Fauvergue**，rapporteur **Jérôme Lambert**，2021-01-20 登记。⚠ **要点未逐条提取** |
 | **Sénat commission d'enquête état d'urgence（2016）** | ❌ **未核实** |
 | **CEDH 中法国因 maintien de l'ordre 被判违反 art. 3** | ❌ **未核实**（HUDOC 403）。**但已知**：Fraisse 案是 **art. 2**，Auray 案是 **art. 11 + art. 2 P4**，**均非 art. 3** |
 
@@ -124,7 +124,7 @@
 | **P1** | **Préfecture de police RAA 的 arrêté 正文**（至少 2 份） | de facto 层的核心证据；目前只有目录 |
 | **P1** | **科西嘉 + 海外省** | 阶段零要求的三分列只完成一半 |
 | **P2** | **circulaire 2012-08-09 (NOR INTK123116C) 内容** | SNMO 的前身，断代关键 |
-| **P2** | **AN n° 3786 报告的要点提取** | PDF 已有（`pdf/an3786.clean.txt`），只需提取 |
+| **P2** | **AN n° 3786 报告的要点提取** | PDF 已有（`an3786.clean.txt`），只需提取 |
 | **P2** | **DDD 2020-131 全文** | 目前只有摘要 |
 | **P3** | **1881-06-30 arts. 2-4 正文** | 已废止，仅历史价值 |
 | **P3** | **CEDH 段号复核** | 结论已可靠，段号需精确化 |

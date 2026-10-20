@@ -49,7 +49,7 @@
 ## B. 伤亡与投诉数据：统计口径表
 
 > **本表的核心目的不是给数字，而是标出「这个数字不能用来做什么」。**
-> **数据来源已升级**：IGPN 2024 年度报告的 PDF 已本地解析（`pdf/igpn2024.pdf` → `.clean.txt`），下列数字为**一手核实**（此前仅有媒体转述）。
+> **数据来源已升级**：IGPN 2024 年度报告的 PDF 已本地解析（`igpn2024.pdf` → `.clean.txt`；该原始 PDF 已移出仓库，可由文中给出的官方 URL 重新下载），下列数字为**一手核实**（此前仅有媒体转述）。
 
 | 指标 | 统计机构 | 统计对象定义 | 年份 | 数值 | 来源 | **口径警告（不能用来做什么）** |
 |---|---|---|---|---|---|---|
@@ -122,7 +122,7 @@ IGPN 2024 年报原文：
 
 ## C-0 **决定性的一手材料：DDD 2017 年专题报告**
 
-> **`pdf/ddd_mo2017b.pdf`（116 页）已下载并提取**。正式标题：**《Le maintien de l'ordre au regard des règles de déontologie — Rapport Décembre 2017 du Défenseur des droits》**。这是本课题**最直接的官方报告**，此前仅有标题，现为**一手全文**。
+> **`ddd_mo2017b.pdf`（116 页；原始 PDF 已移出仓库，可由文中给出的官方 URL 重新下载）已下载并提取**。正式标题：**《Le maintien de l'ordre au regard des règles de déontologie — Rapport Décembre 2017 du Défenseur des droits》**。这是本课题**最直接的官方报告**，此前仅有标题，现为**一手全文**。
 
 ### C-0.1 关于 nasse 的原始表述（逐字，最关键）
 
@@ -183,7 +183,7 @@ IGPN 2024 年报原文：
 | 个案 | **2021-183** | 2021 | LBD 使用；主张 maintien de l'ordre 应交由**受训、装备、组织为集体行动且有层级监督**的单位 | ⚠ 仅摘要 |
 | 个案 | **2021-288** | 2021 | 警员**须佩戴 RIO**，maintien de l'ordre 中**不得遮面** | ⚠ 仅摘要 |
 | **Avis** | **20-08** | **2020-11-30** | 对**新版 SNMO** 的意见 | ⚠ 仅摘要 |
-| 报告 | — | **2017-12** | 《Le maintien de l'ordre au regard des règles de déontologie》 | ✅ **一手全文已提取**（`pdf/ddd_mo2017b.pdf` → `pdf/ddd_mo2017.txt`），见 §C-0 |
+| 报告 | — | **2017-12** | 《Le maintien de l'ordre au regard des règles de déontologie》 | ✅ **一手全文已提取**（`ddd_mo2017b.pdf` → `ddd_mo2017.txt`），见 §C-0 |
 
 > **机构性质的准确表述**：Défenseur des droits 是**宪法第 71-1 条**设立的**独立机关**，同时承担 **déontologie de la sécurité** 的监督职能（loi organique n° 2011-333 du 29 mars 2011）。其**决定不是判决**，**无执行力**，可作为**事实认定与建议**引用。**不得写成「DDD 认定警方违法」**——应写「DDD 认定……并建议……」。**但 2025-129 的表述是「a porté atteinte à leur liberté d'expression et de réunion」**，这是**认定侵害**，比单纯建议更强，引用时须准确复制原措辞。
 
