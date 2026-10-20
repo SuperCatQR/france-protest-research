@@ -27,13 +27,13 @@
 |---|---|
 | Ezelin c. France, 11800/85, 1991-04-26 | ✅ **已核实**（9 人庭；违反 art. 11, 6:3；§ 53 核心；4 份单独意见） |
 | Eckert c. France, 56270/21, 2024-10-24 | ✅ 已核实（不违反） |
-| Auray et autres c. France, 1162/22, 2024-02-08 | ✅ 已核实（违反 art. 11 + art. 2 P4；nasse/Lyon 2010） |
+| Auray et autres c. France, 1162/22, 2024-02-08 | ✅ 已核实（违反 art. 11 + art. 2 P4；nasse（围控战术：用警力人墙把一群人圈进封闭区域、只留受控出口）/Lyon 2010） |
 | **Kudrevičius [GC]、Lashmankin、Plattform、Navalnyy [GC]** | ✅ 结论已核 |
-| **Fraisse et autres c. France, 22525/21 + 47626/21, 2025-02-27** | ✅ **BAILII 全文核实**（违反 art. 2 实体，不违反程序）+ DDD 2025 年报独立印证 |
+| **Fraisse et autres c. France, 22525/21 + 47626/21, 2025-02-27** | ✅ **BAILII 全文核实**（违反 art. 2 实体，不违反程序）+ DDD（DDD：Défenseur des droits，权利捍卫者，宪法第 71-1 条设立的独立机关）2025 年报独立印证 |
 | **法国 art. 15 克减（2015）** | ✅ 已核实（2015-11-24 通知） |
 | **法国 COVID 是否克减** | ✅ 已反证确认：**未克减、未提具保留** |
 | **⚠ 仍缺**：Kudrevičius 与 Navalnyy 的**裁判主文段号**；Lashmankin 的 **art. 11 结论段号**；**Fraisse 判决的具体段号**（本次只取得要旨与 § 19、§ 20） | ⚠ **成稿勿给未经核实的段号** |
-| **⚠ 仍缺**：**LBD 相关 CEDH 判决** | **确认不存在**。仅 2019-10 有工会宣布提交申请（cgt.fr），**无案号无结果** |
+| **⚠ 仍缺**：**LBD**（LBD：lanceur de balles de défense，40 毫米防暴弹发射器）**相关 CEDH 判决** | **确认不存在**。仅 2019-10 有工会宣布提交申请（cgt.fr），**无案号无结果** |
 
 ---
 
@@ -41,14 +41,14 @@
 
 | 对象 | 状态 | 取数路径 |
 |---|---|---|
-| **1935 décret-loi arts. 5-7 正文** | **不可考**。1960-06-08 废止（ord. 60-529 art. 12），镜像未转载 | 需 Gallica / JORF 1935 影印 |
+| **1935 décret-loi**（议会授权政府以法令形式立法的产物；décret 即政府法令，位阶低于法律、高于 arrêté（行政长官决定，省长、市长、部长均可作出））**arts. 5-7 正文** | **不可考**。1960-06-08 废止（ord. 60-529 art. 12），镜像未转载 | 需 Gallica / JORF 1935 影印 |
 | **1881-06-30 arts. 2-4 正文** | **未取**（仅知 1907-03-28 废止） | fr.wikisource.org 有 1881 年原版全文；Gallica |
 | **Code du travail L2512-3 至 -5** | **未取** | juriblio.fr |
-| **CSI L211-15 / L211-15-4 全文** | ✅ **已填补**（juriblio 逐字，2026-08-20 生效整合版）。**结论：适用对象是 L211-5 的音乐集会，不覆盖普通游行** | — |
-| **CP 322-1 / 431-1 / 224-1 全文** | **未取** | juriblio.fr |
+| **CSI（CSI：Code de la sécurité intérieure，国内安全法典）L211-15 / L211-15-4 全文** | ✅ **已填补**（juriblio 逐字，2026-08-20 生效整合版）。**结论：适用对象是 L211-5 的音乐集会，不覆盖普通游行** | — |
+| **CP（CP：Code pénal，刑法典）322-1 / 431-1 / 224-1 全文** | **未取** | juriblio.fr |
 | **CJA L521-3** | **未取** | 同上 |
 | **loi 2026-798 du 18 août 2026 全文** | ✅ **已核实**：2026-08-18 通过，**JO n°0192 du 19 août 2026** 公布，2026-08-20 生效（CSI L211-15、L211-15-1 至 -5、L211-17、L211-18） | — |
-| **2026-915 DC 的 commentaire** | 官网标「à venir en octobre 2026」——**尚未发布** | 无法补 |
+| **2026-915 DC**（DC：décision conforme，宪法委员会对法律的事前合宪性裁决）**的 commentaire** | 官网标「à venir en octobre 2026」——**尚未发布** | 无法补 |
 
 ---
 
@@ -56,13 +56,13 @@
 
 | 对象 | 状态 |
 |---|---|
-| **circulaire « Valls » du 2 janvier 2012（NOR INTD1200031C）** | ❌ **不存在**。三要素互相矛盾（见主底稿 §0-5）。**不要再引用这个编号。** |
+| **circulaire（通函：部长发出的内部指示；原则上不可诉，但具强制性者可受越权之诉审查）« Valls » du 2 janvier 2012（NOR INTD1200031C）** | ❌ **不存在**。三要素互相矛盾（见主底稿 §0-5）。**不要再引用这个编号。** |
 | **circulaire du 9 août 2012, NOR INTK123116C**（Valls 任内真正的 maintien de l'ordre 通函） | ⚠ **仅知 NOR 与日期，内容未取** |
 | **SNMO v.1（2020-09-16）** | ✅ 四个要点**逐字**（经 CE 444849 引述）。⚠ 文件本体 NOR **INTK2023917J**（Légifrance 标 **17/09** 公布，文件标 16/09）——**1 天歧义**，建议写法：「circulaire du 16 septembre 2020 (NOR INTK2023917J, publiée le 17/09)」 |
 | **SNMO v.2（2021-12-15）** | ✅ 四个要点**逐字**（经 CE 461513 引述）。⚠ NOR **INTK2137104J**（12-15 签署，12-22 上网）。**注意：是「替换」而非「修订」** |
 | **SNMO 是否有 2026 年第三版** | **未核**。检索未见。**不能断言「现行版是 2021-12-15」** |
 | **instruction du 22 avril 2015（LBD 使用框架）** | ⚠ 仅经 DDD 2021-265 提及，**原文未取** |
-| **LBD 是否有专属 arrêté/décret** | 初步判断：**无**。仅由 **décret 2011-795（武器清单）+ règlement général d'emploi + SNMO** 三层规范。**⚠ 未完全排除** |
+| **LBD 是否有专属 arrêté（行政长官决定，省长、市长、部长均可作出）/décret**（政府法令：总理或部长会议作出的行政规范，位阶低于法律、高于 arrêté） | 初步判断：**无**。仅由 **décret 2011-795（武器清单）+ règlement général d'emploi + SNMO** 三层规范。**⚠ 未完全排除** |
 
 ---
 
@@ -71,7 +71,7 @@
 | 地域 | 状态 |
 |---|---|
 | **Alpes-Maritimes arrêté n° 2023-360** | ✅ 经 CE 474297 详述（日期、内容、périmètre、时长） |
-| **Deux-Sèvres / Vienne arrêtés（2023-03）** | ✅ 经 TA Poitiers 裁定说明 |
+| **Deux-Sèvres / Vienne arrêtés（2023-03）** | ✅ 经 TA（TA：tribunal administratif，行政法院，一审级）Poitiers 裁定说明 |
 | **Paris（préfecture de police）** | ⚠ **仅见 RAA 目录**：arrêté n° **2019-00809**（RAA 75-2019-343）、**2019-00766**、**2021-00320**（75-2021-164）、**2021-00358**（75-2021-190）、**2021-00403**（75-2021-215）。**条文正文（périmètre、durée、motifs）全部未取**（PDF） |
 | **Corse（2022 后）** | ❌ **未找到可核实材料**。未取得任何科西嘉省长 arrêté 或 RAA 条目 |
 | **Guadeloupe / 海外省（2021 couvre-feu）** | ❌ **未找到可核实材料**。`guadeloupe.gouv.fr` fetch 失败；RAA Spécial 971-2021-296 的 PDF 链接可见但未取，且其中一份是「禁止以包装形式销售燃料」，**不是 couvre-feu** |
@@ -85,16 +85,16 @@
 
 | 对象 | 状态 |
 |---|---|
-| **IGPN 2024 年度报告** | ✅ **一手核实**（`igpn2024.pdf` 已下载并提取）。取得：saisines 2016-2024 全序列、usage de la force 2014-2024 全序列、blessures graves/décès 的情境分类 |
+| **IGPN 2024 年度报告** | ✅ **一手核实**（`igpn2024.pdf` 已下载并提取）。取得：saisines（saisine：向独立机关或司法机关提出的申诉／受理请求，此处指 IGPN 受理的申诉数）2016-2024 全序列、usage de la force 2014-2024 全序列、blessures graves/décès 的情境分类 |
 | **IGPN 2019 / 2022 / 2023 报告** | ⚠ **未取**（数字来自 2024 年报的回顾 + 媒体） |
-| **IGPN 2024 报告的「garde à vue 受伤」段** | ⚠ **PDF 编码 mojibake**，总数未能完整取得 |
+| **IGPN 2024 报告的「garde à vue（garde à vue：警方拘留，侦查期间的羁押，与正式逮捕／临时羁押不同）受伤」段** | ⚠ **PDF 编码 mojibake**，总数未能完整取得 |
 | **Défenseur des droits 2025 年度报告** | ✅ **一手核实**（`ddd2025.pdf`，15 MB，已提取）。取得：**2025-129**（高中占领案全体员工被逮捕 → 「manque de discernement」+ 侵害表达与集会自由）；对 **Fraisse/CEDH** 判决的记载；**RIO 出现 53 次**；**CPT** 关于 RIO 可见性与「重新审视中间武力武器」的建议 |
 | **DDD 2020-131（框架决定）** | ⚠ **仍为摘要**。关键句已得（「enquêtes ne peuvent aboutir faute de pouvoir identifier les agents … porteurs de casque」），但**全文未取** |
 | **DDD 2019-246 / 2021-183 / 2021-265 / 2021-288** | ⚠ **仍为摘要** |
 | **DDD Avis 20-08（2020-11-30）对 SNMO 的意见** | ⚠ **仍为摘要** |
 | **DDD 2017-12 报告** | ⚠ **仍仅标题** |
 | **AN 调查委员会报告 n° 3786** | ✅ **PDF 已下载并提取**（`an3786.pdf`）。正式名称：**«Rapport fait au nom de la commission d'enquête relative à l'état des lieux, la déontologie, les pratiques et les doctrines de maintien de l'ordre»**，président **Jean-Michel Fauvergue**，rapporteur **Jérôme Lambert**，2021-01-20 登记。⚠ **要点未逐条提取** |
-| **Sénat commission d'enquête état d'urgence（2016）** | ❌ **未核实** |
+| **Sénat commission d'enquête état d'urgence**（紧急状态：1955 年法确立的非常法制，由部长会议法令宣告，可指定居所、关闭集会场所）**（2016）** | ❌ **未核实** |
 | **CEDH 中法国因 maintien de l'ordre 被判违反 art. 3** | ❌ **未核实**（HUDOC 403）。**但已知**：Fraisse 案是 **art. 2**，Auray 案是 **art. 11 + art. 2 P4**，**均非 art. 3** |
 
 ---
@@ -142,7 +142,7 @@
 
 ---
 
-## 9. 2026-10-17 参与者调查的缺口（并入自 `事件材料/france-2026-10-17-participants.md` §7）
+## 9. 2026-10-17 参与者调查的缺口（并入自已移出仓库的底稿 `事件材料/france-2026-10-17-participants.md` §7，可用 `git show 9d1b4db:事件材料/france-2026-10-17-participants.md` 取回）
 
 **调查对象**：17 日被捕者的地理来源、社会构成、组织归属。
 **核心困难**：法国官方从不公布被捕者住址分布。
@@ -154,7 +154,7 @@
 | **P1** | **「住巴黎」之外的居民地细分（郊区／外省）** | **完全没有** | 官方数据只回答"是不是巴黎居民"。要区分 `banlieue` 与 `province`，只能靠庭审 `domicile` 字段或调查委员会 |
 | **P1** | **成年／未成年拆分的内部矛盾** | **未解释** | 557 上存在 381/151+25 与 407/130+20 两套互斥拆分。⚠️ 2026-10-19 核查后**「433 成年」已确认无原始出处并撤下**，此处不再作为缺口 |
 | **P1** | **被捕者国籍／居留状况** | **无数据** | 2023 年先例：Darmanin 在参议院听证口头给出「非法国籍 10%」（该数字当年即受质疑） |
-| **P2** | **comparution immédiate 判决中的 `domicile` 字段** | **未取得** | 需旁听或检索巴黎、博比尼、克雷泰伊、默伦、埃夫里各法院 |
+| **P2** | **comparution immédiate**（立即出庭：检察官认为案情已可审判时，将被告直接送轻罪法庭当日审理的快速程序）**判决中的 `domicile` 字段** | **未取得** | 需旁听或检索巴黎、博比尼、克雷泰伊、默伦、埃夫里各法院 |
 | **P2** | **A 层（07:00 媒体楼 / 桑特监狱）涉案人员身份** | **仅有规模估计** | CNews 案当场 21 人（后续累计 25 人 GAV）、桑特监狱案 4 人 GAV 的起诉书 |
 | **P3** | **「部分 black bloc 来自国外」** | **单一来源**（TF1 一句） | 需 DGSI／警方通报或起诉书国籍字段。**不得升格使用** |
 | **P3** | **09-30 与 10-16 `renseignement territorial` note 全文** | **未公开** | 与 §1 同一缺口；路径相同 |

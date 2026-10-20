@@ -31,7 +31,7 @@
 
 | 日期 | 事件 | 来源 |
 |---|---|---|
-| 1935-10-23 | décret-loi 建立示威事前申报制；art. 1→CSI L211-1，art. 2→L211-2，art. 2 bis→L211-3，art. 3→L211-4 | [核实报告 §L3-1](file:///C:/WorkSpace/调查研究/法律研究/L3-L4_法国公法条文核实报告.md) |
+| 1935-10-23 | décret-loi 建立示威事前申报制；art. 1→CSI L211-1，art. 2→L211-2，art. 2 bis→L211-3，art. 3→L211-4 | [核实报告 §L3-1](../法律研究/L3-L4_法国公法条文核实报告.md) |
 | 1955-04-03 | loi 55-385 relative à l'état d'urgence；art. 1 两项触发要件 | [Loi 55-385 art. 1](https://juriblio.fr/lois/loi-no-55-385-du-3-avril-1955/134913078/titre-ier/article-1) |
 | 2005-11-08 | décret 2005-1386 在本土全境宣布紧急状态（2005 年郊区骚乱） | [Légifrance JORF](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000263710) |
 | 2005-11-18 | loi 2005-1425 延长 3 个月 | [Sénat dossier](https://www.senat.fr/dossier-legislatif/tc/ana_pjl05-082.html) |
