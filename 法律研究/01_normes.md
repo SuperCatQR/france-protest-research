@@ -32,7 +32,7 @@
 | 事中 | CP（CP：Code pénal，刑法典） | **431-9-1** | **蒙面**（无正当理由）→ 1 年 + 15 000 € | ✅ CC 2019-780 DC pt 27 |
 | 事中 | CP | **431-10** | 携带武器/危险物品、投掷投射物 → 3 年 + 45 000 € | ✅ Sénat 法案文本 |
 | 事中 | CP | **431-3** | **可被重新定性为 attroupement** → 触发两次 sommation | ✅ 逐字 |
-| **事后** | CP | **R644-4** | 参加**依 L211-4 被禁**的示威 → 4 级违禁罪，**135 €** | ✅ CE 441257 pt 14；487984 pt 6-8 |
+| **事后** | CP | **R644-4** | 参加**依 L211-4 被禁**的示威 → 4 级违禁罪，**135 €** | ✅ CE（CE：Conseil d'État，最高行政法院，行政审判终审级）441257 pt 14；487984 pt 6-8 |
 | 事后 | CPP | 138, 3° bis | contrôle judiciaire 可附加「禁止在指定地点参加示威」 | ✅ CC 2019-780 DC pt 34 |
 | 事后 | CSI | **L211-15 / L211-15-4** | **⚠ 重大更正**：这两条的适用对象是 **`rassemblement mentionné à l'article L. 211-5`（非法音乐集会／free party）**，**不覆盖普通游行示威**。组织 2 年 + 30 000 €；参加 6 个月 + 7 500 €（AFD 500 €）。**普通示威的刑度未变**：组织仍是 CP 431-9（6 个月 + 7 500 €），参加被禁示威仍是 CP R644-4（135 €） | ✅ 条文经 juriblio 逐字核（2026-08-20 生效整合版）；✅ CC 2026-915 DC pt 85-92（均合宪） |
 
@@ -97,7 +97,7 @@
 |---|---|---|---|
 | **（无载体）** | — | **DDD（DDD：Défenseur des droits，权利捍卫者，宪法第 71-1 条设立的独立机关）2017-12 专题报告**：该技术（「encagement, nasse, ou kettling」）**「ne fait pas partie des enseignements officiels et n'a pas de base légale」**，效果是「priver plusieurs personnes de leur **liberté de se mouvoir**」 | ❌ **DDD 认定无法源基础**（2017） |
 | 巴黎警察局的立场 | — | 「les nasses, en tant que technique d'**interpellation indiscriminée**, ne seraient aujourd'hui plus pratiquées」→ 已改为「**encerclement** aux fins d'immobilisation ou pour isoler une « nébuleuse »」 | ⚠ **话语层面的改名**（同报告记载） |
-| ~~SNMO v.1 point 3.1.4~~（2020-09-16） | circulaire（通函：部长发出的内部指示；原则上不可诉，但具强制性者可受越权之诉审查）附件 | 只说「il peut être utile d'encercler」 | ❌ **2021-06-10 被 CE（CE：Conseil d'État，最高行政法院，行政审判终审级）444849 撤销** |
+| ~~SNMO v.1 point 3.1.4~~（2020-09-16） | circulaire（通函：部长发出的内部指示；原则上不可诉，但具强制性者可受越权之诉审查）附件 | 只说「il peut être utile d'encercler」 | ❌ **2021-06-10 被 CE 444849 撤销** |
 | **SNMO v.2 point 3.1.4**（2021-12-15，NOR INTK2137104J） | circulaire 附件 | 限「**violences graves et imminentes**」；**必经出口点**；限时；须沟通；须不断重估 | ✅ **2023-12-29 经 CE 461513 维持合法** |
 | 附随限制（CE 461513） | — | ① 须为「**侵入性最小的手段**」（pt 12）；② **出口点不得用于 CPP 78-2 之外的身份证检查**（pt 14） | ✅ 判决原文 |
 | 宪法层 | — | CC 2020-889 QPC（QPC：question prioritaire de constitutionnalité，合宪性优先问题，诉讼中由当事人提出、经最高行政法院或最高法院移送宪法委员会）以「该条只确认一般使命」**回避实体审查** | ⚠ 未表态 |

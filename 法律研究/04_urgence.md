@@ -1,4 +1,4 @@
-# 04 · état d'urgence（2015-2017）与卫生紧急状态（2020-2021）专章
+# 04 · état d'urgence（紧急状态：1955 年法确立的非常法制，由部长会议法令宣告，可指定居所、关闭集会场所；与「卫生紧急状态」是两个制度，法源、宣告主体、措施、司法审查入口均不同）（2015-2017）与卫生紧急状态（法源为 loi 2020-290 与 CSS L3131-15，由法律直接宣告）（2020-2021）专章
 
 **法律状态截止日：2026-10-19**｜**全部条目均取自判决原文（ArianeWeb 直取）**
 
@@ -6,12 +6,12 @@
 
 ## 第一章 · état d'urgence（loi n° 55-385 du 3 avril 1955）
 
-### 1.1 规范框架（据 CE 394990 逐字引述）
+### 1.1 规范框架（据 CE（CE：Conseil d'État，最高行政法院，行政审判终审级）394990 逐字引述）
 
 | 条 | 原文要点 | 效果 |
 |---|---|---|
 | **art. 1er** | « L'état d'urgence peut être déclaré sur tout ou partie du territoire métropolitain, des départements d'outre-mer, des collectivités d'outre-mer régies par l'article 74 de la Constitution et **en Nouvelle-Calédonie**, soit en cas de **péril imminent résultant d'atteintes graves à l'ordre public**, soit en cas d'événements présentant, par leur nature et leur gravité, le caractère de **calamité publique** » | 两个触发要件 |
-| **art. 2** | 由 **décret en Conseil des ministres** 宣告，须确定适用的领土范围；**超过 12 日须以法律延长** | 议会保留 |
+| **art. 2** | 由 **décret（政府法令：总理或部长会议作出的行政规范，位阶低于法律、高于 arrêté）en Conseil des ministres** 宣告，须确定适用的领土范围；**超过 12 日须以法律延长** | 议会保留 |
 | **art. 6**（2015-11-20 法修订后） | 内政部长可对「有严肃理由认为其行为构成对安全与公共秩序威胁」的人**指定居所（assignation à résidence）**；可附加：每日最多 **3 次**到警局报到、交出护照、在**每 24 小时不超过 12 小时**的时段内不得离开住所、禁止与特定人联系 | 核心措施；注意「12 小时」上限 |
 | **art. 14-1**（2015-11-20 法新增） | 除 art. 13 的刑罚外，依本法采取的措施「**受行政法官依 CJA 第五卷（即 référé）的监督**」 | **司法审查的法定入口** |
 
@@ -30,20 +30,20 @@
 
 > **地域分层已可核实**：本土 / 科西嘉 / 海外省在 décret 层面被**分别列举**——这正是阶段零要求「科西嘉、海外省单列」的法源依据。
 
-### 1.2bis CEDH art. 15 克减（已核实）
+### 1.2bis CEDH（CEDH：Cour européenne des droits de l'homme，欧洲人权法院，斯特拉斯堡）art. 15 克减（已核实）
 
 - **2015 巴黎恐袭后：确有克减。** Note verbale, Permanent Representation of France, **dated 2015-11-24, registered 2015-11-24**。援引 1955-04-03 法 55-385、décrets 2015-1475/1476/1478（11-14）、2015-1493/1494（11-18）、loi 2015-1501（11-20）。**未指明克减的具体条款。**
 - ⚠ **不可混用**：C.N.408.2017 是法国依 **ICCPR 第 4 条**（2015-11-23）提交的**另一份**通知，**不是** CEDH art. 15 的。两者是不同条约体系。
 - **2020 COVID：法国未克减 art. 15，亦未提具任何 réserve。** 条约办公室名单仅 10 国（Albania, Armenia, Estonia, Georgia, Latvia×3, North Macedonia, Moldova×2, Romania, San Marino, Serbia）。法理依据是**普通限制条款**（art. 11 § 2 保护健康等）。**「保留」（réserve）与「克减」（dérogation）是两种文书，不可混。**
 
-### 1.3 判例：CE, Section, 11 décembre 2015, n° 394990（+395009 为同日 QPC 移送）
+### 1.3 判例：CE, Section, 11 décembre 2015, n° 394990（+395009 为同日 QPC（QPC：question prioritaire de constitutionnalité，合宪性优先问题，诉讼中由当事人提出、经最高行政法院或最高法院移送宪法委员会）移送）
 
 | 项 | 内容 |
 |---|---|
-| 事实 | 内政部长 2015-11-25 arrêté 将 M. B. 指定居于 Rennes 至 2015-12-12，每日 3 次报到（9/14/19 时），20 时至次日 6 时不得外出，离开须经 préfet 书面许可 |
+| 事实 | 内政部长 2015-11-25 arrêté（行政长官决定，省长、市长、部长均可作出）将 M. B. 指定居于 Rennes 至 2015-12-12，每日 3 次报到（9/14/19 时），20 时至次日 6 时不得外出，离开须经 préfet 书面许可 |
 | 争点 | ① référé 的 urgence 条件如何认定；② COP21 语境下的比例 |
 | **要旨 1（关键）** | **「une décision prononçant l'assignation à résidence ... porte, en principe et par elle-même, sauf à ce que l'administration fasse valoir des circonstances particulières, une atteinte grave et immédiate ... de nature à créer une situation d'urgence」**（pt 10）——即 **urgence 原则上推定成立**，举证责任转向行政机关 |
-| 要旨 2 | 一审（TA Rennes, ord. n° 1505397, 2015-11-30）否认 urgence 构成**法律错误（erreur de droit）**，予以撤销（pt 11） |
+| 要旨 2 | 一审（TA（TA：tribunal administratif，行政法院，一审级）Rennes, ord. n° 1505397, 2015-11-30）否认 urgence 构成**法律错误（erreur de droit）**，予以撤销（pt 11） |
 | 要旨 3 | 但**实体上驳回**：申请人在热那亚（2015-05-03）因毁损、抗拒、伤害公职人员被追诉；2015-10 在 Pont-de-Buis 参加有毁损与侵入企图的集会；部长提交的「**notes blanches**」经对席辩论且未被认真反驳，**可作为行政法官的考量依据**（pt 19） |
 | 要旨 4 | 行政法官须审查：行政机关在「威胁认定」与「措施方式确定」两个层面是否已作必要调和（pt 18） |
 | 终局性 | **CE Section 判决，终局** |
@@ -73,7 +73,7 @@
 
 **两点关键限定**：
 1. **art. 8 管的是 `réunions`（场所内的集会），不是 `manifestations sur la voie publique`。** CC 在 **pt 5 明确**：「les dispositions contestées **n'ont ni pour objet ni pour effet de régir les conditions dans lesquelles sont interdites les manifestations sur la voie publique**」。
-   → **街头示威禁令的法源仍是 CSI L211-4（普通法）**。这个区分极重要。
+   → **街头示威禁令的法源仍是 CSI（CSI：Code de la sécurité intérieure，国内安全法典）L211-4（普通法）**。这个区分极重要。
 2. **审查标准有两个**：对**立法者**是「manifestement déséquilibrée」（宽松）；对**具体措施**是「adaptée, nécessaire et proportionnée」（严格）。**不可混用。**
 
 ---
@@ -118,7 +118,7 @@
 | **要旨 1（核心，pt 16）** | 行政机关**把授权程序叠加在申报程序之上**：在 préfet 未作出决定期间，「**la manifestation demeure en principe interdite**」，使 pt 14 所述机制**失去对象**；且**未规定任何期限**，致「**un recours utile ne soit assuré avant la date de la manifestation**」 |
 | **要旨 2** | 因此存在 **doute sérieux**（L521-1）→ **暂停** I 与 II bis 对须申报示威的适用（pt 17-18） |
 | **要旨 3** | 但 **>5 000 人禁令（art. 3 V）仍属正当**，驳回该项请求（pt 19-20）——理由是 HCSP 2020-06-17 意见与 Santé publique France 的流行病学数据 |
-| 附带确认 | **CP R644-4**：参加依 CSI L211-4 被禁的示威 = 4 级违警罪、**135 €**；且「tout rassemblement ... susceptible de troubler l'ordre public constitue un attroupement au sens de l'article 431-3 du code pénal」（pt 14） |
+| 附带确认 | **CP（CP：Code pénal，刑法典）R644-4**：参加依 CSI L211-4 被禁的示威 = 4 级违警罪、**135 €**；且「tout rassemblement ... susceptible de troubler l'ordre public constitue un attroupement au sens de l'article 431-3 du code pénal」（pt 14） |
 | 终局性 | référé 裁定 |
 | 来源 | [ArianeWeb](https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2020-07-06/441257) ✅ 全文 |
 
